@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Domine&family=Ibarra+Real+Nova:wght@500&family=Lato:wght@300&family=Oswald&family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500&family=Domine&family=Ibarra+Real+Nova:wght@500&family=Lato:wght@300&family=Oswald&family=Roboto+Slab:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -6,15 +6,15 @@
     border: none;
 }
 body {
-    font-family: Roboto-slab, sans-serif;
+    font-family: Cormorant SC, sans-serif;
     font-weight: 300;
-    color:#daa520;
+    color:#2f4f4f;
 }
 
 /* heading and logo */
 
 h1, h2 {
-    font-family:Roboto-slab, sans-serif;
+    font-family:Cormorant SC, sans-serif;
     text-transform: none;
     letter-spacing: 3px;
     color: #2f4f4f;
@@ -49,10 +49,18 @@ line-height: 75px;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #daa520;
+    border-bottom: 1px solid #2f4f4f;
 
 }
 
 .active {
-    border-bottom: 1px solid #daa520;
+    border-bottom: 1px solid #2f4f4f;
+}
+
+/* hero image */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.jpg')
 }
