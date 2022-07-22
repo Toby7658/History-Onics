@@ -10,3 +10,17 @@ body {
     font-weight: 300;
     color: goldenrod;
 }
+
+/* heading and logo */
+
+h1, h2 {
+    font-family:Roboto-slab, sans-serif;
+    text-transform: none;
+    letter-spacing: 3px;
+    color: #2f4f4f;
+}
+
+#logo {
+float: left;
+font-size: 300%;
+}
