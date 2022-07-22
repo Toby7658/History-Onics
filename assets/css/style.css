@@ -59,8 +59,31 @@ line-height: 75px;
 
 /* hero image */
 
-#hero-image {
-    height: 600px;
+#hero-outer {
+    height: 450px;
     width: 100%;
-    background: url('../images/hero-image.jpg')
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 450px;
+    width: 100%;
+    background: url('../images/hero-image.jpeg') no-repeat center center;
+
+    /* animates zoom effect on loading image */
+animation-name: hero-zoom;
+animation-duration: 5s;
+animation-fill-mode: forwards;
+}
+
+
+
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from {
+transform: 1;
+    }
+    to {
+transform: 1.1;
+    }
 }
