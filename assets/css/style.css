@@ -5,35 +5,38 @@
     padding: 0;
     border: none;
 }
+
 body {
     font-family: Cormorant SC, sans-serif;
     font-weight: 300;
-    color:#2f4f4f;
+    color: #2f4f4f;
 }
 
 /* heading and logo */
 
-h1, h2 {
-    font-family:Cormorant SC, sans-serif;
+h1,
+h2 {
+    font-family: Cormorant SC, sans-serif;
     text-transform: none;
     letter-spacing: 3px;
     color: #2f4f4f;
 }
 
 #logo {
-float: left;
-font-size: 300%;
+    float: left;
+    font-size: 300%;
 }
 
 /* navigation links */
 
 #menu {
-font-size: 110%;
-letter-spacing: 3px;
+    font-size: 110%;
+    letter-spacing: 3px;
 }
 
-#menu, #logo {
-line-height: 75px;
+#menu,
+#logo {
+    line-height: 75px;
 
 }
 
@@ -71,17 +74,17 @@ line-height: 75px;
     background: url('../images/hero-image.jpeg') no-repeat center center;
 
     /* animates zoom effect on loading image */
-animation-name: hero-zoom;
-animation-duration: 5s;
-animation-fill-mode: forwards;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
 
 /* creates the level of zoom for hero image */
 @keyframes hero-zoom {
-    from {
-transform: 1;
+    from{
+        transform: scale(1);
     }
-    to {
-transform: 1.1;
+    to{
+        transform: scale(1.1);
     }
 }
