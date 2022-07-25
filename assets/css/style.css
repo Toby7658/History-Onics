@@ -137,9 +137,7 @@ body {
     text-align: center;
     border: 2px solid #f1f1f1;
     float: left;
-    box-sizing: border-box;
-    color: black;
-    
+    box-sizing: border-box;    
 }
 
 #connacht {
@@ -155,7 +153,6 @@ body {
     border: 2px solid #f1f1f1;
     float: left;
     box-sizing: border-box;
-    color: black;
 }
 
 #leinster {
@@ -171,7 +168,6 @@ body {
     border: 2px solid #f1f1f1;
     float: left;
     box-sizing: border-box;
-    color: black;
 }
 
 #ulster {
@@ -187,11 +183,10 @@ body {
     border: 2px solid #f1f1f1;
     float: left;
     box-sizing: border-box;
-    color: black;
 }
 
-#locations h2, h3 {
-    color: #f1f1f1;
+.whitetext{
+    color: whitesmoke;
 }
 
 #stroll {
