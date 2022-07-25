@@ -97,7 +97,7 @@ body {
 /* hero image */
 
 #hero-outer {
-    height: 450px;
+    height: 300px;
     width: 100%;
     overflow: hidden;
 }
@@ -134,14 +134,26 @@ body {
 }
 
 #visit div {
-    color: #fafafa;
-    background-color: #2f4f4f;
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, .6);
     width: 25%;
     height: 300px;
     float: left;
-    padding: 30px 0, 0, 10px;
+    padding: 20px 0, 0, 10px;
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
-    opacity: 0.6;
+    opacity: 0.8;
+}
+
+#visit h2 {
+    font-weight: bold;
+    font-size: xx-large;
+    color: black;
+}
+
+#stroll {
+    height: 300px;
+    text-align: center;
+    padding: 30px;
 }
