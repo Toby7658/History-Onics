@@ -14,8 +14,7 @@ body {
 
 /* heading and logo */
 
-h1,
-h2 {
+h1, h2 {
     font-family: Cormorant SC, sans-serif;
     text-transform: none;
     letter-spacing: 3px;
@@ -29,10 +28,6 @@ h2 {
     margin-right: 38%;
 }
 
-/* social media icons placed at top right */
-
-
-
 /* navigation links */
 
 body {
@@ -42,16 +37,16 @@ body {
   
 /* The Menubar menu */
 .sidebar {
-    height: 30%; /* 50% Full-height */
-    width: 0; /* 0 width */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Stay on top */
+    height: 30%; 
+    width: 0; 
+    position: fixed; 
+    z-index: 1;
     top: 0;
     left: 0;
-    background-color: rgba(5, 78, 73, 0.581); /* color */
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 60px; /* Place content 50px from the top */
-    transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+    background-color: rgba(5, 78, 73, 0.581); 
+    overflow-x: hidden; 
+    padding-top: 60px; 
+    transition: 0.5s; 
   }
   
   /* The Menubar links */
@@ -103,27 +98,37 @@ body {
 }
 
 #hero-image {
-    height: 450px;
+    height: 500px;
     width: 100%;
     background: url('../images/hero-image.jpeg') no-repeat center center;
 
 /* animates zoom effect on loading image */
     animation-name: hero-zoom;
     animation-duration: 5s;
-    animation-fill-mode: forwards;
+    animation-fill-mode:backwards;
 }
 
 /* creates the level of zoom for hero image */
 @keyframes hero-zoom {
     from{
-        transform: scale(1);
+        transform: scale(1.1);
     }
     to{
-        transform: scale(1.1);
+        transform: scale(1);
     }
 }
 
-/* Visit provences slideshow */
+/* central body text */
+
+#stroll {
+    height: 300px;
+    text-align: center;
+    top: 30px;
+    padding: 30px;
+}
+
+
+/* Visit provence slideshow */
 
 #munster {
     background-image: url('../images/quin-image.jpg');
@@ -189,10 +194,27 @@ body {
     color: whitesmoke;
 }
 
-#stroll {
-    height: 200px;
-    text-align: center;
-    top: 30px;
-    padding: 30px;
+/* footer */
+
+#footer {
+height: 300px;
+
+}
+
+.social-media {
+text-align: center;
+
+}
+
+.social-media > li {
+    display: inline;
+
+}
+
+.social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #2f4f4f;
 }
 
