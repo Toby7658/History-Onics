@@ -126,7 +126,7 @@ body {
 /* Visit provences slideshow */
 
 #munster {
-    background-image: url('../images/munster-image.jpg');
+    background-image: url('../images/quin-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -175,7 +175,7 @@ body {
 }
 
 #ulster {
-    background-image: url('../images/ulster-image-causeway.jpg');
+    background-image: url('../images/causeway-images-night.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -190,10 +190,8 @@ body {
     color: black;
 }
 
-.h2 {
-    text-align: center;
-    color: #000;
-    
+#locations h2, h3 {
+    color: #f1f1f1;
 }
 
 #stroll {
