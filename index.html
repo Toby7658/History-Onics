@@ -9,7 +9,7 @@
     <meta name="keywords" content="History, Tours, Walking, Ireland">
 
     <link rel="stylesheet" href="assets/css/style.css">
-
+        
     <title>HistoryOnics</title>
 </head>
 
@@ -18,19 +18,28 @@
         <a href="index.html">
             <h1 id="logo">HistoryOnics</h1>
         </a>
-        <nav>
-            <ul id="menu">
-                <li>
-                    <a href="#">Sign Up</a>
-                </li>
-                <li>
-                    <a href="#">Places To Visit</a>
-                </li>
-                <li>
-                    <a href="index.html" class="active">Home</a>
-                </li>
-            </ul>
-        </nav>
+        <div id="mySidebar" class="sidebar">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
+            <a href="#">Home</a>
+            <a href="#">Places To Visit</a>
+            <a href="#">About Us</a>
+            <a href="#">Contact</a>
+          </div>
+          
+          
+            <button class="openbtn" onclick="openNav()">&#9776;</button>  
+          
+          <script>
+            function openNav() {
+              document.getElementById("mySidebar").style.width = "250px";
+            }
+            
+            function closeNav() {
+              document.getElementById("mySidebar").style.width = "0";
+            }
+            </script>
+             
+             
     </header>
     <section id="hero-outer">
         <div id="hero-image">
