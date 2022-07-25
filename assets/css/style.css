@@ -124,32 +124,66 @@ body {
 }
 
 /* Visit provences slideshow */
-#visit {
-    background-image: url('../images/hero-image_grey.jpg');
+
+#munster {
+    background-image: url('../images/munster-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width: 100%;
-    overflow: hidden;
-}
-
-#visit div {
-    color: whitesmoke;
     background-color: rgba(0, 0, 0, .6);
     width: 25%;
     height: 300px;
-    float: left;
-    padding: 20px 0, 0, 10px;
+    overflow: hidden;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #f1f1f1;
+    float: left;
     box-sizing: border-box;
-    opacity: 0.8;
+    
 }
 
-#visit h2 {
-    font-weight: bold;
-    font-size: xx-large;
-    color: black;
+#connacht {
+    background-image: url('../images/galway-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, .6);
+    width: 25%;
+    height: 300px;
+    overflow: hidden;
+    text-align: center;
+    border: 2px solid #f1f1f1;
+    float: left;
+    box-sizing: border-box;
+}
+
+#leinster {
+    background-image: url('../images/dublin-image.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, .6);
+    width: 25%;
+    height: 300px;
+    overflow: hidden;
+    text-align: center;
+    border: 2px solid #f1f1f1;
+    float: left;
+    box-sizing: border-box;
+}
+
+#ulster {
+    background-image: url('../images/ulster-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, .6);
+    width: 25%;
+    height: 300px;
+    overflow: hidden;
+    text-align: center;
+    border: 2px solid #f1f1f1;
+    float: left;
+    box-sizing: border-box;
 }
 
 #stroll {
