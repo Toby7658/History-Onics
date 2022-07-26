@@ -197,45 +197,42 @@ body {
 
 /* footer */
 
-#footer {
+footer {
 height: 300px;
 
 }
 
 .social-media {
-text-align: center;
+    text-align: center;
+    font-size: 160%;
+    padding: 5%;
+    
 
 }
 
 .social-media > li {
     display: inline;
-}
+    margin: 5%;
+  }
 
-/* contact page structure */
-body {
-    font-family: Cormorant SC, sans-serif;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-input[type=text], select, textarea {
+input, textarea {
   width: 100%;
-  padding: 12px;
+  padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   resize: vertical;
 }
+
+
 
 input[type=submit] {
   background-color: #04AA6D;
   color: white;
   padding: 12px 20px;
-  border: none
+  border: none;
   border-radius: 4px;
   cursor: pointer;
 }
@@ -246,7 +243,6 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: rgb(226, 238, 204);
   padding-top: 100px;
   padding-bottom: 100px;
   margin-left: 300px;
