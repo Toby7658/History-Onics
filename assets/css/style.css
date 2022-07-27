@@ -44,7 +44,7 @@ h1, h2 {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: rgba(5, 78, 73, 0.581); 
+    background-color:  #2f4f4f;
     overflow-x: hidden; 
     padding-top: 60px; 
     transition: 0.5s; 
@@ -79,16 +79,17 @@ h1, h2 {
   .openbtn {
     font-size: 20px;
     cursor: pointer;
-    background-color: #2f4f4f;
-    color: #fafcfc;
+    color:  #2f4f4f;    
     padding: 15px 20px;
-    border: none;
+    background-color: rgb(226, 238, 204);
     position: absolute;
     left: 0;
+    font-weight: bold;
   }
   
   .openbtn:hover {
-    background-color: rgb(68, 68, 68);
+    background-color:  #2f4f4f;
+    color: whitesmoke;
   }
 
 /* hero image */
@@ -262,12 +263,11 @@ input[type=submit]:hover {
 
 /* munster video gallery */
 
-.munstergall {
-  
-  margin: 5%;
+#visitblock {
+  margin-left: auto;
+  padding-top: 50px;
   display: block;
-  margin-bottom: 5px;
-  width: 100%;
+  width: 95%;
   height: auto;
   overflow: hidden;
   font-weight: bold;
@@ -279,15 +279,21 @@ input[type=submit]:hover {
  
   float: left;
   padding-top: 50px;
-  padding-bottom: 25px;
+  padding-bottom: 50px;
   margin: 5%;
 }
 
-
-#visit-outer {
-  
+.column {
+  float: left;
+  width: 30%;
+  height: auto;
+  text-align: justify;
+  margin-bottom: 50px;
 }
 
-#visit-image {
-  
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
