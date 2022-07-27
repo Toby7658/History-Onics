@@ -16,57 +16,64 @@
 
 <body>
     <header>
-        <a href="index.html">
-            <h1 id="logo">HistoryOnics</h1>
-        </a>
-        <div id="mySidebar" class="sidebar">
-            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
-            <a href="index.html">Home</a>
-            <a href="#">Places To Visit</a>
-            <a href="#">About Us</a>
-            <a href="contact.html" class="active">Contact</a>
+        <div class="logologo">
+            <a href="index.html">
+
+                <h1 id="logo">HistoryOnics</h1>
+            </a>
+
+            <div id="mySidebar" class="sidebar">
+                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
+                <a href="index.html">Home</a>
+                <a href="#">Places To Visit</a>
+                <a href="#">About Us</a>
+                <a href="contact.html" class="active">Contact</a>
+            </div>
+
+
+            <button class="openbtn" onclick="openNav()">&#9776;</button>
+
+            <script>
+                function openNav() {
+                    document.getElementById("mySidebar").style.width = "250px";
+                }
+
+                function closeNav() {
+                    document.getElementById("mySidebar").style.width = "0";
+                }
+            </script>
         </div>
-
-
-        <button class="openbtn" onclick="openNav()">&#9776;</button>
-
-        <script>
-            function openNav() {
-                document.getElementById("mySidebar").style.width = "250px";
-            }
-
-            function closeNav() {
-                document.getElementById("mySidebar").style.width = "0";
-            }
-        </script>
-
-
-
-<div class="container">
-  <form action="submit.html">
-    
-
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" autofocus>
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname"><br/>
-
-    <label for="email">Email:</label>
-    <input type="email" id="email" name="email">
-
-    <label for="phone">Phone</label>
-    <input type="text" id="phone" name="phone"><br/>
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." rows="15" cols="50"></textarea>
-
-    <input type="submit" value="Submit">
-  </form>
-</div>
-
-
     </header>
+
+
+
+    <div class="content-box">
+    <br>
+    <div class="border-box">
+        <br /><br /><br />
+        <h2>Contact Us</h2><br /><br />
+        <form action="submit.html">
+
+
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="firstname" autofocus required>
+
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" required><br />
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="phone">Phone</label>
+            <input type="tel" id="phone" name="phone"><br />
+
+            <label for="subject">Subject</label>
+            <textarea id="subject" name="subject" placeholder="Write something.." rows="15" cols="50"></textarea>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</div>
 
     <footer>
         <ul class="social-media">
