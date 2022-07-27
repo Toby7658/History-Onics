@@ -260,7 +260,29 @@ input[type=submit]:hover {
   padding: 10px;
 }
 
-/* hero image */
+/* munster video gallery */
+
+.munstergall {
+  
+  margin: 5%;
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  font-weight: bold;
+  font-size: larger;
+}
+
+
+#munplaceslogo {
+ 
+  float: left;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  margin: 5%;
+}
+
 
 #visit-outer {
   
