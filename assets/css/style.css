@@ -206,8 +206,7 @@ height: 150px;
 .social-media {
     text-align: center;
     font-size: 160%;
-    padding: 5%;
-    
+    padding: 5%; 
 
 }
 
@@ -259,4 +258,14 @@ input[type=submit]:hover {
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
+}
+
+/* hero image */
+
+#visit-outer {
+  
+}
+
+#visit-image {
+  
 }
