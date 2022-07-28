@@ -11,10 +11,9 @@ body {
     font-weight: 300;
     color: #2f4f4f;
     background-color: rgb(226, 238, 204);
-
 }
 
-/* heading and logo */
+/* heading and logo */ 
 
 h1, h2 {
     font-family: Cormorant SC, sans-serif;
@@ -31,9 +30,6 @@ h1, h2 {
     margin-right: 38%;
 }
 
-.logologo {
-  height: 50px;
-}
 
   
 /* The Menubar menu */
@@ -128,6 +124,7 @@ h1, h2 {
     text-align: center;
     top: 30px;
     padding: 30px;
+
 }
 
 
@@ -310,4 +307,12 @@ input[type=submit]:hover {
   content: "";
   display: table;
   clear: both;
+}
+
+/* media query */
+
+
+ 
+@media all and (max-width: 480px) { 
+
 }
