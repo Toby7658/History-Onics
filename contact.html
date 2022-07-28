@@ -9,54 +9,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/4d5ee1f52b.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/style.css">
-
     <title>HistoryOnics</title>
+    <script>
+        function openNav() {
+            document.getElementById("mySidebar").style.width = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidebar").style.width = "0";
+        }
+    </script>
 </head>
 
 <body>
     <header>
-        <div class="logologo">
-            <a href="index.html">
-
-                <h1 id="logo">HistoryOnics</h1>
-            </a>
-
-            <div id="mySidebar" class="sidebar">
-                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
-                <a href="index.html">Home</a>
-                <a href="munster.html">Visit Munster</a>
-                <a href="connacht.html">Visit Connacht</a>
-                <a href="leinster.html">Visit Leinster</a>
-                <a href="ulster.html">Visit Ulster</a>
-                <a href="about.html">About Us</a>
-                <a href="contact.html">Contact</a>
-            </div>
-
-
-            <button class="openbtn" onclick="openNav()">&#9776;</button>
-
-            <script>
-                function openNav() {
-                    document.getElementById("mySidebar").style.width = "250px";
-                }
-
-                function closeNav() {
-                    document.getElementById("mySidebar").style.width = "0";
-                }
-            </script>
+        <div id="mySidebar" class="sidebar">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
+            <a href="index.html">Home</a>
+            <a href="munster.html">Visit Munster</a>
+            <a href="connacht.html">Visit Connacht</a>
+            <a href="leinster.html">Visit Leinster</a>
+            <a href="ulster.html">Visit Ulster</a>
+            <a href="about.html">About Us</a>
+            <a href="contact.html">Contact</a>
         </div>
+        
+
+        <button class="openbtn" onclick="openNav()">&#9776;</button>
+
+        <div id="logo">
+            <h1><a href="index.html">HistoryOnics</h1></a>
+        </div>
+        
     </header>
 
 
 
     <div class="contact-box">
-    <br>
-    <div class="border-box">
-        <br /><br /><br />
+        <div class="border-box">
         <h2>Contact Us</h2><br /><br />
         <form action="submit.html">
-
-
             <label for="fname">First Name</label>
             <input type="text" id="fname" name="firstname" autofocus required>
 
@@ -70,39 +62,41 @@
             <input type="tel" id="phone" name="phone"><br />
 
             <label for="subject">Subject</label>
-            <textarea id="subject" name="subject" placeholder="Write something.." rows="15" cols="50"></textarea>
+            <textarea id="subject" name="subject" placeholder="Write something.." rows="10" cols="50"></textarea>
 
             <input type="submit" value="Submit">
         </form>
     </div>
-</div>
+    </div>
 
-    <footer>
-        <ul class="social-media">
-            <li>
-                <a href="https://www.facebook.com/" target="_blank" rel="noopener"
-                    aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
-            </li>
 
-            <li>
-                <a href="https://www.instagram.com/" target="_blank" rel="noopener"
-                    aria-label="Visit our Instagram page (opens in a new tab)"><i
-                        class="fa-brands fa-instagram"></i></a>
-            </li>
+<footer>
+    <ul>
+        <li>
+            <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
+        </li>
 
-            <li>
-                <a href="https://twitter.com/" target="_blank" rel="noopener"
-                    aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a>
-            </li>
+        <li>
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Instagram page (opens in a new tab)"><i
+                    class="fa-brands fa-instagram"></i></a>
+        </li>
 
-            <li>
-                <a href="https://www.youtube.com/" target="_blank" rel="noopener"
-                    aria-label="Visit our Youtube page (opens in a new tab)"><i
-                        class="fa-brands fa-youtube-square"></i></a>
-            </li>
-        </ul>
+        <li>
+            <a href="https://twitter.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a>
+        </li>
 
-    </footer>
+        <li>
+            <a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Youtube page (opens in a new tab)"><i
+                    class="fa-brands fa-youtube-square"></i></a>
+        </li>
+    </ul>
+
+</footer>
+
 </body>
 
 </html>

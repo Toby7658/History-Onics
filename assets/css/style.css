@@ -135,11 +135,10 @@ h1, h2 {
 
 
 /* Visit provence slideshow */
-#container{
+.container{
   position: relative;
   width: 100%;
-  height: auto;
-  background-color: #45a049;
+  height: 300px;
   margin-top: 10px;
 }
 #munster {
@@ -154,7 +153,7 @@ h1, h2 {
     text-align: center;
     border: 2px solid #f1f1f1;
     float: left;
-    box-sizing: border-box;    
+    box-sizing: border-box;  
 }
 
 
@@ -236,18 +235,21 @@ h1, h2 {
 
 /* footer */
 
-
-.social-media {
-  margin-top: 50px ;
-    text-align: center;
-    font-size: 160%;
-    padding: 5%; 
-
+footer{
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+  text-align: center;
+  font-size: x-large;
+  overflow: hidden;
+  
 }
 
-.social-media > li {
+
+footer li {
     display: inline;
-    margin: 5%;
+    margin-left: 5%;
   }
 
   /* contact page structure and layout */
@@ -299,10 +301,9 @@ input[type=submit]:hover {
 /* munster video gallery */
 
 #visitblock {
-  margin-left: auto;
   padding-top: 50px;
   display: block;
-  width: 95%;
+  width: 100%;
   height: auto;
   overflow: hidden;
   font-weight: bold;
@@ -312,10 +313,11 @@ input[type=submit]:hover {
 
 .column {
   float: left;
-  width: 30%;
+  width: 45%;
   height: auto;
   text-align: justify;
   margin-bottom: 50px;
+  margin-left: 50px;
 }
 
 /* Clear floats after the columns */
@@ -356,8 +358,23 @@ input[type=submit]:hover {
       padding-left: 0;
       padding-right: 0;
     }
-   
+    
+    .column {
+      width: 100%;
     }
   
+    }
+  
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 992px) {
+  .column {
+    width: 50%;
+  }
+}
 
+/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 75%;
+  }
 
