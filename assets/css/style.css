@@ -26,16 +26,17 @@ h1, h2 {
 }
 
 #logo {
-  position: absolute;
+  
   width: 100%;
   height: auto;
   font-size: x-large;
   text-align: center;
-  
+  float: left;
 }
 
 #logo a{
   text-decoration: none;
+  color: #2f4f4f;
 }
   
 /* The Menubar menu */
@@ -43,13 +44,14 @@ h1, h2 {
     height: 100%; 
     width: 0; 
     position: fixed; 
-    z-index: 1;
+    z-index: 10;
     top: 0;
     left: 0;
     background-color:  #2f4f4f;
     overflow-x: hidden; 
     padding-top: 60px; 
     transition: 0.5s; 
+    display: inline;
   }
   
   /* The Menubar links */
@@ -97,8 +99,8 @@ h1, h2 {
 /* hero image */
 
 #hero-image {
-    position: absolute;
-    top: 10%;
+    position: relative;
+    top: 60px;
     height: 300px;
     width: 100%;
     background: url('../images/hero-image.jpeg') no-repeat  center;
@@ -124,23 +126,22 @@ h1, h2 {
 /* central body text */
 
 #stroll {
-    position: absolute;
+    position: relative;
     width: 100%;
-    text-align: center;
-    top: 400px;;
-    background-color: red;
+    text-align: center;   
+    margin-top: 70px; 
 }
+
 
 
 /* Visit provence slideshow */
-
-#container {
-width: 100%;
-padding-top: 10%;
-padding-bottom: 10%;
+#container{
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: #45a049;
+  margin-top: 10px;
 }
-
-
 #munster {
     background-image: url('../images/quin-image.jpg');
     background-repeat: no-repeat;
