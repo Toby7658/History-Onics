@@ -6,6 +6,8 @@
     border: none;
 }
 
+/* body layout */
+
 body {
     font-family: Cormorant SC, sans-serif;
     font-weight: 300;
@@ -24,13 +26,17 @@ h1, h2 {
 }
 
 #logo {
-    
-    font-size: 300%;
-    float: right;
-    margin-right: 38%;
+  position: absolute;
+  width: 100%;
+  height: auto;
+  font-size: x-large;
+  text-align: center;
+  
 }
 
-
+#logo a{
+  text-decoration: none;
+}
   
 /* The Menubar menu */
 .sidebar {
@@ -62,7 +68,7 @@ h1, h2 {
     
   }
   
-  /* Position and style the close button (top left corner) */
+  /* Position and style of the close button (top left corner) */
   .sidebar .closebtn {
     position: absolute;
     top: 0;
@@ -90,45 +96,50 @@ h1, h2 {
 
 /* hero image */
 
-#hero-outer {
+#hero-image {
+    position: absolute;
+    top: 10%;
     height: 300px;
     width: 100%;
-    overflow: hidden;
-}
-
-#hero-image {
-    height: 500px;
-    width: 100%;
-    background: url('../images/hero-image.jpeg') no-repeat center center;
+    background: url('../images/hero-image.jpeg') no-repeat  center;
 
 /* animates zoom effect on loading image */
     animation-name: hero-zoom;
-    animation-duration: 5s;
+    animation-duration: 3s;
     animation-fill-mode:backwards;
 }
 
 /* creates the level of zoom for hero image */
 @keyframes hero-zoom {
     from{
-        transform: scale(1.1);
+        transform: scale(1.1);        
     }
     to{
         transform: scale(1);
+        
     }
+    
 }
 
 /* central body text */
 
 #stroll {
-    height: 300px;
+    position: absolute;
+    width: 100%;
     text-align: center;
-    top: 30px;
-    padding: 30px;
-
+    top: 400px;;
+    background-color: red;
 }
 
 
 /* Visit provence slideshow */
+
+#container {
+width: 100%;
+padding-top: 10%;
+padding-bottom: 10%;
+}
+
 
 #munster {
     background-image: url('../images/quin-image.jpg');
@@ -142,14 +153,15 @@ h1, h2 {
     text-align: center;
     border: 2px solid #f1f1f1;
     float: left;
-    box-sizing: border-box;  
-      
+    box-sizing: border-box;    
 }
+
 
 #munster:hover{
   -webkit-filter: grayscale(100%); 
   filter: grayscale(100%);
 }
+
 
 #connacht {
     background-image: url('../images/galway-image.jpg');
@@ -165,10 +177,13 @@ h1, h2 {
     float: left;
     box-sizing: border-box;
 }
+
+
 #connacht:hover{
   -webkit-filter: grayscale(100%); 
   filter: grayscale(100%);
 }
+
 
 #leinster {
     background-image: url('../images/dublin-image.webp');
@@ -184,10 +199,14 @@ h1, h2 {
     float: left;
     box-sizing: border-box;
 }
+
+
 #leinster:hover{
   -webkit-filter: grayscale(100%); 
   filter: grayscale(100%);
 }
+
+
 #ulster {
     background-image: url('../images/causeway-images-night.jpg');
     background-repeat: no-repeat;
@@ -202,10 +221,13 @@ h1, h2 {
     float: left;
     box-sizing: border-box;
 }
+
+
 #ulster:hover{
   -webkit-filter: grayscale(100%); 
   filter: grayscale(100%);
 }
+
 
 .whitetext{
     color: whitesmoke;
@@ -253,13 +275,14 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
-.content-box {
+.contact-box {
   box-sizing: content-box;
-  width: 60%;
-  height: 60%;
+  width: 100%;
+  height: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding: 10px;
+  overflow:auto;
+  
   
 }
 
@@ -286,14 +309,6 @@ input[type=submit]:hover {
 }
 
 
-#munplaceslogo {
- 
-  float: left;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  margin: 5%;
-}
-
 .column {
   float: left;
   width: 30%;
@@ -310,9 +325,38 @@ input[type=submit]:hover {
 }
 
 /* media query */
-
-
  
-@media all and (max-width: 480px) { 
 
-}
+  @media only screen and (max-width: 480px) {
+    body {
+      font-size: 10px;
+      
+    }
+
+    #logo {
+    font-size: large;
+    float: right;
+    }
+
+    #stroll {
+      max-width: 100%;
+      padding: 6px;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      text-align: justify;
+      text-justify: inter-word;
+      
+    }
+
+    .contact-box {
+      width: 100%;
+      padding-left: 0;
+      padding-right: 0;
+    }
+   
+    }
+  
+
+
