@@ -327,6 +327,17 @@ input[type=submit]:hover {
   clear: both;
 }
 
+/* submit page */
+
+#funpage {
+  position: absolute;
+  width: 90%;
+  top: 100px;
+  text-align: center;
+  margin: 50px;
+  
+}
+
 /* media query */
  
 
