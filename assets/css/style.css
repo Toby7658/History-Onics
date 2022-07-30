@@ -129,13 +129,22 @@ h1, h2 {
 
 #stroll {
     position: relative;
-    width: 100%;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
     text-align: center;   
     margin-top: 70px; 
     padding-top: 50px;
     padding-bottom: 50px;
+    
 }
 
+.text {
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+  
+}
 
 
 /* visit provence slideshow */
@@ -379,6 +388,7 @@ text-align: center;
   @media only screen and (max-width: 480px) {
     body {
       font-size: 10px;
+      text-align: justify;
       
     }
 
@@ -389,14 +399,9 @@ text-align: center;
 
     #stroll {
       max-width: 100%;
-      padding: 6px;
-      top: 0;
-      left: 0;
-      bottom: 0;
-      right: 0;
       text-align: justify;
-      text-justify: inter-word;
-      
+      padding-bottom: 0;
+      padding-top: 10px;
     }
 
     .contact-box {
@@ -421,6 +426,26 @@ text-align: center;
       padding: 0;
       text-align: center;
     }
+
+    #logo {
+  
+      width: 100%;
+      height: auto;
+      font-size: small;
+      text-align: center;
+      float:inline-end;
+    }
+
+    #hero-image {
+      animation-name: none;
+    }
+
+    #munster, #connacht, #leinster, #ulster {
+      font-size: 7px;
+    }
+
+    
+  }
   
 /* On screens that are 992px wide or less, go from four columns to two columns */
 @media screen and (max-width: 992px) {
@@ -432,6 +457,8 @@ text-align: center;
 /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
-    width: 75%;
+  width: 75%;
   }
+
 }
+  
