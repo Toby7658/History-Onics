@@ -10,10 +10,10 @@
 /* body layout */
 
 body {
-    font-family: Cormorant SC, sans-serif;
-    font-weight: 300;
+    font-family: Moyers typeface, sans-serif;
     color: #2f4f4f;
     background-color: rgb(226, 238, 204);
+    
     
 }
 
@@ -132,6 +132,8 @@ h1, h2 {
     width: 100%;
     text-align: center;   
     margin-top: 70px; 
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
@@ -236,8 +238,8 @@ h1, h2 {
     color: whitesmoke;
 }
 
-p {
-  text-transform: lowercase;
+.text {
+  text-transform: none;
 }
 
 /* footer */
@@ -313,7 +315,6 @@ input[type=submit]:hover {
   width: 100%;
   height: auto;
   overflow: hidden;
-  font-weight: bold;
   font-size: larger;
 }
 
@@ -338,10 +339,12 @@ input[type=submit]:hover {
 
 #funpage {
   position: absolute;
+  padding-left: 20px;
+  padding-right: 20px;
   width: 90%;
   top: 100px;
   text-align: center;
-  margin: 50px;
+  
   
 }
 
@@ -353,18 +356,15 @@ input[type=submit]:hover {
   text-align: left;
   margin-left: 90px;
   margin-right: 90px;
-  
 }
 
 .hshot {
   padding: 20px;
-  
   text-align: center;
 }
 
 .set {
   padding: 20px;
- 
   text-align: left;
 }
 
@@ -383,7 +383,7 @@ text-align: center;
     }
 
     #logo {
-    font-size: large;
+    font-size: small;
     float: right;
     }
 
@@ -408,7 +408,18 @@ text-align: center;
     .column {
       width: 100%;
     }
+
+    .aboutus {
+      padding-left: 0;
+      padding-right: 0;
+      margin: 10px;
+      padding-bottom: 50px;
+      padding-top: 70px;
+    }
   
+    .hshot {
+      padding: 0;
+      text-align: center;
     }
   
 /* On screens that are 992px wide or less, go from four columns to two columns */
