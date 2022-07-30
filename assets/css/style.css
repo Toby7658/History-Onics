@@ -147,7 +147,7 @@ h1, h2 {
 }
 
 
-/* visit provence slideshow */
+/* visit provence slideshow homepage */
 .container{
   position: relative;
   width: 100%;
@@ -316,15 +316,17 @@ input[type=submit]:hover {
   padding: 10px;
 }
 
-/* munster video gallery */
+/* visit page gallery */
 
 #visitblock {
   padding-top: 50px;
   display: block;
-  width: 100%;
+  width: 90%;
   height: auto;
   overflow: hidden;
   font-size: larger;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 
@@ -338,6 +340,7 @@ input[type=submit]:hover {
 }
 
 /* Clear floats after the columns */
+
 .row:after {
   content: "";
   display: table;
