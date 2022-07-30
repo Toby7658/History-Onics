@@ -66,13 +66,13 @@ h1, h2 {
     transition: 0.3s;
   }
   
-  /* When you mouse over the navigation links, change their color */
+  /* navigation links color change */
   .sidebar a:hover {
     color: #f1f1f1;
     
   }
   
-  /* Position and style of the close button (top left corner) */
+  /* close button on burger menu */
   .sidebar .closebtn {
     position: absolute;
     top: 0;
@@ -148,6 +148,7 @@ h1, h2 {
 
 
 /* visit provence slideshow homepage */
+
 .container{
   position: relative;
   width: 100%;
@@ -304,8 +305,6 @@ input[type=submit]:hover {
   margin-left: auto;
   margin-right: auto;
   overflow:auto;
-  
-  
 }
 
 .border-box {
@@ -364,16 +363,18 @@ input[type=submit]:hover {
 /* about us */
 
 .aboutus {
-  padding: 20px;
+  
+  padding-top: 100px;
   padding-bottom: 100px;
   text-align: left;
   margin-left: 90px;
   margin-right: 90px;
+  
 }
 
 .hshot {
   padding: 20px;
-  text-align: center;
+  
 }
 
 .set {
@@ -381,13 +382,14 @@ input[type=submit]:hover {
   text-align: left;
 }
 
-.aboutus {
-padding-top: 200px;
-text-align: center;
+.meet {
+  text-align: left;
+  padding-left: 70px;
 }
 
 /* media query */
  
+/* max-width: 480px */
 
   @media only screen and (max-width: 480px) {
     body {
@@ -427,12 +429,18 @@ text-align: center;
     }
   
     .hshot {
-      padding: 0;
-      text-align: center;
+      padding-left: 0;
+      padding-right: 0;
+      margin-left: 5%;
+      margin-right: 5%;
+      margin-top: 5%;
+      margin-bottom: 5%;
+      padding-bottom: 0;
+      padding-top: 0;
+      
     }
 
     #logo {
-  
       width: 100%;
       height: auto;
       font-size: small;
@@ -446,22 +454,46 @@ text-align: center;
 
     #munster, #connacht, #leinster, #ulster {
       font-size: 7px;
+      text-align: center;
     }
 
-    
-  }
-  
+    #visitblock  {
+    height: auto;
+
+     }
+
+     .meet {
+     text-align: left;
+     }
+
+    }
+
+ 
 /* On screens that are 992px wide or less, go from four columns to two columns */
 @media screen and (max-width: 992px) {
   .column {
     width: 50%;
   }
+
+  .aboutus {
+    padding-top: 100px;
+
+}
+
+.hshot {
+  text-align: center;
+  width: 100%;
+}
+
+#title {
+  text-align: center;
+}
 }
 
 /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
-  width: 75%;
+  width: 100%;
   }
 
 }
