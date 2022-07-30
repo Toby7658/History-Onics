@@ -4,6 +4,7 @@
     margin: 0px;
     padding: 0px;
     border: none;
+    
 }
 
 /* body layout */
@@ -13,6 +14,7 @@ body {
     font-weight: 300;
     color: #2f4f4f;
     background-color: rgb(226, 238, 204);
+    
 }
 
 /* heading and logo */ 
@@ -134,13 +136,14 @@ h1, h2 {
 
 
 
-/* Visit provence slideshow */
+/* visit provence slideshow */
 .container{
   position: relative;
   width: 100%;
   height: 300px;
   margin-top: 10px;
 }
+
 #munster {
     background-image: url('../images/quin-image.jpg');
     background-repeat: no-repeat;
@@ -231,6 +234,10 @@ h1, h2 {
 
 .whitetext{
     color: whitesmoke;
+}
+
+p {
+  text-transform: lowercase;
 }
 
 /* footer */
@@ -343,7 +350,10 @@ input[type=submit]:hover {
 .aboutus {
   padding: 20px;
   padding-bottom: 100px;
-  text-align: center;
+  text-align: left;
+  margin-left: 90px;
+  margin-right: 90px;
+  
 }
 
 .hshot {
@@ -355,13 +365,12 @@ input[type=submit]:hover {
 .set {
   padding: 20px;
  
-  text-align: center;
+  text-align: left;
 }
 
-.meet {
-  padding: 20px;
-  
-  text-align: center;
+.aboutus {
+padding-top: 200px;
+text-align: center;
 }
 
 /* media query */
