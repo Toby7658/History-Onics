@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 #Table of contents
-- [Head](#Head)
+- [Key Project Goals](#Key Project Goals)
 
 
 
@@ -116,5 +116,5 @@ Happy coding!
 
 
 
-## Head
+## Key Project Goals
 
