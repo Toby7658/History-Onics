@@ -127,7 +127,7 @@ h1, h2 {
 
 /* central body text */
 
-#stroll {
+.stroll {
     position: relative;
     width: 90%;
     padding-left: 5%;
@@ -319,7 +319,7 @@ input[type=submit]:hover {
 /* visit page gallery */
 
 #visitblock {
-  padding-top: 50px;
+  padding-top: 150px;
   display: block;
   width: 95%;
   height: auto;
@@ -410,7 +410,7 @@ input[type=submit]:hover {
     float: right;
     }
 
-    #stroll {
+    .stroll {
       max-width: 100%;
       text-align: justify;
       padding-bottom: 0;
@@ -424,13 +424,13 @@ input[type=submit]:hover {
     }
     
     #visitblock {
+      padding-top: 70px;
       width: 100%;
       height: auto;
       margin: 0;
       }
     
     .column {
-      
       float: left;
       width: 100%;
       height: auto;
@@ -441,9 +441,7 @@ input[type=submit]:hover {
     
    
     .hshot {
-      position: relative;
       align-items: center;
-      
       
     }
 
@@ -466,12 +464,15 @@ input[type=submit]:hover {
 
     #visitblock  {
     width: 100%;
-    
-    
      }
 
+    h1, h2 {
+      
+      text-transform: none;
+      letter-spacing: 1px;
+      
     }
-
+  }
  
 /* On screens that are 992px wide or less, go from four columns to two columns */
 @media screen and (max-width: 992px) {
@@ -480,19 +481,22 @@ input[type=submit]:hover {
     
   }
 
-  .aboutus {
+.aboutus {
     padding-top: 100px;
+    
 
 }
 
 .hshot {
+  
   text-align: center;
-  width: 100%;
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 #title {
   text-align: center;
 }
 }
-
-  
+ 
