@@ -412,7 +412,7 @@ input[type=submit]:hover {
 
     .stroll {
       max-width: 100%;
-      text-align: justify;
+      text-align: center;
       padding-bottom: 0;
       padding-top: 10px;
     }
@@ -425,14 +425,15 @@ input[type=submit]:hover {
     
     #visitblock {
       padding-top: 70px;
-      width: 100%;
+      width: 96%;
       height: auto;
-      margin: 0;
+      margin-right: 2%;
+      margin-left: 2%;
       }
     
     .column {
       float: left;
-      width: 100%;
+      width: 96%;
       height: auto;
       text-align: center;
       margin: 0;
@@ -462,9 +463,7 @@ input[type=submit]:hover {
       text-align: center;
     }
 
-    #visitblock  {
-    width: 100%;
-     }
+
 
     h1, h2 {
       
@@ -483,6 +482,10 @@ input[type=submit]:hover {
 
 .aboutus {
     padding-top: 100px;
+    text-align: center;
+    width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
     
 
 }
