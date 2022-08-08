@@ -38,6 +38,21 @@ h2 {
   color: #2f4f4f;
 }
 
+/* navigation menu */
+#menu {
+  font-size: 90%;
+  letter-spacing: 2px;
+  height: 30px;
+  font-family: "Moyers typeface", "sans-serif";
+  color: #2f4f4f;
+}
+
+#menu li {
+  float: right;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
 /* The Menubar menu */
 .sidebar {
   height: 100%;
@@ -68,7 +83,7 @@ h2 {
   color: #f1f1f1;
 }
 
-/* close button on burger menu */
+/* close button on sidebar */
 .sidebar .closebtn {
   position: absolute;
   top: 0;
@@ -352,8 +367,7 @@ input[type=submit]:hover {
   text-align: center;
 }
 
-/* media query */
-/* max-width: 480px  */
+/* media query for screens max-width: 480px */
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
   body {
@@ -456,4 +470,19 @@ input[type=submit]:hover {
     font-size: 7px;
     text-align: center;
   }
+}
+
+/* On screens that are a min 900px wide - hide hambugerbar*/
+@media screen and (min-width: 925px) {
+  .openbtn {
+    display: none;
+  }
+
+}
+
+@media screen and (min-width: 2000px) {
+  #menu {
+    display: none;
+  }
+
 }
