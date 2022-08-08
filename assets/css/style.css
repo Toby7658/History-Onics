@@ -11,7 +11,7 @@
 body {
   font-family: "Moyers typeface", "sans-serif";
   color: #2f4f4f;
-  background-color: rgb(226, 238, 204);
+  background-color: red
 }
 
 /* heading and logo */
@@ -429,9 +429,10 @@ input[type=submit]:hover {
 }
 
 /* On screens that are 992px wide or less, go from four columns to two columns */
-@media screen and (max-width: 992px) and (max-width: 480px) {
+@media screen and (min-width: 480px) and (max-width: 992px) {
   .column {
     width: 100%;
+    text-align: center;
 
   }
 
