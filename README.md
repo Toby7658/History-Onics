@@ -5,67 +5,63 @@ HistoryOnics is a tourist history website which focuses on each provence of Irel
 #
 # Table of contents
 
-- [Features](#Features)
-- [Brief](#brief)
-- [Navigation Bar](#Navigation-Bar)
-- [The Landing Page](#The-Landing-Page)
-- [Mid Section Paragraph](#Mid-Sections-Paragraph)
-- [Provence List](#Provence-List)
-- [The Footer](#The-Footer)
-- [Visit Pages](#Visit-Pages)
-- [Video Section](#Video-Section)
-- [Typography](#typography)
-- [Imagery](#imagery)
-- [Features](#features)
-- [Existing Features](#existing-features)
-- [Home](#home)
-- [Travel](#travel)
-- [About](#about)
-- [Learn](#learn)
-- [Contact](#contact)
-- [Form Confirmation](#form-confirmation)
-- [Future Features](#future-features)
-- [Technologies Used](#technologies-used)
+- [User Experience UX](#User-Experience-UX)
+- [Existing Features](#Existing-Features)
+- [Visit Page](#Visit-Page-Features)
+- [Contact Page](#Contact-Page-Features)
+- [About Us](#About-Us-Features)
+- [Footer](#footer)
+- [Target Audience](#Target-Audience)
+- [Form Confirmation](Form-Confirmation)
+- [Future Features](#Future-Features)
+- [Technologies Used](#Technologies-Used)
 - [Testing](#testing)
-- [Deployment](#deployment)
-- [To Fork the Repository](#to-fork-the-repository)
-- [To create a Local Clone](#to-create-a-local-clone)
-- [Credits](#credits)
-- [Content](#content)
-- [Media](#media)
-- [Code](#code)
-- [Acknowledgements](#acknowledgements)
+- [Deployment](#Deployment)
+- [Credits](#Credits)
+- [Code Used](#Code-Used)
+- [Acknowledgements](#Acknowledgements)
 
 
 # User Experience UX
-## Wireframe
-## Structure of Site
-## Colour Scheme
-## typography
+    - Wireframe
+    - Structure of Site
+    - Colour Scheme
+    - typography
 
-# Features
-## Navigation Menu
-## Hamburger Menu
-## Logo
-## Navigation blocks
-## Maps
-## Video Guide
-## Contact Page
-## Social Media
-## Footer
-## Imagery
-## About Us
-# Target Audience
-# Initial Concept
-# Wireframes
 # Existing Features
-# Form Confirmation
-# Future Features
-# Technologies Used
-# Testing
-# Deployment
-# To Fork the Repository
-# Credits
-# Code
-# Acknowledgements
+    - Navigation Menu
+    - Hamburger Menu
+    - Logo
+    - Navigation blocks
+    - Social Media
 
+# Visit Page
+    - Maps
+    - Video Guide
+
+# Contact Page
+    - Contact Box
+    - Submit Button
+
+# About Us
+    - Images
+
+## Footer
+
+# Target Audience
+
+# Form Confirmation
+
+# Future Features
+
+# Technologies Used
+
+# Testing
+
+# Deployment
+
+# Credits
+
+# Code
+
+# Acknowledgements
