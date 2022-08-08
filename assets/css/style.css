@@ -41,9 +41,10 @@ h2 {
 /* navigation menu */
 #menu {
   font-size: 90%;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   height: 28px;
   font-family: "Moyers typeface", "sans-serif";
+  font-weight: bolder;
   color: #2f4f4f;
 }
 
@@ -63,7 +64,7 @@ h2 {
   text-decoration: underline;
 }
 
-/* The Menubar menu */
+/* The hamburgerbar - overrides for smaller screens */
 .sidebar {
   height: 100%;
   width: 0;
@@ -482,8 +483,8 @@ input[type=submit]:hover {
   }
 }
 
-/* On screens that are a min 925px wide or lower - hide hambugerbar*/
-@media screen and (min-width: 925px) {
+/* On screens that are a min 950px wide or lower - hide hambugerbar*/
+@media screen and (min-width: 950px) {
   .openbtn {
     display: none;
   }
@@ -498,7 +499,7 @@ input[type=submit]:hover {
   }
 }
 
-@media screen and (max-width: 924px) {
+@media screen and (max-width: 950px) {
   #menu {
     display: none;
   }
