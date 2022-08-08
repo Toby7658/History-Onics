@@ -11,7 +11,7 @@
 body {
   font-family: "Moyers typeface", "sans-serif";
   color: #2f4f4f;
-  background-color: red
+  background-color: rgb(226, 238, 204);
 }
 
 /* heading and logo */
@@ -178,7 +178,7 @@ h2 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 30px, 0, 0, 10px;
+  padding: 30px 0 0 10px;
   width: 25%;
   height: 300px;
   overflow: hidden;
@@ -200,7 +200,7 @@ h2 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 30px, 0, 0, 10px;
+  padding: 30px 0 0 10px;
   width: 25%;
   height: 300px;
   overflow: hidden;
@@ -222,7 +222,7 @@ h2 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 30px, 0, 0, 10px;
+  padding: 30px 0 0 10px;
   width: 25%;
   height: 300px;
   overflow: hidden;
@@ -323,7 +323,6 @@ input[type=submit]:hover {
 
 
 .column {
-
   float: left;
   width: 40%;
   height: auto;
@@ -379,6 +378,7 @@ input[type=submit]:hover {
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: left;
   }
 
   #visitblock {
@@ -439,11 +439,21 @@ input[type=submit]:hover {
   #title {
     text-align: center;
   }
-}
 
-@media screen and (min-width: 480px) {
   .column {
-    width: 100%;
+    float: left;
+    width: 96%;
+    height: auto;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 2%;
+  }
 
+  #munster,
+  #connacht,
+  #leinster,
+  #ulster {
+    font-size: 7px;
+    text-align: center;
   }
 }
