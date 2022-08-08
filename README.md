@@ -1,15 +1,19 @@
+# HistoryOnics
+HistoryOnics is a tourist history website which focuses on each provence of Ireland. The site aims to provide information about Irelands history and interesting places to visit for both local and international tourists.The site provides maps and videos of each county, within each provence and links to social media for users to interact with the site. The User can also contact the site should they have more queries. 
+
+
+#
 # Table of contents
 
-
-- [Table of contents](#table-of-contents)
-- [Key Project Goals](#key-project-goals)
+- [Features](#Features)
 - [Brief](#brief)
-- [Target Audience](#target-audience)
-- [UX User Experience](#ux-user-experience)
-- [Initial Concept](#initial-concept)
-- [Wireframes](#wireframes)
-- [Site Structure](#site-structure)
-- [Colour Scheme](#colour-scheme)
+- [Navigation Bar](#Navigation-Bar)
+- [The Landing Page](#The-Landing-Page)
+- [Mid Section Paragraph](#Mid-Sections-Paragraph)
+- [Provence List](#Provence-List)
+- [The Footer](#The-Footer)
+- [Visit Pages](#Visit-Pages)
+- [Video Section](#Video-Section)
 - [Typography](#typography)
 - [Imagery](#imagery)
 - [Features](#features)
@@ -33,8 +37,6 @@
 - [Acknowledgements](#acknowledgements)
 
 
-
-# Key Project Goals
 
 # Brief
 
