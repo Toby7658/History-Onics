@@ -42,15 +42,25 @@ h2 {
 #menu {
   font-size: 90%;
   letter-spacing: 2px;
-  height: 30px;
+  height: 28px;
   font-family: "Moyers typeface", "sans-serif";
   color: #2f4f4f;
+}
+
+#menu a {
+  text-decoration: none;
 }
 
 #menu li {
   float: right;
   list-style-type: none;
   margin-right: 20px;
+}
+
+#menu a:hover {
+  font-weight: bold;
+  display: block;
+  text-decoration: underline;
 }
 
 /* The Menubar menu */
@@ -484,10 +494,11 @@ input[type=submit]:hover {
 @media screen and (max-width: 2000px) {
   #menu {
     display: block;
+
   }
 }
 
-@media screen and (max-width: 926px) {
+@media screen and (max-width: 924px) {
   #menu {
     display: none;
   }
