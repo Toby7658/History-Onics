@@ -37,36 +37,35 @@ HistoryOnics is a tourist history website which focuses on each provence of Irel
 - [Acknowledgements](#acknowledgements)
 
 
+# User Experience UX
+## Wireframe
+## Structure of Site
+## Colour Scheme
+## typography
 
-# Brief
-
+# Features
+## Navigation Menu
+## Hamburger Menu
+## Logo
+## Navigation blocks
+## Maps
+## Video Guide
+## Contact Page
+## Social Media
+## Footer
+## Imagery
+## About Us
 # Target Audience
-# UX User Experience
-
 # Initial Concept
 # Wireframes
-# Site Structure
-# Colour Scheme
-# Typography
-# Imagery
-# Features
 # Existing Features
-# Home
-# Travel
-# About
-# Learn
-# Contact
 # Form Confirmation
-
 # Future Features
 # Technologies Used
 # Testing
 # Deployment
 # To Fork the Repository
-# To create a Local Clone
 # Credits
-# Content
-# Media
 # Code
 # Acknowledgements
 
