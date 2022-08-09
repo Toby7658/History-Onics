@@ -56,7 +56,7 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
   * [HTML](#html)
   * [CSS](#css)
   * [JAVA SCRIPT](#java-script)
-  
+
 * [**Acknowledgment**](<#Acknowledgment>)
 
 
@@ -98,15 +98,36 @@ visual effects.
 ![Wireframe image submit page](./assets/images/wireframe-submit-small.jpg)
 
 # Structure of Site
-The site is made up of seven pages. They are constructed of:
-* [Home page](index.html)
-* [Visit Munster page](munster.html)
-* [Visit Connacht page](connacht.html)
-* [Visit Leinster page](leinster.html)
-* [Visit Ulster page](ulster.html)
-* [About Us page](about.html)
-* [Contact Us page](contact.html)
-* [Submit page](submit.html)
+The site is made up of eight pages. They are constructed of:
+1. * [Home page](index.html)
+2. * [Visit Munster page](munster.html)
+3. * [Visit Connacht page](connacht.html)
+4. * [Visit Leinster page](leinster.html)
+5. * [Visit Ulster page](ulster.html)
+6. * [About Us page](about.html)
+7. * [Contact Us page](contact.html)
+8. * [Submit page](submit.html)
+
+The site opens with a landing page which presents a [Hero Image](./assets/images/hero-image.jpeg) with zoom effect. 
+For wide screens, there is a navigation menu at the top right hand side. This turns into a hamburger-bar for smaller screens and is placed on the left of the screen. The logo is also used as a navigational tool on each page to bring the user
+back to the landing page. The nav bars are provided on each page to guide the user and are responsive on all screen sizes.
+At the bottom of the landing page is also another navigation block which is broken into four seperate 
+images with access to four seperate pages. The images change colour to grayscale when hovered over to allow
+the user to know which block they are choosing.
+The footer holds the social media icons, which are responsive on all screens throughout each page of the site.
+
+The visit pages provides a short intro to each county with a map and youtube video guide. 
+The map can be clicked upon and opens to a new window. The videos each play within the existing site page.
+
+The About Us page introduces the user to the team and provides a brief description and biography of the 
+site owners. Images of the team have also been added to the page.
+
+The contact page provides a query box and requires the user to complete various fields including
+Name, Phone and Email. These boxes are required fields and have a * to indicate this to the user.
+The email address provided by the user must be correctly structured inorder to submit a query.
+
+The submission page appears after the user submits a query via the contact page. The page provides a message stating that the 
+query has been received. The user can then navigate away from this page by clicking on the Logo or nav bar provided.
 
 [**Deployment**](<#deployment>)
 
