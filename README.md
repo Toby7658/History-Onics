@@ -6,6 +6,8 @@ to visit for both local and international tourists.The site provides maps and vi
 of each county, within each provence and links to social media for users to interact 
 with the site. The User can also contact the site should they have more queries. 
 
+![Hero image](./assets/images/hero-image.jpeg)
+
 Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 
 # Table of Contents
