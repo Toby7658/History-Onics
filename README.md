@@ -61,7 +61,7 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 
 
 # User Experience UX
-## Wireframes
+## Wireframe
 The mock-up for this project was created using [Balsamiq](https://balsamiq.com/wireframes/).
 Aspects of the mock-up have changes during production due to increasing user experience and 
 visual effects.
