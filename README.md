@@ -310,9 +310,15 @@ clicked on to interact with.
  
 ## Testing
 - [Lighthouse Testing](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
-- [W3c](#https://jigsaw.w3.org/css-validator/)
+- [W3C Markup Validation Service](https://validator.w3.org/)
+
+* ### Home Page html - [Error Free Home Page](./assets/images/error-free-home-html.jpg)
+* ### About Page html - [Error Free About Us Page](./assets/images/error-free-about-html.jpg)
+
+
 
 ## Deployment
+
 
 ## Credits
 
