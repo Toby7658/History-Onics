@@ -57,16 +57,21 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 
 # User Experience UX
 ## Wireframes
+The mock-up for this project was created using [Balsamiq](https://balsamiq.com/wireframes/).
+Aspects of the mock-up have changes during production due to increasing user experience and 
+visual effects.
+
 ### Home Page for wide screen devise
-![Wireframe image home page]()
-![Wireframe image visit page]()
-![Wireframe image about us page]()
-![Wireframe image contact page]()
-![Wireframe image submit page]()
+![Wireframe image home page](./assets/images/wireframe-home-wide.jpg)
+![Wireframe image visit page](./assets/images/wireframe-visit-wide.jpg)
+![Wireframe image about us page](./assets/images/wireframe-about-wide.jpg)
+![Wireframe image contact page](./assets/images/wireframe-contact-wide.jpg)
+![Wireframe image submit page](./assets/images/wireframe-submit-wide.jpg)
 
 ### Home Page for small screen devise
-![Wireframe image home page]()
-![Wireframe image visit page]()
-![Wireframe image about us page]()
-![Wireframe image contact page]()
-![Wireframe image submit page]()
+![Wireframe image home page](./assets/images/wireframe-home-small.jpg)
+![Wireframe image visit page](./assets/images/wireframe-visit-small.jpg)
+![Wireframe image about us page](./assets/images/wireframe-about-small.jpg)
+![Wireframe image contact page](./assets/images/wireframe-contact-small.jpg)
+![Wireframe image submit page](./assets/images/wireframe-submit-small.jpg)
+
