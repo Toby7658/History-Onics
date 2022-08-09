@@ -446,6 +446,11 @@ input[type=submit]:hover {
     text-align: center;
   }
 
+  iframe {
+    width: auto;
+    padding-top: 10px;
+  }
+
   h1,
   h2 {
 
