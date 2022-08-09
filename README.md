@@ -129,6 +129,21 @@ The email address provided by the user must be correctly structured inorder to s
 The submission page appears after the user submits a query via the contact page. The page provides a message stating that the 
 query has been received. The user can then navigate away from this page by clicking on the Logo or nav bar provided.
 
+# Typography
+The body of the site uses font style "Moyers typeface", "sans-serif". This is in contrast with the logo and headings which
+uses font style "Cormorant SC", "sans-serif". Initially, Cormorant SC was used throughout as the style provides 
+a more ancient feel to the history site. However, this font appears only as uppercase and therefore the body was 
+replaced with Moyers typeface to provide a more natural read for the user. Sans-serif is inplace as a second default option
+should either of the first options fail. Fonts were taken from [Google Fonts](#google-fonts).
+
+
+
+
+
+
+
+
+
 [**Deployment**](<#deployment>)
 
 
