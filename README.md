@@ -219,7 +219,7 @@ have been used for imagery with bright colours to further attract the user visua
 
 ## Social Media
 The social media icons can be accessed on all pages and will bring the user to four seperate external sites
-including Twitter, Instagram, Facebook and Youtube. The setting of these icons have been influenced by the Love Running module
+including [Twitter](https://twitter.com/), [Instagram](https://www.instagram.com/?hl=en), [Facebook](https://www.facebook.com/) and [Youtube](https://www.youtube.com/). The setting of these icons have been influenced by the Love Running module
 as per [Code Institute](https://codeinstitute.net/ie/). Icons were accessed by [Font Awesome](https://fontawesome.com/icons).
 
 ![Social Media Icons](./assets/images/social-media-icons.jpg)
@@ -278,31 +278,39 @@ clicked on to interact with.
 - A page dedicated to where users can find the best pubs/restaurants off the beaten track and away from the tourist traps.
 - An e-commerce element which sells experiences, eg. spending an afternoon cooking traditional food in a host kitchen.
 
-
-There would be a page dedicated to local restaurants which are off the beaten-track. 
-
 ## Technologies Used
-  * [HTML](#html)
-  * [CSS](#css)
-  * [Google Fonts](#google-fonts)
-  * [Font Awesome Icons](#font-awesome-icons)
-  * [balsamiq](#balsamiq)
-  * [GitHub](#github)
-  * [Adobe Color](#adobe-Color)
-  * [Gimp](#gimp)
+  * [HTML](https://en.wikipedia.org/wiki/HTML5)
+  * [CSS](https://en.wikipedia.org/wiki/CSS)
+  * [Google Fonts](https://fonts.google.com/)
+  * [Font Awesome Icons](https://fontawesome.com/icons)
+  * [balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwi8iXBhBeEiwAKbUoferdHodwIX8rhZQq6jDFB9i1ffpeC04Iv0ROTwgZLHrOEP1rmCqzjhoCUsMQAvD_BwE)
+  * [GitHub](https://github.com/about)
+  * [Git](https://git-scm.com/)
+  * [Gitpod](https://www.gitpod.io/)
+  * [Adobe Color](https://color.adobe.com/create/color-wheel)
+  * [Gimp](https://www.gimp.org/)
+  * [Slack](https://slack.com/intl/en-ie/)
+  * [Visual Studio](https://visualstudio.microsoft.com/)
+  * [volusion.com](https://www.volusion.com/) 
+  * [pxhere.com](https://pxhere.com/)
+  * [Google Maps](https://www.google.com/maps/@52.8603236,-9.6709686,9z)
+  * [Youtube](https://www.youtube.com/)
+  * [Code Institute](https://codeinstitute.net/ie/)
+  * [Google Images](https://images.google.com/)
  
 ## Testing
-- [Lighthouse Testing](#lighthouse-testing)
+- [Lighthouse Testing](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
 - [W3c](#https://jigsaw.w3.org/css-validator/)
 
 ## Deployment
 
 ## Credits
 
+
 ## Code Used
-  * [HTML](#html)
-  * [CSS](#css)
-  * [JAVA SCRIPT](#java-script)
+ * [HTML](https://en.wikipedia.org/wiki/HTML5)
+ * [CSS](https://en.wikipedia.org/wiki/CSS)
+ * [Java Script](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Acknowledgment
 
