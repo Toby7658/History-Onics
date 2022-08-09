@@ -63,15 +63,32 @@ visual effects.
 
 ### Home Page for wide screen devise
 ![Wireframe image home page](./assets/images/wireframe-home-wide.jpg)
+
+### Visit Page for wide screen devise
 ![Wireframe image visit page](./assets/images/wireframe-visit-wide.jpg)
+
+### About Us Page for wide screen devise
 ![Wireframe image about us page](./assets/images/wireframe-about-wide.jpg)
+
+### Contact Page for wide screen devise
 ![Wireframe image contact page](./assets/images/wireframe-contact-wide.jpg)
+
+### Submit Page for wide screen devise
 ![Wireframe image submit page](./assets/images/wireframe-submit-wide.jpg)
+
 
 ### Home Page for small screen devise
 ![Wireframe image home page](./assets/images/wireframe-home-small.jpg)
+
+### Visit Page for small screen devise
 ![Wireframe image visit page](./assets/images/wireframe-visit-small.jpg)
+
+### About Us Page for small screen devise
 ![Wireframe image about us page](./assets/images/wireframe-about-small.jpg)
+
+### Contact Page for small screen devise
 ![Wireframe image contact page](./assets/images/wireframe-contact-small.jpg)
+
+### Submit Page for small screen devise
 ![Wireframe image submit page](./assets/images/wireframe-submit-small.jpg)
 
