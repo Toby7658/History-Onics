@@ -182,11 +182,23 @@ provide a list of pages. The X on the open tab of the menu must then be clicked 
 * ![Hamburger bar closed](./assets/images/hamburger-button-closed.jpg)
 * ![Hamburger bar open](./assets/images/hamburger-button-open.jpg)
 
-
+[Back to top](<#Table of Contents>)
 
 ## Logo
+
+The logo 'HistoryOnics' is a play on words. Histrionic, meaning overly dramatic and theatrical 
+is inkeeping with the dramitic history and storytelling of Ireland. The font, "Cormorant SC" may
+also be seen as dramatic, coupled together with colour #2f4f4f brings a bold effect, inkeeping with
+an Irish historical theme.
+
+[Back to top](<#Table of Contents>)
+
 ## Hero Image
+The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and is synonymous with Ireland accross the globe and presents an immediate interaction with the user with the zoom-in effect. The zoom-in effect is responsive with all screen sizes.
+
 ## Navigation Blocks
+
+
 ## Social Media
 ## Videos
 ## Maps
