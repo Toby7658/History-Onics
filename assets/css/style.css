@@ -9,9 +9,11 @@
 /* body layout */
 
 body {
-  font-family: "Moyers typeface", "sans-serif";
+  font-family: "lato", "sans-serif";
+  letter-spacing: 2px;
   color: #2f4f4f;
   background-color: rgb(226, 238, 204);
+  font-weight: bold;
 }
 
 /* heading and logo */
@@ -43,7 +45,7 @@ h2 {
   font-size: 90%;
   letter-spacing: 1px;
   height: 28px;
-  font-family: "Moyers typeface", "sans-serif";
+  font-family: "lato", "sans-serif";
   font-weight: bolder;
   color: #2f4f4f;
 }
