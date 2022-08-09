@@ -43,17 +43,20 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
   * [GitHub](#github)
  
 
-
 * [**Testing**](<#testing>)
+
 - [Lighthouse Testing](#lighthouse-testing)
+- [W3c](#https://jigsaw.w3.org/css-validator/)
 
 * [**Deployment**](<#deployment>)
 
 * [**Credits**](<#credits>)
 
 * [**Code Used**](<#code-used>)
-
-
+  * [HTML](#html)
+  * [CSS](#css)
+  * [JAVA SCRIPT](#java-script)
+  
 * [**Acknowledgment**](<#Acknowledgment>)
 
 
@@ -94,3 +97,19 @@ visual effects.
 ### Submit Page for small screen devise
 ![Wireframe image submit page](./assets/images/wireframe-submit-small.jpg)
 
+# Structure of Site
+The site is made up of seven pages. They are constructed of:
+* [Home page](index.html)
+* [Visit Munster page](munster.html)
+* [Visit Connacht page](connacht.html)
+* [Visit Leinster page](leinster.html)
+* [Visit Ulster page](ulster.html)
+* [About Us page](about.html)
+* [Contact Us page](contact.html)
+* [Submit page](submit.html)
+
+[**Deployment**](<#deployment>)
+
+
+
+# Existing Features
