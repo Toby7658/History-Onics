@@ -1,12 +1,41 @@
-# HistoryOnics
-HistoryOnics is a tourist history website which focuses on each provence of Ireland. The site aims to provide information about Irelands history and interesting places to visit for both local and international tourists.The site provides maps and videos of each county, within each provence and links to social media for users to interact with the site. The User can also contact the site should they have more queries. 
+# **_HistoryOnics_**
+
+HistoryOnics is a tourist history website which focuses on each provence of Ireland. 
+The site aims to provide information about Irelands history and interesting places 
+to visit for both local and international tourists.The site provides maps and videos 
+of each county, within each provence and links to social media for users to interact 
+with the site. The User can also contact the site should they have more queries. 
+
+Link to the live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
+
+# Contents
+
+* [**User Experience UX**](<#user-experience-ux>)
+    * [Wireframe](<#wireframe>)
+    * [Structure of Site](<#structure-of-site>)
+    * [Typography](<#typography>)
+    * [Colour Scheme](<#colour-scheme>)
 
 
-#
-# Table of contents
 
-- [User Experience UX](#User-Experience-UX)
-- [Existing Features](#Existing-Features)
+* [**Existing Features**](<#existing-features>)
+    * [Navigation Menu](<#navigation-menu>)
+    * [Hamburger Bar](<#hamburger-bar>)
+    * [Logo](<#logo>)
+    * [Hero Image](<#hero-image>)
+    * [Navigation Blocks](<#navigation-blocks>)
+    * [Social Media](<#social-media>)
+    * [Videos](<#videos>)
+    * [Maps](<#maps>)
+    * [Contact Us](<#contact-us>)
+    * [Form Submission](<#form-submission>)
+
+
+
+
+
+
+
 - [Visit Page](#Visit-Page-Features)
 - [Contact Page](#Contact-Page-Features)
 - [About Us](#About-Us-Features)
@@ -23,10 +52,10 @@ HistoryOnics is a tourist history website which focuses on each provence of Irel
 
 
 # User Experience UX
-    - Wireframe
-    - Structure of Site
-    - Colour Scheme
-    - typography
+    1. Wireframe
+    2. Structure of Site
+    3. Colour Scheme
+    4. typography
 
 # Existing Features
     - Navigation Menu
