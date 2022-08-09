@@ -113,8 +113,7 @@ The site is made up of eight pages. They are constructed of:
 7. * [Contact Us page](contact.html)
 8. * [Submit page](submit.html)
 
-The site opens with a landing page which presents a [Hero Image](./assets/images/hero-image.jpeg) with zoom effect. 
-For wide screens, there is a navigation menu at the top right hand side. This turns into a hamburger-bar for smaller screens and is placed on the left of the screen. The logo is also used as a navigational tool on each page to bring the user
+The site opens with a landing page which presents a [Hero Image](./assets/images/hero-image.jpeg) with zoom effect. For wide screens, there is a navigation menu at the top right hand side. This turns into a hamburger-bar for smaller screens and is placed on the left of the screen. The logo is also used as a navigational tool on each page to bring the user
 back to the landing page. The nav bars are provided on each page to guide the user and are responsive on all screen sizes.
 
 The centre structure of the page provides a short introduction to the site. The heading used for this piece also incorporates fixed
@@ -173,7 +172,8 @@ A top navigation menu bar has been put in place for screens 950px and wider. Ori
 menu was put in place for all screens, as this seems to be a common theme with other sites currently through further research, however, in-order to show adaptability with building this site, the hamburger-bar was set in place for screens smaller than 950px. This also shows the responsiveness as the screens are minimized. 
 The top navigation menu bar sits at the top right-hand side of the screen and allows the user to navigate 
 through seven pages (the eight page being the submission button which cannot be accessed unless pressing 'submit' on the
-contact page). Each element becomes underlined as the user hovers over the tabs seperately.
+contact page). Each element becomes underlined as the user hovers over the tabs seperately. This aspect was influenced
+by the Love Running Module via [Code Institute](https://codeinstitute.net/ie/)
 
 ![Navigation Menu Bar](./assets/images/nav-menu-bar.jpg)
 
@@ -204,15 +204,14 @@ The logo is responsive with all screens.
 [Back to top](<#Table of Contents>)
 
 ## Hero Image
-The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and is synonymous with Ireland accross the globe and presents an immediate interaction with the user with the zoom-in effect. The zoom-in effect is responsive with all screen sizes.
+The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and is synonymous with Ireland accross the globe and presents an immediate interaction with the user with the zoom-in effect. The zoom-in effect is responsive with all screen sizes. The Hero Image was sources via [Google Images](https://images.google.com/) from [Cliffs of Moher](https://www.cliffsofmoher.ie/unesco-global-geopark/education/learning-resources/).
 
 [Back to top](<#Table of Contents>)
 
 ## Navigation Blocks
 
-The navigational block is provided for further interaction with the user. The user can hover over each image, which will
-then become grayscale, and upon clicking on the chosen box, the user will be directed to the chosen page. Famous aspects of each provence 
-have been used for imagery with bright colours to further attract the user visually. This block is responsive with all screens.
+The navigational block is provided for further interaction with the user. The user can hover over each image, which will then become grayscale, and upon clicking on the chosen box, the user will be directed to the chosen page. Famous aspects of each provence 
+have been used for imagery with bright colours to further attract the user visually. This block is responsive with all screens. Images are sourced via [Google Images](https://images.google.com/) via: [Connacht Image](https://theplanetd.com/poulnabrone-dolmen-ireland/), [Munster Image](https://www.atlanticwaytouring.com/product/quin-abbey/), [Leinster Image](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin), [Ulster Image](https://www.posterlounge.com/p/738259.html)
 
  ![Nav Block Menu](./assets/images/nav-block-menu.jpg)
 
@@ -234,7 +233,7 @@ via Youtube. Each video provides information as per the county it is relating to
 to be placed on the left-hand-side of the page, however, this was not as visually appealing as when it is placed on the right. 
 Each video is responsive on all screens and will play within the page, without increasing in size. 
 Videos are sourced from:
-* [Youtube](https://www.youtube.com/)
+* [Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)
 
 [Back to top](<#Table of Contents>)
 
@@ -249,12 +248,29 @@ on map for all screens. Maps are sourced by accessing:
 
 [Back to top](<#Table of Contents>)
 
-
-
 ## Contact Us
+The contact page is a simple structure which allows the user to provide required and non-required information. 
+The required elements are indicated by * after the element name. This includes First Name, Last Name, Email.
+The phone and query box are not set as required. The email element must be correctly formatted so as to be accepted.
+The query box is the only aspect which has a placeholder to provide further instruction to the user. This page is
+accessable via the navigation menu on a wide screen and Hamburger Bar via a smaller device.
+
+[Back to top](<#Table of Contents>)
+
 ## Form Submission
+The form submission page is presented upon the user submitting a query via the contact page. This page has access to a navigational menu/hamburger-bar and Logo which will bring the user back to previous pages of the site. A message is in place acknowledging receipt
+of the query. Social media icons are also present at the footer of the page.
+
 ## About Us
+
+The about Us page provides information about how the site was established as the opening paragraph. This paragraph was 
+created using a text creator via [volusion.com](https://www.volusion.com/) 
+Below the opening paragrapg, there is a meet the team. This aspect provides a brief description of the team and provies images of the team-members.
+Public domain images are sourced via [pxhere.com](https://pxhere.com/)
+
 ## Footer
+The footer appears at the bottom of each page. The social media icons are centered within the footer and can be 
+clicked on to interact with. 
 
 
 
