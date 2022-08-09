@@ -179,8 +179,8 @@ at the top left-hand corner of the screen and provides the user with a full list
 The icon can be recognised by the three lines visable, upon the user clicking on this, the button changes colour and opens to
 provide a list of pages. The X on the open tab of the menu must then be clicked to close the hamburger-bar.
 
-* ![Hamburger bar closed](./assets/images/hamburger-button-closed.jpg)
-* ![Hamburger bar open](./assets/images/hamburger-button-open.jpg)
+ ![Hamburger bar closed](./assets/images/hamburger-button-closed.jpg)
+ ![Hamburger bar open](./assets/images/hamburger-button-open.jpg)
 
 [Back to top](<#Table of Contents>)
 
@@ -197,6 +197,8 @@ an Irish historical theme.
 The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and is synonymous with Ireland accross the globe and presents an immediate interaction with the user with the zoom-in effect. The zoom-in effect is responsive with all screen sizes.
 
 ## Navigation Blocks
+
+ ![Nav Block Menu](./assets/images/nav-block-menu.jpg)
 
 
 ## Social Media
