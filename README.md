@@ -144,7 +144,17 @@ should either of the first options fail. Fonts were taken from [Google Fonts](ht
 
 # Colour Scheme
 
-The colour scheme is inspired by 
+The colour scheme is inspired by the traditional color of Ireland, green. The shade "rgb(226, 238, 204)" was 
+chosen as this colour is soft yet also provides a more ancient feel within a green tone.
+The text is set as #2f4f4f, which again is inkeeping with the green tones and historic feel of the site.
+Grayscale has also been used when hovering over the navigational block of images at the bottom
+om the landing page. To contrast against the green tone, #f1f1f1 has been used for the text on all navigation
+bars and blocks. Finally, #45a049 has been used when hovering over the submit button on the contact page. 
+
+![Colour rgb(226, 238, 204)](./assets/images/colour-rgb-226238204.jpg)
+![Colour #2f4f4f](./assets/images/colour-2f4f4f.jpg)
+![Colour #f1f1f1](./assets/images/colour-f1f1f1.jpg)
+![Colour #45a049](./assets/images/colour-45a049.jpg)
 
 
 [Back to top](<#Table of Contents>)
