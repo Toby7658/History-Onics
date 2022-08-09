@@ -174,6 +174,16 @@ contact page). Each element becomes underlined as the user hovers over the tabs 
 
 ## Hamburger Bar
 
+A hamburger bar has been placed for small screens including tablets and mobile devices. This button sits
+at the top left-hand corner of the screen and provides the user with a full list of pages, as per the top navigation menu bar.
+The icon can be recognised by the three lines visable, upon the user clicking on this, the button changes colour and opens to
+provide a list of pages. The X on the open tab of the menu must then be clicked to close the hamburger-bar.
+
+* ![Hamburger bar closed](./assets/images/hamburger-button-closed.jpg)
+* ![Hamburger bar open](./assets/images/hamburger-button-open.jpg)
+
+
+
 ## Logo
 ## Hero Image
 ## Navigation Blocks
