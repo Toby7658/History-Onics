@@ -41,6 +41,8 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
   * [Font Awesome Icons](#font-awesome-icons)
   * [balsamiq](#balsamiq)
   * [GitHub](#github)
+  * [Adobe Color](#adobe-Color)
+  * [Gimp](#gimp)
  
 
 * [**Testing**](<#testing>)
@@ -63,8 +65,9 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 # User Experience UX
 ## Wireframe
 The mock-up for this project was created using [Balsamiq](https://balsamiq.com/wireframes/).
-Aspects of the mock-up have changes during production due to increasing user experience and 
-visual effects.
+Aspects of the mock-up have changed during production due to increasing user experience and 
+visual effects. Changes include moving the Logo to the centre and creating a Nav menu bar
+which is replaced by a Hamburger bar as devices become smaller.
 
 ### Home Page for wide screen devise
 ![Wireframe image home page](./assets/images/wireframe-home-wide.jpg)
@@ -113,6 +116,9 @@ The site is made up of eight pages. They are constructed of:
 The site opens with a landing page which presents a [Hero Image](./assets/images/hero-image.jpeg) with zoom effect. 
 For wide screens, there is a navigation menu at the top right hand side. This turns into a hamburger-bar for smaller screens and is placed on the left of the screen. The logo is also used as a navigational tool on each page to bring the user
 back to the landing page. The nav bars are provided on each page to guide the user and are responsive on all screen sizes.
+
+The centre structure of the page provides a short introduction to the site. The heading used for this piece also incorporates fixed
+icons of a person strolling, this is to complement the tatle 'A Stroll Back In Time'. 
 At the bottom of the landing page is also another navigation block which is broken into four seperate 
 images with access to four seperate pages. The images change colour to grayscale when hovered over to allow
 the user to know which block they are choosing.
@@ -177,7 +183,8 @@ contact page). Each element becomes underlined as the user hovers over the tabs 
 A hamburger bar has been placed for small screens including tablets and mobile devices. This button sits
 at the top left-hand corner of the screen and provides the user with a full list of pages, as per the top navigation menu bar.
 The icon can be recognised by the three lines visable, upon the user clicking on this, the button changes colour and opens to
-provide a list of pages. The X on the open tab of the menu must then be clicked to close the hamburger-bar.
+provide a list of pages. The X on the open tab of the menu must then be clicked to close the hamburger-bar. This aspect was
+influenced by [W3School Collapsed Sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp).
 
  ![Hamburger bar closed](./assets/images/hamburger-button-closed.jpg)
  ![Hamburger bar open](./assets/images/hamburger-button-open.jpg)
@@ -189,21 +196,59 @@ provide a list of pages. The X on the open tab of the menu must then be clicked 
 The logo 'HistoryOnics' is a play on words. Histrionic, meaning overly dramatic and theatrical 
 is inkeeping with the dramitic history and storytelling of Ireland. The font, "Cormorant SC" may
 also be seen as dramatic, coupled together with colour #2f4f4f brings a bold effect, inkeeping with
-an Irish historical theme.
+an Irish historical theme. Upon clicking on the logo, the user is brought back to the landing page.
+The logo is responsive with all screens.
 
 [Back to top](<#Table of Contents>)
 
 ## Hero Image
 The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and is synonymous with Ireland accross the globe and presents an immediate interaction with the user with the zoom-in effect. The zoom-in effect is responsive with all screen sizes.
 
+[Back to top](<#Table of Contents>)
+
 ## Navigation Blocks
+
+The navigational block is provided for further interaction with the user. The user can hover over each image, which will
+then become grayscale, and upon clicking on the chosen box, the user will be directed to the chosen page. Famous aspects of each provence 
+have been used for imagery with bright colours to further attract the user visually. This block is responsive with all screens.
 
  ![Nav Block Menu](./assets/images/nav-block-menu.jpg)
 
+ [Back to top](<#Table of Contents>)
 
 ## Social Media
+The social media icons can be accessed on all pages and will bring the user to four seperate external sites
+including Twitter, Instagram, Facebook and Youtube. The setting of these icons have been influenced by the Love Running module
+as per [Code Institute](https://codeinstitute.net/ie/). Icons were accessed by [Font Awesome](https://fontawesome.com/icons).
+
+![Social Media Icons](./assets/images/social-media-icons.jpg)
+
+[Back to top](<#Table of Contents>)
+
 ## Videos
+
+Videos have been incorporated as part of the Visit Pages for each county with in Provences. All video material have been sources 
+via Youtube. Each video provides information as per the county it is relating to. The videos were originally 
+to be placed on the left-hand-side of the page, however, this was not as visually appealing as when it is placed on the right. 
+Each video is responsive on all screens and will play within the page, without increasing in size. 
+Videos are sourced from:
+* [Youtube](https://www.youtube.com/)
+
+[Back to top](<#Table of Contents>)
+
 ## Maps
+
+Maps have been incorporated on to each Visit Page, under each county seperately. The maps are responsive on
+all screens, however, must be clicked within the middle of the map for small mobile devices (eg. iPhone 5). Otherwise, all 
+maps will open and respond to 'View Larger Map' where indicated on map. Maps will also be responsive when clicked anywhere
+on map for all screens. Maps are sourced by accessing:
+
+* [Google Maps](https://www.google.com/maps/@52.8603236,-9.6709686,9z)
+
+[Back to top](<#Table of Contents>)
+
+
+
 ## Contact Us
 ## Form Submission
 ## About Us
