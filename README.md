@@ -134,10 +134,10 @@ query has been received. The user can then navigate away from this page by click
 [Back to top](<#Table of Contents>)
 
 # Typography
-The body of the site uses font style "Moyers typeface", "sans-serif". This is in contrast with the logo and headings which
+The body of the site uses font style "Lato", "sans-serif". This is in contrast with the logo and headings which
 uses font style "Cormorant SC", "sans-serif". Initially, Cormorant SC was used throughout as the style provides 
 a more ancient feel to the history site. However, this font appears only as uppercase and therefore the body was 
-replaced with Moyers typeface to provide a more natural read for the user. Sans-serif is inplace as a second default option
+replaced with Lato typeface to provide a more natural read for the user. Sans-serif is inplace as a secondary default option
 should either of the first options fail. Fonts were taken from [Google Fonts](https://fonts.google.com/).
 
 [Back to top](<#Table of Contents>)
@@ -163,7 +163,13 @@ The colour scheme was guided by [Adobe Color](https://color.adobe.com/create/col
 # Existing Features
 
 ## Navigation Menu
+A top navigation menu bar has been put in place for screens 950px and wider. Originally, a hamburger-bar
+menu was put in place for all screens, as this seems to be a common theme with other sites currently through further research, however, in-order to show adaptability with building this site, the hamburger-bar was set in place for screens smaller than 950px. This also shows the responsiveness as the screens are minimized. 
+The top navigation menu bar sits at the top right-hand side of the screen and allows the user to navigate 
+through seven pages (the eight page being the submission button which cannot be accessed unless pressing 'submit' on the
+contact page). Each element becomes underlined as the user hovers over the tabs seperately.
 
+![Navigation Menu Bar](./assets/images/nav-menu-bar.jpg)
 
 
 ## Hamburger Bar
