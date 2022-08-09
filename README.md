@@ -199,6 +199,8 @@ also be seen as dramatic, coupled together with colour #2f4f4f brings a bold eff
 an Irish historical theme. Upon clicking on the logo, the user is brought back to the landing page.
 The logo is responsive with all screens.
 
+![Logo Image](./assets/images/logo-image.jpg)
+
 [Back to top](<#Table of Contents>)
 
 ## Hero Image
