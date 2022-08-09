@@ -273,8 +273,36 @@ The footer appears at the bottom of each page. The social media icons are center
 clicked on to interact with. 
 
 
+## Future Features
+- An e-Commerce element would be included where the user can book a specific tour per provence. The tours would be broken up into bus and bicyle tours.
+- A page dedicated to where users can find the best pubs/restaurants off the beaten track and away from the tourist traps.
+- An e-commerce element which sells experiences, eg. spending an afternoon cooking traditional food in a host kitchen.
 
-[**Deployment**](<#deployment>)
 
+There would be a page dedicated to local restaurants which are off the beaten-track. 
 
+## Technologies Used
+  * [HTML](#html)
+  * [CSS](#css)
+  * [Google Fonts](#google-fonts)
+  * [Font Awesome Icons](#font-awesome-icons)
+  * [balsamiq](#balsamiq)
+  * [GitHub](#github)
+  * [Adobe Color](#adobe-Color)
+  * [Gimp](#gimp)
+ 
+## Testing
+- [Lighthouse Testing](#lighthouse-testing)
+- [W3c](#https://jigsaw.w3.org/css-validator/)
+
+## Deployment
+
+## Credits
+
+## Code Used
+  * [HTML](#html)
+  * [CSS](#css)
+  * [JAVA SCRIPT](#java-script)
+
+## Acknowledgment
 
