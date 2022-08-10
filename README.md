@@ -284,29 +284,29 @@ clicked on to interact with.
 
 
 ## Future Features
-- An e-Commerce element would be included where the user can book a specific tour per provence. The tours would be broken up into bus and bicyle tours.
+- An e-commerce element would be included where the user can book a specific tour per provence. The tours would be broken up into bus and bicyle tours.
 - A page dedicated to where users can find the best pubs/restaurants off the beaten track and away from the tourist traps.
 - An e-commerce element which sells experiences, eg. spending an afternoon cooking traditional food in a host kitchen.
 
 ## Technologies Used
-  * [HTML](https://en.wikipedia.org/wiki/HTML5)
-  * [CSS](https://en.wikipedia.org/wiki/CSS)
-  * [Google Fonts](https://fonts.google.com/)
-  * [Font Awesome Icons](https://fontawesome.com/icons)
-  * [balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwi8iXBhBeEiwAKbUoferdHodwIX8rhZQq6jDFB9i1ffpeC04Iv0ROTwgZLHrOEP1rmCqzjhoCUsMQAvD_BwE)
-  * [GitHub](https://github.com/about)
-  * [Git](https://git-scm.com/)
-  * [Gitpod](https://www.gitpod.io/)
-  * [Adobe Color](https://color.adobe.com/create/color-wheel)
-  * [Gimp](https://www.gimp.org/)
-  * [Slack](https://slack.com/intl/en-ie/)
-  * [Visual Studio](https://visualstudio.microsoft.com/)
-  * [volusion](https://www.volusion.com/) 
-  * [pxhere](https://pxhere.com/)
-  * [Google Maps](https://www.google.com/maps/@52.8603236,-9.6709686,9z)
-  * [Youtube](https://www.youtube.com/)
-  * [Code Institute](https://codeinstitute.net/ie/)
-  * [Google Images](https://images.google.com/)
+  * [HTML](https://en.wikipedia.org/wiki/HTML5) - HTML the most basic building block of the Web. This is the main language used to develop the site. 
+  * [CSS](https://en.wikipedia.org/wiki/CSS) - CSS describes how HTML elements are to be displayed on screen. This has been used to develop the stlye of the site.
+  * [Google Fonts](https://fonts.google.com/) - Google Fonts is a directory of font-families which was incorporated during development of the site.
+  * [Font Awesome Icons](https://fontawesome.com/icons) - Font Awsome is a directory of icons which was used to incorporate icons for social media, text and headings.
+  * [balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwi8iXBhBeEiwAKbUoferdHodwIX8rhZQq6jDFB9i1ffpeC04Iv0ROTwgZLHrOEP1rmCqzjhoCUsMQAvD_BwE) - Balsamiq was used to create a mock-up wireframe for large and small screen devices.
+  * [GitHub](https://github.com/about) - Github is used to host the source code for the site.
+  * [Git](https://git-scm.com/) - Git is used to manage and keep track of the source code history throughout development. 
+  * [Gitpod](https://www.gitpod.io/) - Gitpod creats connections between Gitpod and GitHub account. Gitpod continuously builds git branches to facilitate the coding process.
+  * [Adobe Color](https://color.adobe.com/create/color-wheel) - Adobe Colour has been used to navigate colour charts for the site during development.
+  * [Gimp](https://www.gimp.org/) - Gimp was used to edit and resize images before loading to the site. 
+  * [Slack](https://slack.com/intl/en-ie/) - Slack was utilized by seeking advise and knowledge from students and mentors.
+  * [Visual Studio](https://visualstudio.microsoft.com/) - Visual Studio was used in the very early phase to gain further understanding of how to properly implement code while gaining confidence with Github.
+  * [volusion](https://www.volusion.com/) - Volusion is a site which drafts copy for paragraphs. 
+  * [pxhere](https://pxhere.com/) - Pxhere was used to sourse images for the About Us page.
+  * [Google Maps](https://www.google.com/maps/@52.8603236,-9.6709686,9z) - Google Maps was used to source the map links for each visit page.
+  * [Youtube](https://www.youtube.com/) - Youtube was the sourse for each video on the Visit Pages.
+  * [Code Institute](https://codeinstitute.net/ie/) - Influence with styling the landing page was taken from the Love Running module available via the Programme Overview.
+  * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation  block on the landing page.
  
 ## Testing
 - [Lighthouse Testing](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
