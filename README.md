@@ -62,7 +62,11 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
   * [W3Markup Validation Service](#w3markup-validation-service)
   * [W3CSS Validation Service](#w3css-validation-service)
 
-* [**Deployment**](<#deployment>)#
+* [**W3 Validation Results**](#w3-validation-results)
+* [**Lighthouse Testing Results**](#lighthouse-testing-results)
+* [**webpagetest**](#webpagetest)
+
+* [**Deployment**](<#deployment>)
 
 
 
@@ -340,7 +344,7 @@ clicked on to interact with.
 * About Us Page - Performace: 100, Accessability: 97, Best Practise: 100, SEO: 90.
 * Contact Us Page - Performace: 100, Accessability: 97, Best Practise: 100, SEO: 89.
 
-## webpagetest.org
+## webpagetest
 * Results - Passed
 * This test had a reasonably quick first-byte time.
 * Zero render-blocking CSS files found.
