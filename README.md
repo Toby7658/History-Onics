@@ -310,9 +310,11 @@ clicked on to interact with.
  
 ## Testing
 - [Lighthouse Testing](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
-- [W3C Markup Validation Service](https://validator.w3.org/)
-- [WC3 CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- [Web Page Test](https://www.webpagetest.org/)
+- [W3 Markup Validation Service](https://validator.w3.org/)
+- [W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
+## W3 Validation Results:
 * Home Page html - [Error Free Home Page](./assets/images/error-free-home-html.jpg)
 * Munster Page html - [Error Free Munster Page](./assets/images/error-free-munster-html.jpg)
 * Leinster Page html - [Error Free Leinster Page](./assets/images/error-free-leinster-html.jpg)
@@ -322,6 +324,16 @@ clicked on to interact with.
 * Submit Page html - [Error Free Submit Page](./assets/images/error-free-submit-html.jpg)
 * Contact Page html - [Error Free Contact Page](./assets/images/error-free-contact-html.jpg)
 * CSS - [Error Free CSS](./assets/images/error-free-css.jpg)
+
+## Lighthouse Testing Results:
+* Landing Page - Performace: 98, Accessability: 96, Best Practise: 100, SEO: 89.
+* Visit Munster Page - Performace: 99, Accessability: 92, Best Practise: 92, SEO: 89.
+* Visit Leinster Page - Performace: 98, Accessability: 96, Best Practise: 100, SEO: 89.
+* Visit Connacht Page - Performace: 98, Accessability: 96, Best Practise: 100, SEO: 89.
+* Visit Ulster Page - Performace: 98, Accessability: 96, Best Practise: 100, SEO: 89.
+* About Us Page - Performace: 98, Accessability: 96, Best Practise: 100, SEO: 89.
+* Contact Us Page - Performace: 98, Accessability: 96, Best Practise: 100, SEO: 89.
+
 
 
 
