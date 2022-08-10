@@ -378,7 +378,7 @@ clicked on to interact with.
 * Landing Page paragraph *[Power Trip](https://powertripshow.com/location/ireland/)* - Paragraph taken and added to Landing Page introduction.
 * Landing Page paragraph *[Interview Area](https://www.interviewarea.com/faq/do-people-love-ireland)* - Two sentences taken and added to Landing Page introduction.
 
-# The following links will bring you to the original source for text used throughout the site: 
+### The following links will bring you to the original source for text used throughout the site: 
 
 ## Munster Paragraphs
 * Clare: *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product-category/clare/)*, 
