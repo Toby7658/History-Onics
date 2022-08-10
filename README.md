@@ -57,8 +57,10 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 
 * [**Testing**](<#testing>)
 
-- [Lighthouse Testing](#lighthouse-testing)
-- [W3c](#https://jigsaw.w3.org/css-validator/)
+* [Lighthouse Testing](#lighthouse-testing)
+* [Web Page Test](#web-page-test)
+* [W3 Markup Validation Service](#w3-markup-validation-service)
+* [W3 CSS Validation Service](#w3-CSS-validation-service)
 
 * [**Deployment**](<#deployment>)
 
