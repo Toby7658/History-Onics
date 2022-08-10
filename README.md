@@ -255,6 +255,23 @@ to be placed on the left-hand-side of the page, however, this was not as visuall
 Each video is responsive on all screens and will play within the page, without increasing in size. 
 Videos are sourced from:
 * [Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)
+* [Youtube - The Heart of Ireland](https://www.youtube.com/embed/2dWYJkQlDg0)
+* [Youtube - Kerry by a Local](https://www.youtube.com/embed/zDWJL6rLnes)
+* [Youtube - Galway City](https://www.youtube.com/embed/ocJPdvALnow)
+* [Youtube - Mayos Historic Houses](https://www.youtube.com/embed/Kyl4NpYWAKs)
+* [Youtube - Epic Dublin](https://www.youtube.com/embed/hO14hhzAaeo)
+* [Youtube - Carlow Hidden Gems]("https://www.youtube.com/embed/ehl1dCF3cuA)
+* [Youtube - The Fall of the House of Kildare]("https://www.youtube.com/embed/P5pLGLF4Km4)
+* [Youtube - Kilkenny](https://www.youtube.com/embed/tIKix6WE-4k)
+* [Youtube - Cork Military History](https://www.youtube.com/embed/wLfCrP9fGps)
+* [Youtube - County Louth](https://www.youtube.com/embed/F842XAZCo30)
+* [Youtube - Donegal Tourism](https://www.youtube.com/embed/Lo81SEn13Kg)
+* [Youtube - Visit Cavan](https://www.youtube.com/embed/P_IsHs0PZUY)
+* [Youtube - Antrim Coast](https://www.youtube.com/embed/0h3cYy9Dw2M)
+* [Youtube - Tyrone](https://www.youtube.com/embed/oWakocgKgWg)
+* [Youtube - Flavour of Ireland](https://www.youtube.com/embed/psRBvZtDkfc)
+* [Youtube - Pocket History of Londonderry](https://www.youtube.com/embed/ykWLGa5XrIs)
+
 
 [Back to top](<#Table of Contents>)
 
