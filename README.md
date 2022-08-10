@@ -68,11 +68,7 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 
 * [**Deployment**](<#deployment>)
 
-
-
 * [**Credits**](<#credits>)
-
-
 
 * [**Code Used**](<#code-used>)
   * [HTML](#html)
@@ -105,7 +101,6 @@ which is replaced by a Hamburger bar as devices become smaller.
 ### Submit Page for wide screen devise
 ![Wireframe image submit page](./assets/images/wireframe-submit-wide.jpg)
 
-
 ### Home Page for small screen devise
 ![Wireframe image home page](./assets/images/wireframe-home-small.jpg)
 
@@ -121,7 +116,7 @@ which is replaced by a Hamburger bar as devices become smaller.
 ### Submit Page for small screen devise
 ![Wireframe image submit page](./assets/images/wireframe-submit-small.jpg)
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 # Structure of Site
 The site is made up of eight pages. They are constructed of:
@@ -157,7 +152,7 @@ The email address provided by the user must be correctly structured inorder to s
 The submission page appears after the user submits a query via the contact page. The page provides a message stating that the 
 query has been received. The user can then navigate away from this page by clicking on the Logo or nav bar provided.
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 # Typography
 The body of the site uses font style "Lato", "sans-serif". This is in contrast with the logo and headings which
@@ -166,7 +161,7 @@ a more ancient feel to the history site. However, this font appears only as uppe
 replaced with Lato typeface to provide a more natural read for the user. Sans-serif is inplace as a secondary default option
 should either of the first options fail. Fonts were taken from [Google Fonts](https://fonts.google.com/).
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 # Colour Scheme
 
@@ -184,7 +179,7 @@ The colour scheme was guided by [Adobe Color](https://color.adobe.com/create/col
 ![Colour #45a049](./assets/images/colour-45a049.jpg)
 
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 # Existing Features
 
@@ -210,7 +205,7 @@ influenced by [W3School Collapsed Sidepanel](https://www.w3schools.com/howto/how
  ![Hamburger bar closed](./assets/images/hamburger-button-closed.jpg)
  ![Hamburger bar open](./assets/images/hamburger-button-open.jpg)
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Logo
 
@@ -222,12 +217,12 @@ The logo is responsive with all screens.
 
 ![Logo Image](./assets/images/logo-image.jpg)
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Hero Image
 The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and is synonymous with Ireland accross the globe and presents an immediate interaction with the user with the zoom-in effect. The zoom-in effect is responsive with all screen sizes. The Hero Image was sources via [Google Images](https://images.google.com/) from [Cliffs of Moher](https://www.cliffsofmoher.ie/unesco-global-geopark/education/learning-resources/).
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Navigation Blocks
 
@@ -236,7 +231,7 @@ have been used for imagery with bright colours to further attract the user visua
 
  ![Nav Block Menu](./assets/images/nav-block-menu.jpg)
 
- [Back to top](<#Table of Contents>)
+ [Back to top](<#Table-of-Contents>)
 
 ## Social Media
 The social media icons can be accessed on all pages and will bring the user to four seperate external sites
@@ -245,7 +240,7 @@ as per [Code Institute](https://codeinstitute.net/ie/). Icons were accessed by [
 
 ![Social Media Icons](./assets/images/social-media-icons.jpg)
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Videos
 
@@ -273,7 +268,7 @@ Videos are sourced from:
 * [Youtube - Pocket History of Londonderry](https://www.youtube.com/embed/ykWLGa5XrIs)
 
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Maps
 
@@ -284,7 +279,7 @@ on map for all screens. Maps are sourced by accessing:
 
 * [Google Maps](https://www.google.com/maps/@52.8603236,-9.6709686,9z)
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Contact Us
 The contact page is a simple structure which allows the user to provide required and non-required information. 
@@ -293,13 +288,13 @@ The phone and query box are not set as required. The email element must be corre
 The query box is the only aspect which has a placeholder to provide further instruction to the user. This page is
 accessable via the navigation menu on a wide screen and Hamburger Bar via a smaller device.
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Form Submission
 The form submission page is presented upon the user submitting a query via the contact page. This page has access to a navigational menu/hamburger-bar and Logo which will bring the user back to previous pages of the site. A message is in place acknowledging receipt
 of the query. Social media icons are also present at the footer of the page.
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## About Us
 
@@ -308,13 +303,13 @@ created using a text creator via [volusion.com](https://www.volusion.com/)
 Below the opening paragrapg, there is a meet the team. This aspect provides a brief description of the team and provies images of the team-members.
 Public domain images are sourced via [pxhere.com](https://pxhere.com/)
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Footer
 The footer appears at the bottom of each page. The social media icons are centered within the footer and can be 
 clicked on to interact with. 
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 
 ## Future Features
@@ -322,7 +317,7 @@ clicked on to interact with.
 - A page dedicated to where users can find the best pubs/restaurants off the beaten track and away from the tourist traps.
 - An e-commerce element which sells experiences, eg. spending an afternoon cooking traditional food in a host kitchen.
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Technologies Used
   * [HTML](https://en.wikipedia.org/wiki/HTML5) - HTML the most basic building block of the Web. This is the main language used to develop the site. 
@@ -344,7 +339,7 @@ clicked on to interact with.
   * [Code Institute](https://codeinstitute.net/ie/) - Influence with styling the landing page was taken from the Love Running module available via the Programme Overview.
   * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation block on the landing page.
 
-  [Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>) 
  
 ## Testing
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
@@ -382,7 +377,7 @@ clicked on to interact with.
 * Zero security vulnerabilies were detected by Snyk.
 * Zero resources were found that were loaded over an insecure connection.
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
 ## Deployment
 1. Access *[Github](https://github.com/)* by signing into account
@@ -394,8 +389,7 @@ clicked on to interact with.
 7. Once saved, the site will take time to refresh while it goes public. 
 8. A link will appear stating (eg. of my account): Your site is live at https://toby7658.github.io/History-Onics/
 
-
-
+[Back to top](<#Table-of-Contents>)
 
 ## Credits
 * Mentor support and guidance from *[Jack Wachira](https://github.com/iamjackwachira)*.
@@ -483,12 +477,12 @@ clicked on to interact with.
  * [Java Script](https://en.wikipedia.org/wiki/JavaScript)
  * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
- [Back to top](<#Table of Contents>)
+ [Back to top](<#Table-of-Contents>)
 
 ## Acknowledgment
 Many thanks to my Mentor *[Jack Wachira](https://github.com/iamjackwachira)* for providing solid guidance
 and support. Thanks to Code Institute for giving me such an amazing opportunity to develop a new career
 in such a supporting environment. Thanks to the community on Slack who are an ongoing wealth of information and motivation. 
 
-[Back to top](<#Table of Contents>)
+[Back to top](<#Table-of-Contents>)
 
