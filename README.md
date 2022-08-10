@@ -378,7 +378,8 @@ clicked on to interact with.
 * Landing Page paragraph *[Power Trip](https://powertripshow.com/location/ireland/)* - Paragraph taken and added to Landing Page introduction.
 * Landing Page paragraph *[Interview Area](https://www.interviewarea.com/faq/do-people-love-ireland)* - Two sentences taken and added to Landing Page introduction.
 
-The following links will bring you to the original source for text used throughout the site: 
+# The following links will bring you to the original source for text used throughout the site: 
+
 ## Munster Paragraphs
 * Clare: *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product-category/clare/)*, 
   Tipperary: *[XWhos](https://www.xwhos.com/place_of_birth/1/county_tipperary.html)*, 
@@ -406,7 +407,7 @@ The following links will bring you to the original source for text used througho
   Offaly: *[Go to Ireland](https://www.gotoireland.today/county-offaly.html)*,
   Wicklow: *[Izaskun lekue](https://izaskunlekue.wordpress.com/)*,
 
-  ## Ulster Paragraphs
+## Ulster Paragraphs
 * Donegal: *[Harveys Point](https://www.harveyspoint.com/discover-donegal.html)*,
   Cavan: *[Roots Ireland](https://www.rootsireland.ie/cavan-genealogy/about-cavan/)*,
   Monaghan: *[Sweat Lodge Radio](https://www.sweatlodgeradio.com/why-is-monaghan-called-monaghan/)*,
@@ -416,10 +417,6 @@ The following links will bring you to the original source for text used througho
   Fermanagh: *[Irish Central](https://www.irishcentral.com/roots/genealogy/county-fermanagh)*
   Derry: *[Irish Central](https://www.irishcentral.com/travel/county-derry)*
   Armagh: *[Wikipedia](https://en.wikipedia.org/wiki/Armagh)*
-
-
-
-
 
 ## Code/Languages Used
  * [HTML](https://en.wikipedia.org/wiki/HTML5)
