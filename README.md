@@ -364,21 +364,58 @@ clicked on to interact with.
 * W3C School Contact Form *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* - This assisted with developing the Contact Box on the Contact Us page.
 * W3C School About Us Page *[W3C School About Us](https://www.w3schools.com/howto/howto_css_about_page.asp)* - This assisted with developing the About Us page.
 * W3C School CSS Tutorial *[W3C School CSS Tutorial](https://www.w3schools.com/css/)* - Used for additional learning around the over-all basics of CSS.
-* W3C School Nav Menu *[W3C School About Us](https://www.w3schools.com/howto/howto_css_about_page.asp)* - This assisted with developing the About Us page.
 * W3C School Hamburger Bar Icon *[W3C School Hamburger Bar Icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)* - This assisted with developing the Hamburger Bar Icon.
 * W3C School Hamburger Bar sidepanel *[W3C School Hamburger Bar sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburger Bar sidepanel.
+* Navigation Menu *[Love Running](https://codeinstitute.net/ie/)* - This element was influenced with the Love Running module tutorial.
 * Markdown Guide *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* - This was used to understand basic syntax for Markdown.
 * Youtube *[Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)* - Videos for each county is sourced via Youtube.
-* Hero Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[Cliffs of Moher](https://www.cliffsofmoher.ie/)*.
-* Navigation Menu *[Love Running](https://codeinstitute.net/ie/)* - This element was influenced with the Love Running module tutorial.
+* Hero Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Cliffs of Moher](https://www.cliffsofmoher.ie/)*.
+* Munster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product/quin-abbey//)*
+* Connacht Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[The Planet](https://theplanetd.com/poulnabrone-dolmen-ireland/)*.
+* Leinster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Meeting Select](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin/)*.
+* Ulster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Poster Lounge](https://www.posterlounge.com/p/738259.html)*.
+* Github *[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)* - This information assisted with understanding the syntax of Markdown.
+* Landing Page paragraph *[Power Trip](https://powertripshow.com/location/ireland/)* - Paragraph taken and added to Landing Page introduction.
+* Landing Page paragraph *[Interview Area](https://www.interviewarea.com/faq/do-people-love-ireland)* - Two sentences taken and added to Landing Page introduction.
 
-* Munster Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product/quin-abbey//)*
+The following links will bring you to the original source for text used throughout the site: 
+## Munster Paragraphs
+* Clare: *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product-category/clare/)*, 
+  Tipperary: *[XWhos](https://www.xwhos.com/place_of_birth/1/county_tipperary.html)*, 
+  Limerick: *[Embark](https://www.embark.org/ireland/limerick)*, 
+  Waterford: *[Thin Line](https://www.thinline.ie/product-page/waterford)*, 
+  Cork: *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product-category/cork/)*, 
+  Kerry: *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product-category/kerry/)*. 
 
-* Connacht Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[The Planet](https://theplanetd.com/poulnabrone-dolmen-ireland/)*.
+## Connacht Paragraphs
+* Galway: *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product-category/galway/)*, 
+  Leitrim: *[Love to Visit](https://lovetovisitshop.com/blogs/news/county-leitrim-ireland-things-to-see-and-do)*, 
+  Mayo: *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product-category/mayo/)*, 
+  Roscommon: *[Rosclay Pottery](https://rosclaypottery.com/things-to-do-in-roscommon/)*, 
+  Sligo: *[Irish Hotel Breaks](https://irishhotelbreaks.ie/hotel-breaks-sligo/)*.
 
-* Leinster Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[Meeting Select](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin/)*.
+## Leinster Paragraphs
+* Dublin: *[My World Travel](https://myworldtravelco.com/product/dublin-destination-dossier/)*, 
+  Carlow: *[Wikipedia](https://en.wikipedia.org/wiki/County_Carlow)*,
+  Kildare: *[Love to Visit](https://lovetovisitshop.com/blogs/news/tagged/county-kildare-ireland-things-to-see-and-do)*,
+  Kilkenny: *[Love to Visit](https://lovetovisitireland.com/county-kilkenny-ireland-things-to-see-and-do/)*,
+  Laois: *[Wikipedia](https://en.wikipedia.org/wiki/County_Laois)*,
+  Longford: *[Discovering Ireland](https://www.discoveringireland.com/longford/)*,
+  Louth: *[Discovering Ireland](https://www.discoveringireland.com/louth/)*,
+  Meath: *[Love to Visit](https://lovetovisitireland.com/county-meath-ireland-things-to-see-and-do/)*,
+  Offaly: *[Go to Ireland](https://www.gotoireland.today/county-offaly.html)*,
+  Wicklow: *[Izaskun lekue](https://izaskunlekue.wordpress.com/)*,
 
-* Ulster Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[Poster Lounge](https://www.posterlounge.com/p/738259.html)*.
+  ## Ulster Paragraphs
+* Donegal: *[Harveys Point](https://www.harveyspoint.com/discover-donegal.html)*,
+  Cavan: *[Roots Ireland](https://www.rootsireland.ie/cavan-genealogy/about-cavan/)*,
+  Monaghan: *[Sweat Lodge Radio](https://www.sweatlodgeradio.com/why-is-monaghan-called-monaghan/)*,
+  Antrim: *[Discover Northern Ireland](https://discovernorthernireland.com/blog/county-antrim)*,
+  Down: *[Connolly Cove](https://www.connollycove.com/county-down/)*,
+  Tyrone: *[Wikipedia](https://en.wikipedia.org/wiki/County_Tyrone)*,
+  Fermanagh: *[Irish Central](https://www.irishcentral.com/roots/genealogy/county-fermanagh)*
+  Derry: *[Irish Central](https://www.irishcentral.com/travel/county-derry)*
+  Armagh: *[Wikipedia](https://en.wikipedia.org/wiki/Armagh)*
 
 
 
