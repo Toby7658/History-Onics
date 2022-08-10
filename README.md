@@ -64,7 +64,7 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 
 * [**W3 Validation Results**](#w3-validation-results)
 * [**Lighthouse Testing Results**](#lighthouse-testing-results)
-* [**webpagetest**](#webpagetest)
+* [**Webpagetest**](#webpagetest)
 
 * [**Deployment**](<#deployment>)
 
@@ -299,6 +299,8 @@ accessable via the navigation menu on a wide screen and Hamburger Bar via a smal
 The form submission page is presented upon the user submitting a query via the contact page. This page has access to a navigational menu/hamburger-bar and Logo which will bring the user back to previous pages of the site. A message is in place acknowledging receipt
 of the query. Social media icons are also present at the footer of the page.
 
+[Back to top](<#Table of Contents>)
+
 ## About Us
 
 The about Us page provides information about how the site was established as the opening paragraph. This paragraph was 
@@ -306,15 +308,21 @@ created using a text creator via [volusion.com](https://www.volusion.com/)
 Below the opening paragrapg, there is a meet the team. This aspect provides a brief description of the team and provies images of the team-members.
 Public domain images are sourced via [pxhere.com](https://pxhere.com/)
 
+[Back to top](<#Table of Contents>)
+
 ## Footer
 The footer appears at the bottom of each page. The social media icons are centered within the footer and can be 
 clicked on to interact with. 
+
+[Back to top](<#Table of Contents>)
 
 
 ## Future Features
 - An e-commerce element would be included where the user can book a specific tour per provence. The tours would be broken up into bus and bicyle tours.
 - A page dedicated to where users can find the best pubs/restaurants off the beaten track and away from the tourist traps.
 - An e-commerce element which sells experiences, eg. spending an afternoon cooking traditional food in a host kitchen.
+
+[Back to top](<#Table of Contents>)
 
 ## Technologies Used
   * [HTML](https://en.wikipedia.org/wiki/HTML5) - HTML the most basic building block of the Web. This is the main language used to develop the site. 
@@ -335,6 +343,8 @@ clicked on to interact with.
   * [Youtube](https://www.youtube.com/) - Youtube was the sourse for each video on the Visit Pages.
   * [Code Institute](https://codeinstitute.net/ie/) - Influence with styling the landing page was taken from the Love Running module available via the Programme Overview.
   * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation block on the landing page.
+
+  [Back to top](<#Table of Contents>)
  
 ## Testing
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
@@ -362,7 +372,7 @@ clicked on to interact with.
 * About Us Page - Performace: 100, Accessability: 97, Best Practise: 100, SEO: 90.
 * Contact Us Page - Performace: 100, Accessability: 97, Best Practise: 100, SEO: 89.
 
-## webpagetest
+## Webpagetest
 * Results - Passed
 * This test had a reasonably quick first-byte time.
 * Zero render-blocking CSS files found.
@@ -372,7 +382,19 @@ clicked on to interact with.
 * Zero security vulnerabilies were detected by Snyk.
 * Zero resources were found that were loaded over an insecure connection.
 
+[Back to top](<#Table of Contents>)
+
 ## Deployment
+1. Access *[Github](https://github.com/)* by signing into account
+2. Access Repositorys on top-right-hand corner on the screen
+3. Select Respository required from list
+4. Click 'Settings' on the menu tab
+5. On the left-hand-side of the next page, click 'Pages'
+6. Under source, select branch:main, folder: root and then click save. 
+7. Once saved, the site will take time to refresh while it goes public. 
+8. A link will appear stating (eg. of my account): Your site is live at https://toby7658.github.io/History-Onics/
+
+
 
 
 ## Credits
@@ -383,9 +405,27 @@ clicked on to interact with.
 * W3C School CSS Tutorial *[W3C School CSS Tutorial](https://www.w3schools.com/css/)* - Used for additional learning around the over-all basics of CSS.
 * W3C School Hamburger Bar Icon *[W3C School Hamburger Bar Icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)* - This assisted with developing the Hamburger Bar Icon.
 * W3C School Hamburger Bar sidepanel *[W3C School Hamburger Bar sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburger Bar sidepanel.
+* W3C School Hover *[W3C School Hover](https://www.w3schools.com/cssref/sel_hover.asp)* - This assisted with creating hover interaction when mouse-over menus.
+* Linuxhint *[Linuxhint](https://linuxhint.com/html-meta-tag/)* - This assisted with gaining further knowledge around meta tags.
 * Navigation Menu *[Love Running](https://codeinstitute.net/ie/)* - This element was influenced with the Love Running module tutorial.
 * Markdown Guide *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* - This was used to understand basic syntax for Markdown.
 * Youtube *[Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - The Heart of Ireland](https://www.youtube.com/embed/2dWYJkQlDg0)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Kerry by a Local](https://www.youtube.com/embed/zDWJL6rLnes)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Galway City](https://www.youtube.com/embed/ocJPdvALnow)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Mayos Historic Houses](https://www.youtube.com/embed/Kyl4NpYWAKs)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Epic Dublin](https://www.youtube.com/embed/hO14hhzAaeo)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Carlow Hidden Gems](https://www.youtube.com/embed/ehl1dCF3cuA)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - The Fall of the House of Kildare](https://www.youtube.com/embed/P5pLGLF4Km4)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Kilkenny](https://www.youtube.com/embed/tIKix6WE-4k)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Cork Military History](https://www.youtube.com/embed/wLfCrP9fGps)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - County Louth](https://www.youtube.com/embed/F842XAZCo30)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Donegal Tourism](https://www.youtube.com/embed/Lo81SEn13Kg)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Visit Cavan](https://www.youtube.com/embed/P_IsHs0PZUY)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Antrim Coast](https://www.youtube.com/embed/0h3cYy9Dw2M)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Tyrone](https://www.youtube.com/embed/oWakocgKgWg)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Flavour of Ireland](https://www.youtube.com/embed/psRBvZtDkfc)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Pocket History of Londonderry](https://www.youtube.com/embed/ykWLGa5XrIs)* - Videos for each county is sourced via Youtube.
 * Hero Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Cliffs of Moher](https://www.cliffsofmoher.ie/)*.
 * Munster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product/quin-abbey//)*
 * Connacht Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[The Planet](https://theplanetd.com/poulnabrone-dolmen-ireland/)*.
@@ -394,6 +434,7 @@ clicked on to interact with.
 * Github *[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)* - This information assisted with understanding the syntax of Markdown.
 * Landing Page paragraph *[Power Trip](https://powertripshow.com/location/ireland/)* - Paragraph taken and added to Landing Page introduction.
 * Landing Page paragraph *[Interview Area](https://www.interviewarea.com/faq/do-people-love-ireland)* - Two sentences taken and added to Landing Page introduction.
+* Volusion *[Volusion](https://www.volusion.com/)* - This was used to help create an introductory paragraph for the Landing Page.
 
 ### The following links will bring you to the original source for text used throughout the site: 
 
@@ -441,5 +482,9 @@ clicked on to interact with.
  * [Java Script](https://en.wikipedia.org/wiki/JavaScript)
  * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
+ [Back to top](<#Table of Contents>)
+
 ## Acknowledgment
+
+[Back to top](<#Table of Contents>)
 
