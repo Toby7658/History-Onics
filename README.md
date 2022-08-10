@@ -399,6 +399,7 @@ clicked on to interact with.
 
 ## Credits
 * Mentor support and guidance from *[Jack Wachira](https://github.com/iamjackwachira)*.
+* Facilitator and support from *[Kenan Wright](https://github.com/KenanCarlWright/KenanCarlWright)*.
 * W3C School Collapse Sidepanel *[W3C School Collapse Sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburgerbar.
 * W3C School Contact Form *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* - This assisted with developing the Contact Box on the Contact Us page.
 * W3C School About Us Page *[W3C School About Us](https://www.w3schools.com/howto/howto_css_about_page.asp)* - This assisted with developing the About Us page.
@@ -485,6 +486,9 @@ clicked on to interact with.
  [Back to top](<#Table of Contents>)
 
 ## Acknowledgment
+Many thanks to my Mentor *[Jack Wachira](https://github.com/iamjackwachira)* for providing solid guidance
+and support. Thanks to Code Institute for giving me such an amazing opportunity to develop a new career
+in such a supporting environment. Thanks to the community on Slack who are an ongoing wealth of information and motivation. 
 
 [Back to top](<#Table of Contents>)
 
