@@ -45,26 +45,30 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
   * [Gitpod](#gitpod)
   * [Adobe Color](#adobe-color)
   * [Gimp](#gimp)
-  * [Slack](slack)
-  * [Visual Studio](visual-studio)
+  * [Slack](#slack)
+  * [Visual Studio](#visual-studio)
   * [volusion](#volusion) 
   * [pxhere](#pxhere)
   * [Google Maps](#google-maps)
   * [Youtube](#youtube)
   * [Code Institute](#code-institute)
-  * [Google Images](google-images)
+  * [Google Images](#google-images)
  
 
 * [**Testing**](<#testing>)
 
-* [Lighthouse Testing](#lighthouse-testing)
-* [Web Page Test](#web-page-test)
-* [W3 Markup Validation Service](#w3-markup-validation-service)
-* [W3 CSS Validation Service](#w3-CSS-validation-service)
+  * [Lighthouse](#lighthouse)
+  * [WebPageTest](#webpagetest)
+  * [W3Markup Validation Service](#w3markup-validation-service)
+  * [W3CSS Validation Service](#w3css-validation-service)
 
-* [**Deployment**](<#deployment>)
+* [**Deployment**](<#deployment>)#
+
+
 
 * [**Credits**](<#credits>)
+
+
 
 * [**Code Used**](<#code-used>)
   * [HTML](#html)
@@ -311,10 +315,10 @@ clicked on to interact with.
   * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation  block on the landing page.
  
 ## Testing
-- [Lighthouse Testing](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
-- [Web Page Test](https://www.webpagetest.org/)
-- [W3 Markup Validation Service](https://validator.w3.org/)
-- [W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
+- [WebPageTest](https://www.webpagetest.org/)
+- [W3Markup Validation Service](https://validator.w3.org/)
+- [W3CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
 ## W3 Validation Results:
 * Home Page html - [Error Free Home Page](./assets/images/error-free-home-html.jpg)
