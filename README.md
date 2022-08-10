@@ -77,7 +77,8 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 * [**Code Used**](<#code-used>)
   * [HTML](#html)
   * [CSS](#css)
-  * [JAVA SCRIPT](#java-script)
+  * [Java Script](#java-script)
+  * [Markdown](#markdown)
 
 * [**Acknowledgment**](<#Acknowledgment>)
 
@@ -316,7 +317,7 @@ clicked on to interact with.
   * [Google Maps](https://www.google.com/maps/@52.8603236,-9.6709686,9z) - Google Maps was used to source the map links for each visit page.
   * [Youtube](https://www.youtube.com/) - Youtube was the sourse for each video on the Visit Pages.
   * [Code Institute](https://codeinstitute.net/ie/) - Influence with styling the landing page was taken from the Love Running module available via the Programme Overview.
-  * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation  block on the landing page.
+  * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation block on the landing page.
  
 ## Testing
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
@@ -358,12 +359,36 @@ clicked on to interact with.
 
 
 ## Credits
+* Mentor support and guidance from *[Jack Wachira](https://github.com/iamjackwachira)*.
+* W3C School Collapse Sidepanel *[W3C School Collapse Sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburgerbar.
+* W3C School Contact Form *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* - This assisted with developing the Contact Box on the Contact Us page.
+* W3C School About Us Page *[W3C School About Us](https://www.w3schools.com/howto/howto_css_about_page.asp)* - This assisted with developing the About Us page.
+* W3C School CSS Tutorial *[W3C School CSS Tutorial](https://www.w3schools.com/css/)* - Used for additional learning around the over-all basics of CSS.
+* W3C School Nav Menu *[W3C School About Us](https://www.w3schools.com/howto/howto_css_about_page.asp)* - This assisted with developing the About Us page.
+* W3C School Hamburger Bar Icon *[W3C School Hamburger Bar Icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)* - This assisted with developing the Hamburger Bar Icon.
+* W3C School Hamburger Bar sidepanel *[W3C School Hamburger Bar sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburger Bar sidepanel.
+* Markdown Guide *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* - This was used to understand basic syntax for Markdown.
+* Youtube *[Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)* - Videos for each county is sourced via Youtube.
+* Hero Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[Cliffs of Moher](https://www.cliffsofmoher.ie/)*.
+* Navigation Menu *[Love Running](https://codeinstitute.net/ie/)* - This element was influenced with the Love Running module tutorial.
+
+* Munster Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product/quin-abbey//)*
+
+* Connacht Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[The Planet](https://theplanetd.com/poulnabrone-dolmen-ireland/)*.
+
+* Leinster Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[Meeting Select](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin/)*.
+
+* Ulster Image *[Google Images](https://images.google.com/)* - Image was sources via Goole Images and originated via *[Poster Lounge](https://www.posterlounge.com/p/738259.html)*.
 
 
-## Code Used
+
+
+
+## Code/Languages Used
  * [HTML](https://en.wikipedia.org/wiki/HTML5)
  * [CSS](https://en.wikipedia.org/wiki/CSS)
  * [Java Script](https://en.wikipedia.org/wiki/JavaScript)
+ * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ## Acknowledgment
 
