@@ -353,6 +353,7 @@ clicked on to interact with.
   * [Youtube](https://www.youtube.com/) - Youtube was the sourse for each video on the Visit Pages.
   * [Code Institute](https://codeinstitute.net/ie/) - Influence with styling the landing page was taken from the Love Running module available via the Programme Overview.
   * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation block on the landing page.
+  * [HTML CSS Color Picker](https://www.htmlcsscolor) - This site was accessed to assist with defining colour.
 
 [Back to top](<#Table-of-Contents>) 
  
@@ -401,6 +402,11 @@ clicked on to interact with.
 * Zero security vulnerabilies were detected by Snyk.
 * Zero resources were found that were loaded over an insecure connection.
 
+Chrome - Site posed no issues when accessing Chrome.
+FireFox - Site posed no issues when accessing FireFox, however, upon accessing the submission page, one of the walking icons
+moves under the text as opposed to remaining beside it.
+
+
 [Back to top](<#Table-of-Contents>)
 
 ## Bugs and Errors
@@ -408,9 +414,6 @@ clicked on to interact with.
 2. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
 were set as percentage and was coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video 
 for a smoother transition when resizing.
-
-
-
 
 ## Deployment
 1. Access *[Github](https://github.com/)* by signing into account
