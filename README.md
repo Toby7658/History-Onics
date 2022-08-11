@@ -63,7 +63,8 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
   * [W3CSS Validation Service](#w3css-validation-service)
 
 * [**W3 Validation Results**](#w3-validation-results)
-* [**Lighthouse Testing Results**](#lighthouse-testing-results)
+* [**Lighthouse Testing Desktop Results**](#lighthouse-testing-desktop-results)
+* [**Lighthouse Testing Mobile Results**](#lighthouse-testing-mobile-results)
 * [**Webpagetest**](#webpagetest)
 
 * [**Bugs and Errors**](<#bugs-and-errors>)
@@ -360,7 +361,7 @@ clicked on to interact with.
 * Contact Page html - [Error Free Contact Page](./assets/images/error-free-contact-html.jpg)
 * CSS - [Error Free CSS](./assets/images/error-free-css.jpg)
 
-## Lighthouse Testing Results:
+## Lighthouse Testing Desktop Results:
 * Home Page html - [Lighthouse Validation Home Page](./assets/images/desktop-home-lighthouse-image.jpg)
 * Munster Page html - [Lighthouse Validation Munster Page](./assets/images/desktop-munster-lighthouse-image.jpg)
 * Leinster Page html - [Lighthouse Validation Leinster Page](./assets/images/desktop-leinster-lighthouse-image.jpg)
@@ -368,6 +369,15 @@ clicked on to interact with.
 * Ulster Page html - [Lighthouse Validation Ulster Page](./assets/images/desktop-ulster-lighthouse-image.jpg)
 * About Page html - [Lighthouse Validation About Us Page](./assets/images/desktop-about-lighthouse-image.jpg)
 * Contact Page html - [Lighthouse Validation Contact Page](./assets/images/desktop-contact-lighthouse-image.jpg)
+
+## Lighthouse Testing Mobile Results:
+* Home Page html - [Lighthouse Validation Home Page](./assets/images/mobile-home-lighthouse-image.jpg)
+* Munster Page html - [Lighthouse Validation Munster Page](./assets/images/mobile-munster-lighthouse-image.jpg)
+* Leinster Page html - [Lighthouse Validation Leinster Page](./assets/images/mobile-leinster-lighthouse-image.jpg)
+* Connacht Page html - [Lighthouse Validation Connacht Page](./assets/images/mobile-connacht-lighthouse-image.jpg)
+* Ulster Page html - [Lighthouse Validation Ulster Page](./assets/images/mobile-ulster-lighthouse-image.jpg)
+* About Page html - [Lighthouse Validation About Us Page](./assets/images/mobile-about-lighthouse-image.jpg)
+* Contact Page html - [Lighthouse Validation Contact Page](./assets/images/mobile-contact-lighthouse-image.jpg)
 
 ## Webpagetest
 * Results - Passed

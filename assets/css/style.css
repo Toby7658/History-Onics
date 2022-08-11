@@ -382,11 +382,21 @@ input[type=submit]:hover {
 
 /* media query for screens max-width: 480px */
 
-@media only screen and (min-width: 320px) and (max-width: 480px) {
+@media only screen and (min-width: 200px) and (max-width: 480px) {
   body {
-    font-size: 10px;
+    font-size: 12px;
     text-align: justify;
+    color: #000;
+    background-color: antiquewhite;
+  }
 
+  .openbtn {
+    color: coral;
+    background-color: antiquewhite;
+  }
+
+  .sidebar {
+    background-color: chocolate;
   }
 
   #logo {
@@ -442,8 +452,8 @@ input[type=submit]:hover {
   #connacht,
   #leinster,
   #ulster {
-    font-size: 7px;
-    text-align: center;
+    font-size: 10px;
+    text-align: left;
   }
 
   iframe {
