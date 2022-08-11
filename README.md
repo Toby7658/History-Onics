@@ -382,9 +382,12 @@ clicked on to interact with.
 [Back to top](<#Table-of-Contents>)
 
 ## Bugs and Issues
-1. The ALT text adds a text description to an image on a Web page, and should be used for all images, graphical bullets, and graphical horizontal rules. Initally, Alt was included in the video iframe, however, this brought the Lighthouse Validation score down. Once this was removed, the score.
+1. The ALT text adds a text description to an image on a Web page, and should be used for all images, graphical bullets, and graphical horizontal rules. Initally, Alt was included in the video iframe, however, this brought the Lighthouse Validation score down. Once this was removed, the score increased.
 2. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
-were set as percentage and was not accepted. The height and width were changed to " " which solved the immediate issue. 
+were set as percentage and was coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video 
+for a smoother transition when resizing.
+
+
 
 
 ## Deployment
