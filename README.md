@@ -168,18 +168,30 @@ should either of the first options fail. Fonts were taken from [Google Fonts](ht
 
 # Colour Scheme
 
-The colour scheme is inspired by the traditional color of Ireland, green. The shade "rgb(226, 238, 204)" was 
+The colour scheme is inspired by the traditional color of Ireland, green. The shade #E2EECC was 
 chosen as this colour is soft yet also provides a more ancient feel within a green tone.
 The text is set as #2f4f4f, which again is inkeeping with the green tones and historic feel of the site.
 Grayscale has also been used when hovering over the navigational block of images at the bottom
 of the landing page. To contrast against the green tone, #f1f1f1 has been used for the text on all navigation
 bars and blocks. Finally, #45a049 has been used when hovering over the submit button on the contact page. 
-The colour scheme was guided by [Adobe Color](https://color.adobe.com/create/color-wheel).
 
-![Colour rgb(226, 238, 204)](./assets/images/colour-rgb-226238204.jpg)
-![Colour #2f4f4f](./assets/images/colour-2f4f4f.jpg)
-![Colour #f1f1f1](./assets/images/colour-f1f1f1.jpg)
-![Colour #45a049](./assets/images/colour-45a049.jpg)
+For smaller devices, the colour scheme has changed to allow better visual experience. The body background changes to #faebd7 
+which provides a lighter background against the now #000000 text. The hamburger icon is now visable with #FF7F50 and upon opening
+the menu, the background has changed to #d2691e. 
+
+The colour scheme was guided by [Adobe Color](https://color.adobe.com/create/color-wheel) and [HTML CSS Color Picker](https://www.htmlcsscolor.com/).
+
+# Desktop Colours:
+![Colour #e2eecc](./assets/images/e2eecc-colour-desktop.jpg)
+![Colour #2f4f4f](./assets/images/2f4f4f-colour-desktop.jpg)
+![Colour #f1f1f1](./assets/images/f1f1f1-colour-desktop.jpg)
+![Colour #45a049](./assets/images/45a049-colour-desktop.jpg)
+
+# Mobile Colours:
+![Colour #faebd7](./assets/images/faebd7-colour-mobile.jpg)
+![Colour #d2691e](./assets/images/d2691e-colour-mobile.jpg)
+![Colour #FF7F50](./assets/images/colal-colour-mobile.jpg)
+![Colour #000000](./assets/images/black-colour-mobile.jpg)
 
 
 [Back to top](<#Table-of-Contents>)
