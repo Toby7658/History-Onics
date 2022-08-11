@@ -66,7 +66,7 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 * [**Lighthouse Testing Results**](#lighthouse-testing-results)
 * [**Webpagetest**](#webpagetest)
 
-* [**Bugs and Issues**](<#bugs-and-issues>)
+* [**Bugs and Errors**](<#bugs-and-errors>)
 
 * [**Deployment**](<#deployment>)
 
@@ -361,13 +361,13 @@ clicked on to interact with.
 * CSS - [Error Free CSS](./assets/images/error-free-css.jpg)
 
 ## Lighthouse Testing Results:
-* Landing Page - Performace: 98, Accessability: 96, Best Practise: 100, SEO: 89.
-* Visit Munster Page - Performace: 99, Accessability: 92, Best Practise: 92, SEO: 89.
-* Visit Leinster Page - Performace: 99, Accessability: 92, Best Practise: 92, SEO: 89.
-* Visit Connacht Page - Performace: 100, Accessability: 92, Best Practise: 92, SEO: 89.
-* Visit Ulster Page - Performace: 99, Accessability: 92, Best Practise: 92, SEO: 89.
-* About Us Page - Performace: 100, Accessability: 97, Best Practise: 100, SEO: 90.
-* Contact Us Page - Performace: 100, Accessability: 97, Best Practise: 100, SEO: 89.
+* Home Page html - [Lighthouse Validation Home Page](./assets/images/desktop-home-lighthouse-image.jpg)
+* Munster Page html - [Lighthouse Validation Munster Page](./assets/images/desktop-munster-lighthouse-image.jpg)
+* Leinster Page html - [Lighthouse Validation Leinster Page](./assets/images/desktop-leinster-lighthouse-image.jpg)
+* Connacht Page html - [Lighthouse Validation Connacht Page](./assets/images/desktop-connacht-lighthouse-image.jpg)
+* Ulster Page html - [Lighthouse Validation Ulster Page](./assets/images/desktop-ulster-lighthouse-image.jpg)
+* About Page html - [Lighthouse Validation About Us Page](./assets/images/desktop-about-lighthouse-image.jpg)
+* Contact Page html - [Lighthouse Validation Contact Page](./assets/images/desktop-contact-lighthouse-image.jpg)
 
 ## Webpagetest
 * Results - Passed
@@ -381,7 +381,7 @@ clicked on to interact with.
 
 [Back to top](<#Table-of-Contents>)
 
-## Bugs and Issues
+## Bugs and Errors
 1. The ALT text adds a text description to an image on a Web page, and should be used for all images, graphical bullets, and graphical horizontal rules. Initally, Alt was included in the video iframe, however, this brought the Lighthouse Validation score down. Once this was removed, the score increased.
 2. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
 were set as percentage and was coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video 
