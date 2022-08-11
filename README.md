@@ -66,6 +66,8 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 * [**Lighthouse Testing Results**](#lighthouse-testing-results)
 * [**Webpagetest**](#webpagetest)
 
+* [**Bugs**](<#bugs>)
+
 * [**Deployment**](<#deployment>)
 
 * [**Credits**](<#credits>)
