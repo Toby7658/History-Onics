@@ -462,11 +462,6 @@ input[type=submit]:hover {
 
 /* On screens that are 992px wide or less, go from four columns to two columns */
 @media screen and (min-width: 480px) and (max-width: 992px) {
-  .column {
-    width: 100%;
-    text-align: center;
-
-  }
 
   #title {
     text-align: center;

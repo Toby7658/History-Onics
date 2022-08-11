@@ -66,7 +66,7 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 * [**Lighthouse Testing Results**](#lighthouse-testing-results)
 * [**Webpagetest**](#webpagetest)
 
-* [**Bugs**](<#bugs>)
+* [**Bugs and Issues**](<#bugs-and-issues>)
 
 * [**Deployment**](<#deployment>)
 
@@ -380,6 +380,12 @@ clicked on to interact with.
 * Zero resources were found that were loaded over an insecure connection.
 
 [Back to top](<#Table-of-Contents>)
+
+## Bugs and Issues
+1. The ALT text adds a text description to an image on a Web page, and should be used for all images, graphical bullets, and graphical horizontal rules. Initally, Alt was included in the video iframe, however, this brought the Lighthouse Validation score down. Once this was removed, the score.
+2. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
+were set as percentage and was not accepted. The height and width were changed to " " which solved the immediate issue. 
+
 
 ## Deployment
 1. Access *[Github](https://github.com/)* by signing into account
