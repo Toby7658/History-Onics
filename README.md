@@ -195,6 +195,7 @@ The colour scheme was guided by [Adobe Color](https://color.adobe.com/create/col
 
 ![Mobile Homepage Colour Scheme](./assets/images/documentation/mobile-colourchange-image.jpg)
 ![Mobile Burgerbar Colour Scheme](./assets/images/documentation/mobile-colourchange-menu-image.jpg)
+![desktop with Nav Bar and green Colour Scheme](./assets/images/documentation/widescreen-colour-scheme-with-navmenu.jpg)
 
 [Back to top](<#Table-of-Contents>)
 
@@ -362,6 +363,7 @@ clicked on to interact with.
   * [Code Institute](https://codeinstitute.net/ie/) - Influence with the styling of the landing page was taken from the Love Running module available via the Programme Overview.
   * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation block on the landing page.
   * [HTML CSS Color Picker](https://www.htmlcsscolor) - This site was accessed to assist with defining colour.
+  * [Grammarly](https://app.grammarly.com/) - This site was used to complete a spell check throughout the site and readme file.
 
 
 [Back to top](<#Table-of-Contents>) 
