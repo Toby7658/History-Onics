@@ -205,10 +205,16 @@ A top navigation menu bar has been put in place for screens 950px and wider. Ori
 the menu was put in place for all screens, as this seems to be a common theme with other sites currently through further research, however, in order to show adaptability with building this site, the hamburger bar was set in place for screens smaller than 950px. This also shows the responsiveness as the screens are minimized. 
 The top navigation menu bar sits at the top right-hand side of the screen and allows the user to navigate 
 through seven pages (the eight-page being the submission button which cannot be accessed unless pressing 'submit' on the
-contact page). Each element becomes underlined as the user hovers over the tabs separately. This aspect was influenced
-by the Love Running Module via [Code Institute](https://codeinstitute.net/ie/)
+contact page). Each element becomes highlighted as the user hovers over the tabs separately. This aspect was influenced
+by the W3School via [W3School](https://www.w3schools.com/howto/howto_css_navbar_icon.asp)
 
-![Navigation Menu Bar](./assets/images/documentation/nav-menu-bar.jpg)
+Originally the Nav bar was quite plain and lacked style. Following some sound advice and suggestions via Peer-Code-Review on Slack, the Nav bar was changed to a more visually pleasant image for the user.
+
+![Former Navigation Menu Bar](./assets/images/documentation/nav-menu-bar.jpg)
+
+New Nav bar which runs across the full screen:
+
+![Updated Navigation Menu](./assets/images/documentation/nav-menu-updated.jpg)
 
 
 ## Hamburger Bar

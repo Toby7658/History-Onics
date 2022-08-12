@@ -41,29 +41,29 @@ h2 {
 }
 
 /* navigation menu */
-#menu {
-  font-size: 90%;
-  letter-spacing: 1px;
-  height: 28px;
-  font-family: "lato", "sans-serif";
-  font-weight: bolder;
-  color: #2f4f4f;
+
+.menu {
+  width: 50%;
+  background-color: #2f4f4f;
+  overflow: auto;
 }
 
-#menu a {
-  text-decoration: none;
-}
-
-#menu li {
+.menu a {
   float: right;
-  list-style-type: none;
-  margin-right: 20px;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
 }
 
-#menu a:hover {
-  font-weight: bold;
-  display: block;
-  text-decoration: underline;
+.menu a:hover {
+  background-color: darkkhaki;
+}
+
+.navbar {
+  background-color: darkkhaki;
+  float: right;
+
 }
 
 /* The hamburgerbar - overrides for smaller screens */
@@ -504,15 +504,16 @@ input[type=submit]:hover {
 }
 
 
-@media screen and (max-width: 2000px) {
-  #menu {
+@media screen and (max-width: 4000px) {
+  .menu {
     display: block;
+    width: 100%;
 
   }
 }
 
 @media screen and (max-width: 950px) {
-  #menu {
+  .menu {
     display: none;
   }
 }
