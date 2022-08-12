@@ -3,7 +3,7 @@
 HistoryOnics is a tourist history website that focuses on each province of Ireland. 
 The site aims to provide information about Irelands' history and interesting places 
 to visit for both local and international tourists. The site provides maps and videos 
-of each county, within each provence and links to social media for users to interact 
+of each county, within each province and links to social media for users to interact 
 with the site. The User can also contact the site should they have more queries. 
 
 ![Hero image](./assets/images/hero-image.jpeg)
@@ -150,7 +150,7 @@ site owners. Images of the team have also been added to the page.
 
 The contact page provides a query box and requires the user to complete various fields including
 Name, Phone, and Email. These boxes are required fields and have a * to indicate this to the user.
-The email address provided by the user must be correctly structured in order to submit a query.
+The email address provided by the user must be correctly structured to submit a query.
 
 The submission page appears after the user submits a query via the contact page. The page provides a message stating that the 
 query has been received. The user can then navigate away from this page by clicking on the Logo or nav bar provided.
@@ -232,7 +232,7 @@ influenced by [W3School Collapsed Sidepanel](https://www.w3schools.com/howto/how
 
 ## Logo
 
-The logo 'HistoryOnics' is a play on words. Histrionic, meaning overly dramatic and theatrical.
+The logo 'HistoryOnics' is a play on words. Histrionic, meaning overly dramatic or theatrical.
 is in keeping with the dramatic history and storytelling of Ireland. The font, "Cormorant SC" may
 also be seen as dramatic, coupled together with colour #2f4f4f brings a bold effect, in keeping with
 an Irish historical theme. Upon clicking on the logo, the user is brought back to the landing page.
@@ -249,16 +249,15 @@ The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and 
 
 ## Navigation Blocks
 
-The navigational block is provided for further interaction with the user. The user can hover over each image, which will then become grayscale, and upon clicking on the chosen box, the user will be directed to the chosen page. Famous aspects of each provence 
-have been used for imagery with bright colours to further attract the user visually. This block is responsive with all screens. Images are sourced via [Google Images](https://images.google.com/) via: [Connacht Image](https://theplanetd.com/poulnabrone-dolmen-ireland/), [Munster Image](https://www.atlanticwaytouring.com/product/quin-abbey/), [Leinster Image](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin), [Ulster Image](https://www.posterlounge.com/p/738259.html)
+The navigational block is provided for further interaction with the user. The user can hover over each image, which will then become grayscale, and upon clicking on the chosen box, the user will be directed to the chosen page. Famous aspects of each province have been used for imagery with bright colours to further attract the user visually. This block is responsive to all screens.Images are sourced via [Google Images](https://images.google.com/) via: [Connacht Image](https://theplanetd.com/poulnabrone-dolmen-ireland/), [Munster Image](https://www.atlanticwaytouring.com/product/quin-abbey/), [Leinster Image](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin), [Ulster Image](https://www.posterlounge.com/p/738259.html)
 
  ![Nav Block Menu](./assets/images/documentation/nav-block-menu.jpg)
 
  [Back to top](<#Table-of-Contents>)
 
 ## Social Media
-The social media icons can be accessed on all pages and will bring the user to four seperate external sites
-including [Twitter](https://twitter.com/), [Instagram](https://www.instagram.com/?hl=en), [Facebook](https://www.facebook.com/) and [Youtube](https://www.youtube.com/). The setting of these icons have been influenced by the Love Running module
+The social media icons can be accessed on all pages and will bring the user to four separate external sites
+including [Twitter](https://twitter.com/), [Instagram](https://www.instagram.com/?hl=en), [Facebook](https://www.facebook.com/) and [Youtube](https://www.youtube.com/). The setting of these icons has been influenced by the Love Running module
 as per [Code Institute](https://codeinstitute.net/ie/). Icons were accessed by [Font Awesome](https://fontawesome.com/icons).
 
 ![Social Media Icons](./assets/images/documentation/social-media-icons.jpg)
@@ -267,11 +266,12 @@ as per [Code Institute](https://codeinstitute.net/ie/). Icons were accessed by [
 
 ## Videos
 
-Videos have been incorporated as part of the Visit Pages for each county with in Provences. All video material have been sources 
-via Youtube. Each video provides information as per the county it is relating to. The videos were originally 
-to be placed on the left-hand-side of the page, however, this was not as visually appealing as when it is placed on the right. 
+Videos have been incorporated as part of the Visit Pages for each county within Provinces. All video material has been sourced 
+via Youtube. Each video provides information as per the county it is relating to. The videos were originaly 
+to be placed on the left-hand side of the page, however, this was not as visually appealing as when it is placed on the right. 
 Each video is responsive on all screens and will play within the page, without increasing in size. 
 Videos are sourced from:
+
 * [Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)
 * [Youtube - The Heart of Ireland](https://www.youtube.com/embed/2dWYJkQlDg0)
 * [Youtube - Kerry by a Local](https://www.youtube.com/embed/zDWJL6rLnes)
@@ -295,26 +295,26 @@ Videos are sourced from:
 
 ## Maps
 
-Maps have been incorporated on to each Visit Page, under each county seperately. The maps are responsive on
+Maps have been incorporated onto each Visit Page, under each county separately. The maps are responsive on
 all screens, however, must be clicked within the middle of the map for small mobile devices (eg. iPhone 5). Otherwise, all 
-maps will open and respond to 'View Larger Map' where indicated on map. Maps will also be responsive when clicked anywhere
-on map for all screens. Maps are sourced by accessing:
+maps will open and respond to 'View Larger Map' where indicated on the map. Maps will also be responsive when clicked anywhere
+on the map for all screens. Maps are sourced by accessing:
 
 * [Google Maps](https://www.google.com/maps/@52.8603236,-9.6709686,9z)
 
 [Back to top](<#Table-of-Contents>)
 
 ## Contact Us
-The contact page is a simple structure which allows the user to provide required and non-required information. 
-The required elements are indicated by * after the element name. This includes First Name, Last Name, Email.
-The phone and query box are not set as required. The email element must be correctly formatted so as to be accepted.
-The query box is the only aspect which has a placeholder to provide further instruction to the user. This page is
-accessable via the navigation menu on a wide screen and Hamburger Bar via a smaller device.
+The contact page is a simple structure that allows the user to provide required and non-required information. 
+The required elements are indicated by * after the element name. This includes First Name, Last Name, and Email.
+The phone and query box are not set as required. The email element must be correctly formatted to be accepted.
+The query box is the only aspect that has a placeholder to provide further instruction to the user. This page is
+accessible via the navigation menu on a wide screen and Hamburger Bar via a smaller device.
 
 [Back to top](<#Table-of-Contents>)
 
 ## Form Submission
-The form submission page is presented upon the user submitting a query via the contact page. This page has access to a navigational menu/hamburger-bar and Logo which will bring the user back to previous pages of the site. A message is in place acknowledging receipt of the query. A submit button is also inplace to allow the user to bring them back to the home page.
+The form submission page is presented upon the user submitting a query via the contact page. This page has access to a navigational menu/hamburger bar and Logo which will bring the user back to previous pages of the site. A message is in place acknowledging receipt of the query. A submit button is also in place to allow the user to bring them back to the home page.
 
 ![Button back for mobile](./assets/images/documentation/submit-button-submit-page-mobile.jpg)
 
@@ -322,10 +322,9 @@ The form submission page is presented upon the user submitting a query via the c
 
 ## About Us
 
-The about Us page provides information about how the site was established as the opening paragraph. This paragraph was 
+The About Us page provides information about how the site was established in the opening paragraph. This paragraph was 
 created using a text creator via [volusion.com](https://www.volusion.com/) 
-Below the opening paragrapg, there is a meet the team. This aspect provides a brief description of the team and provies images of the team-members.
-Public domain images are sourced via [pxhere.com](https://pxhere.com/)
+Below the opening paragraph, there is a Meet the Team. This aspect provides a brief description of the team and provides images of the team members. Public domain images are sourced via [pxhere.com](https://pxhere.com/)
 
 [Back to top](<#Table-of-Contents>)
 
@@ -337,32 +336,33 @@ clicked on to interact with.
 
 
 ## Future Features
-- An e-commerce element would be included where the user can book a specific tour per provence. The tours would be broken up into bus and bicyle tours.
+- An e-commerce element would be included where the user can book a specific tour per province. The tours would be broken up into bus and bicycle tours.
 - A page dedicated to where users can find the best pubs/restaurants off the beaten track and away from the tourist traps.
-- An e-commerce element which sells experiences, eg. spending an afternoon cooking traditional food in a host kitchen.
+- An e-commerce element that sells experiences, eg. spending an afternoon cooking traditional food in a hosting kitchen.
 
 [Back to top](<#Table-of-Contents>)
 
 ## Technologies Used
   * [HTML](https://en.wikipedia.org/wiki/HTML5) - HTML the most basic building block of the Web. This is the main language used to develop the site. 
-  * [CSS](https://en.wikipedia.org/wiki/CSS) - CSS describes how HTML elements are to be displayed on screen. This has been used to develop the stlye of the site.
-  * [Google Fonts](https://fonts.google.com/) - Google Fonts is a directory of font-families which was incorporated during development of the site.
-  * [Font Awesome Icons](https://fontawesome.com/icons) - Font Awsome is a directory of icons which was used to incorporate icons for social media, text and headings.
+  * [CSS](https://en.wikipedia.org/wiki/CSS) - CSS describes how HTML elements are to be displayed on screen. This has been used to develop the style of the site.
+  * [Google Fonts](https://fonts.google.com/) - Google Fonts is a directory of font families which was incorporated during the development of the site.
+  * [Font Awesome Icons](https://fontawesome.com/icons) - Font Awesome is a directory of icons that were used to incorporate icons for social media, text, and headings.
   * [balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwi8iXBhBeEiwAKbUoferdHodwIX8rhZQq6jDFB9i1ffpeC04Iv0ROTwgZLHrOEP1rmCqzjhoCUsMQAvD_BwE) - Balsamiq was used to create a mock-up wireframe for large and small screen devices.
   * [GitHub](https://github.com/about) - Github is used to host the source code for the site.
   * [Git](https://git-scm.com/) - Git is used to manage and keep track of the source code history throughout development. 
-  * [Gitpod](https://www.gitpod.io/) - Gitpod creats connections between Gitpod and GitHub account. Gitpod continuously builds git branches to facilitate the coding process.
+  * [Gitpod](https://www.gitpod.io/) - Gitpod creates connections between Gitpod and GitHub accounts. Gitpod continuously builds git branches to facilitate the coding process.
   * [Adobe Color](https://color.adobe.com/create/color-wheel) - Adobe Colour has been used to navigate colour charts for the site during development.
   * [Gimp](https://www.gimp.org/) - Gimp was used to edit and resize images before loading to the site. 
-  * [Slack](https://slack.com/intl/en-ie/) - Slack was utilized by seeking advise and knowledge from students and mentors.
+  * [Slack](https://slack.com/intl/en-ie/) - Slack was utilized by seeking advice and knowledge from students and mentors.
   * [Visual Studio](https://visualstudio.microsoft.com/) - Visual Studio was used in the very early phase to gain further understanding of how to properly implement code while gaining confidence with Github.
   * [volusion](https://www.volusion.com/) - Volusion is a site which drafts copy for paragraphs. 
-  * [pxhere](https://pxhere.com/) - Pxhere was used to sourse images for the About Us page.
+  * [pxhere](https://pxhere.com/) - Pxhere was used to source images for the About Us page.
   * [Google Maps](https://www.google.com/maps/@52.8603236,-9.6709686,9z) - Google Maps was used to source the map links for each visit page.
-  * [Youtube](https://www.youtube.com/) - Youtube was the sourse for each video on the Visit Pages.
-  * [Code Institute](https://codeinstitute.net/ie/) - Influence with styling the landing page was taken from the Love Running module available via the Programme Overview.
+  * [Youtube](https://www.youtube.com/) - Youtube was the source for each video on the Visit Pages.
+  * [Code Institute](https://codeinstitute.net/ie/) - Influence with the styling of the landing page was taken from the Love Running module available via the Programme Overview.
   * [Google Images](https://images.google.com/) - Google Images provided images for the Hero Image and Navigation block on the landing page.
   * [HTML CSS Color Picker](https://www.htmlcsscolor) - This site was accessed to assist with defining colour.
+
 
 [Back to top](<#Table-of-Contents>) 
  
@@ -384,8 +384,8 @@ clicked on to interact with.
 * CSS - [Error Free CSS](./assets/images/documentation/error-free-css.jpg)
 
 ## Lighthouse Testing Desktop Results:
-* Home Page html - [Lighthouse Validation Home Page](./assets/images/documentation/desktop-home-lighthouse-image.jpg)
-* Munster Page html - [Lighthouse Validation Munster Page](./assets/images/documentation/desktop-munster-lighthouse-image.jpg)
+* Home Page Html - [Lighthouse Validation Home Page](./assets/images/documentation/desktop-home-lighthouse-image.jpg)
+* Munster Page Html - [Lighthouse Validation Munster Page](./assets/images/documentation/desktop-munster-lighthouse-image.jpg)
 * Leinster Page html - [Lighthouse Validation Leinster Page](./assets/images/documentation/desktop-leinster-lighthouse-image.jpg)
 * Connacht Page html - [Lighthouse Validation Connacht Page](./assets/images/documentation/desktop-connacht-lighthouse-image.jpg)
 * Ulster Page html - [Lighthouse Validation Ulster Page](./assets/images/documentation/desktop-ulster-lighthouse-image.jpg)
@@ -408,29 +408,29 @@ clicked on to interact with.
 * Zero custom fonts load in ways that delay text visibility.
 * Zero Accessibility Issues were Detected.
 * Zero render-blocking third-party requests found.
-* Zero security vulnerabilies were detected by Snyk.
+* Zero security vulnerabilities were detected by Snyk.
 * Zero resources were found that were loaded over an insecure connection.
 
-Chrome - Site posed no issues when accessing Chrome.
-FireFox - Site posed no issues when accessing FireFox, however, upon accessing the submission page, one of the walking icons
+Chrome - The site posed no issues when accessing Chrome.
+Firefox - The site posed no issues when accessing Firefox, however, upon accessing the submission page, one of the walking icons
 moves under the text as opposed to remaining beside it.
 
 
 [Back to top](<#Table-of-Contents>)
 
 ## Bugs and Errors
-1. The ALT text adds a text description to an image on a Web page, and should be used for all images, graphical bullets, and graphical horizontal rules. Initally, Alt was included in the video iframe, however, this brought the Lighthouse Validation score down. Once this was removed, the score increased.
+1. The ALT text adds a text description to an image on a Web page, and should be used for all images, graphical bullets, and graphical horizontal rules. Initially, Alt was included in the video iframe, however, this brought the Lighthouse Validation score down. Once this was removed, the score increased.
 2. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
-were set as percentage and was coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video 
+were set as a percentage and were coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused an issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video 
 for a smoother transition when resizing.
 
 ## Deployment
-1. Access *[Github](https://github.com/)* by signing into account
-2. Access Repositorys on top-right-hand corner on the screen
-3. Select Respository required from list
+1. Access *[Github](https://github.com/)* by signing into an account
+2. Access the Repository on the top-right-hand corner of the screen
+3. Select the Repository required from the list
 4. Click 'Settings' on the menu tab
 5. On the left-hand-side of the next page, click 'Pages'
-6. Under source, select branch:main, folder: root and then click save. 
+6. Under source, select branch: main, folder: root, and then click save. 
 7. Once saved, the site will take time to refresh while it goes public. 
 8. A link will appear stating (eg. of my account): Your site is live at https://toby7658.github.io/History-Onics/
 
@@ -444,19 +444,19 @@ for a smoother transition when resizing.
 * W3C School About Us Page *[W3C School About Us](https://www.w3schools.com/howto/howto_css_about_page.asp)* - This assisted with developing the About Us page.
 * W3C School CSS Tutorial *[W3C School CSS Tutorial](https://www.w3schools.com/css/)* - Used for additional learning around the over-all basics of CSS.
 * W3C School Hamburger Bar Icon *[W3C School Hamburger Bar Icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)* - This assisted with developing the Hamburger Bar Icon.
-* W3C School Hamburger Bar sidepanel *[W3C School Hamburger Bar sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburger Bar sidepanel.
+* W3C School Hamburger Bar side panel *[W3C School Hamburger Bar sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburger Bar side panel.
 * W3C School Hover *[W3C School Hover](https://www.w3schools.com/cssref/sel_hover.asp)* - This assisted with creating hover interaction when mouse-over menus.
 * Linuxhint *[Linuxhint](https://linuxhint.com/html-meta-tag/)* - This assisted with gaining further knowledge around meta tags.
-* Navigation Menu *[Love Running](https://codeinstitute.net/ie/)* - This element was influenced with the Love Running module tutorial.
-* Markdown Guide *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* - This was used to understand basic syntax for Markdown.
-* Youtube *[Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)* - Videos for each county is sourced via Youtube.
+* Navigation Menu *[Love Running](https://codeinstitute.net/ie/)* - This element was influenced by the Love Running module tutorial.
+* Markdown Guide *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* - This was used to understand the basic syntax for Markdown.
+* Youtube *[Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)* - Videos for each county are sourced via Youtube.
 * Youtube *[Youtube - The Heart of Ireland](https://www.youtube.com/embed/2dWYJkQlDg0)* - Videos for each county is sourced via Youtube.
 * Youtube *[Youtube - Kerry by a Local](https://www.youtube.com/embed/zDWJL6rLnes)* - Videos for each county is sourced via Youtube.
 * Youtube *[Youtube - Galway City](https://www.youtube.com/embed/ocJPdvALnow)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Mayos Historic Houses](https://www.youtube.com/embed/Kyl4NpYWAKs)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Mayos Historic Houses](https://www.youtube.com/embed/Kyl4NpYWAKs)* - Videos for each county are sourced via Youtube.
 * Youtube *[Youtube - Epic Dublin](https://www.youtube.com/embed/hO14hhzAaeo)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Carlow Hidden Gems](https://www.youtube.com/embed/ehl1dCF3cuA)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - The Fall of the House of Kildare](https://www.youtube.com/embed/P5pLGLF4Km4)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Carlow Hidden Gems](https://www.youtube.com/embed/ehl1dCF3cuA)* - Videos for each county are sourced via Youtube.
+* Youtube *[Youtube - The Fall of the House of Kildare](https://www.youtube.com/embed/P5pLGLF4Km4)* - Videos for each county are sourced via Youtube.
 * Youtube *[Youtube - Kilkenny](https://www.youtube.com/embed/tIKix6WE-4k)* - Videos for each county is sourced via Youtube.
 * Youtube *[Youtube - Cork Military History](https://www.youtube.com/embed/wLfCrP9fGps)* - Videos for each county is sourced via Youtube.
 * Youtube *[Youtube - County Louth](https://www.youtube.com/embed/F842XAZCo30)* - Videos for each county is sourced via Youtube.
@@ -464,15 +464,15 @@ for a smoother transition when resizing.
 * Youtube *[Youtube - Visit Cavan](https://www.youtube.com/embed/P_IsHs0PZUY)* - Videos for each county is sourced via Youtube.
 * Youtube *[Youtube - Antrim Coast](https://www.youtube.com/embed/0h3cYy9Dw2M)* - Videos for each county is sourced via Youtube.
 * Youtube *[Youtube - Tyrone](https://www.youtube.com/embed/oWakocgKgWg)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Flavour of Ireland](https://www.youtube.com/embed/psRBvZtDkfc)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Pocket History of Londonderry](https://www.youtube.com/embed/ykWLGa5XrIs)* - Videos for each county is sourced via Youtube.
-* Hero Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Cliffs of Moher](https://www.cliffsofmoher.ie/)*.
-* Munster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product/quin-abbey//)*
+* Youtube *[Youtube - Flavour of Ireland](https://www.youtube.com/embed/psRBvZtDkfc)* - Videos for each county are sourced via Youtube.
+* Youtube *[Youtube - Pocket History of Londonderry](https://www.youtube.com/embed/ykWLGa5XrIs)* - Videos for each county are sourced via Youtube.
+* Hero Image *[Google Images](https://images.google.com/)* - Image sourced via Google Images and originated via *[Cliffs of Moher](https://www.cliffsofmoher.ie/)*.
+* Munster Image *[Google Images](https://images.google.com/)* - Image sourced via Google Images and originated via *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product/quin-abbey//)*
 * Connacht Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[The Planet](https://theplanetd.com/poulnabrone-dolmen-ireland/)*.
 * Leinster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Meeting Select](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin/)*.
 * Ulster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Poster Lounge](https://www.posterlounge.com/p/738259.html)*.
 * Github *[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)* - This information assisted with understanding the syntax of Markdown.
-* Landing Page paragraph *[Power Trip](https://powertripshow.com/location/ireland/)* - Paragraph taken and added to Landing Page introduction.
+* Landing Page paragraph *[Power Trip](https://powertripshow.com/location/ireland/)* - Paragraph was taken and added to Landing Page introduction.
 * Landing Page paragraph *[Interview Area](https://www.interviewarea.com/faq/do-people-love-ireland)* - Two sentences taken and added to Landing Page introduction.
 * Volusion *[Volusion](https://www.volusion.com/)* - This was used to help create an introductory paragraph for the Landing Page.
 
@@ -527,7 +527,6 @@ for a smoother transition when resizing.
 ## Acknowledgment
 Many thanks to my Mentor *[Jack Wachira](https://github.com/iamjackwachira)* for providing solid guidance
 and support. Thanks to Code Institute for giving me such an amazing opportunity to develop a new career
-in such a supporting environment. Thanks to the community on Slack who are an ongoing wealth of information and motivation. 
+in such a supportive environment. Thanks to the community on Slack who are an ongoing wealth of information and motivation. 
 
 [Back to top](<#Table-of-Contents>)
-
