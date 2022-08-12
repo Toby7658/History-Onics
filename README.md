@@ -429,6 +429,7 @@ moves under the text as opposed to remaining beside it.
 2. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
 were set as a percentage and were coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused an issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video 
 for a smoother transition when resizing.
+3. During the development
 
 ## Deployment
 1. Access *[Github](https://github.com/)* by signing into an account
@@ -444,6 +445,7 @@ for a smoother transition when resizing.
 
 ## Credits
 * Mentor support and guidance from *[Jack Wachira](https://github.com/iamjackwachira)*.
+* Peer-code-review from *[Harry Dhillon](https://github.com/Harry-Leepz)*.
 * Facilitator and support from *[Kenan Wright](https://github.com/KenanCarlWright/KenanCarlWright)*.
 * W3C School Collapse Sidepanel *[W3C School Collapse Sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburgerbar.
 * W3C School Contact Form *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* - This assisted with developing the Contact Box on the Contact Us page.
