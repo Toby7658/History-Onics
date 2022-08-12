@@ -373,8 +373,8 @@ input[type=submit]:hover {
 
 #funpage {
   position: absolute;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
   width: 90%;
   top: 200px;
   text-align: center;
@@ -383,10 +383,8 @@ input[type=submit]:hover {
 /* submit button on submit page to bring user back to home page */
 
 #funpage input[type=submit] {
-  width: 100%;
+  width: 50%;
   text-align: center;
-  height: 50%;
-
 }
 
 /* media query for screens max-width: 480px */
@@ -475,7 +473,11 @@ input[type=submit]:hover {
 
     text-transform: none;
     letter-spacing: 1px;
+  }
 
+  #funpage input[type=submit] {
+    width: 90%;
+    text-align: center;
   }
 }
 
@@ -503,7 +505,11 @@ input[type=submit]:hover {
     text-align: center;
   }
 
-
+  #funpage input[type=submit] {
+    width: 100%;
+    text-align: center;
+    height: 30%;
+  }
 }
 
 /* On screens that are a min 950px wide or lower - hambugerbar*/
@@ -513,7 +519,7 @@ input[type=submit]:hover {
   }
 
   #funpage input[type=submit] {
-    width: 20%;
+    width: 30%;
     text-align: center;
     height: 50%;
 
@@ -525,12 +531,22 @@ input[type=submit]:hover {
   .menu {
     display: block;
     width: 100%;
-
   }
+
 }
 
 @media screen and (max-width: 950px) {
   .menu {
     display: none;
   }
+}
+
+@media screen and (min-width: 1300px) {
+
+  #funpage input[type=submit] {
+    width: 20%;
+    text-align: center;
+
+  }
+
 }
