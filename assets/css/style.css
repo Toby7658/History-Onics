@@ -495,7 +495,7 @@ input[type=submit]:hover {
   }
 }
 
-/* On screens that are a min 950px wide or lower - hide hambugerbar*/
+/* On screens that are a min 950px wide or lower - hambugerbar*/
 @media screen and (min-width: 950px) {
   .openbtn {
     display: none;
