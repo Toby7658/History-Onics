@@ -343,18 +343,19 @@ input[type=submit]:hover {
 #visitblock {
   padding-top: 150px;
   display: block;
-  width: 95%;
+  width: 90%;
   height: auto;
   margin-left: 5%;
+  margin-right: 5%;
   font-size: larger;
-}
 
+}
 
 .column {
   float: left;
   width: 40%;
   height: auto;
-  text-align: justify;
+  text-align: center;
   margin-bottom: 2%;
   margin-right: 5%;
   margin-left: 5%;
@@ -363,7 +364,6 @@ input[type=submit]:hover {
 /* Clear floats after the columns */
 
 .row:after {
-
   content: "";
   display: table;
   clear: both;
@@ -427,10 +427,10 @@ input[type=submit]:hover {
 
   #visitblock {
     padding-top: 70px;
-    width: 96%;
+    width: 94%;
     height: auto;
-    margin-right: 2%;
-    margin-left: 2%;
+    margin-right: 3%;
+    margin-left: 3%;
   }
 
   .column {
@@ -476,7 +476,7 @@ input[type=submit]:hover {
   }
 
   #funpage input[type=submit] {
-    width: 90%;
+    width: 50%;
     text-align: center;
   }
 }
@@ -490,7 +490,7 @@ input[type=submit]:hover {
 
   .column {
     float: left;
-    width: 96%;
+    width: 98%;
     height: auto;
     text-align: center;
     margin: 0;
