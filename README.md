@@ -321,6 +321,7 @@ accessible via the navigation menu on a wide screen and Hamburger Bar via a smal
 The form submission page is presented upon the user submitting a query via the contact page. This page has access to a navigational menu/hamburger bar and Logo which will bring the user back to previous pages of the site. A message is in place acknowledging receipt of the query. A submit button is also in place to allow the user to bring them back to the home page.
 
 ![Button back for mobile](./assets/images/documentation/submit-button-submit-page-mobile.jpg)
+![Button back for desktop](./assets/images/documentation/submit-button-submit-page-desktop.jpg)
 
 [Back to top](<#Table-of-Contents>)
 
