@@ -380,6 +380,14 @@ input[type=submit]:hover {
   text-align: center;
 }
 
+/* submit button on submit page to bring user back to home page */
+
+#funpage input[type=submit] {
+  width: 20%;
+  text-align: center;
+  height: 50%;
+}
+
 /* media query for screens max-width: 480px */
 
 @media only screen and (min-width: 200px) and (max-width: 480px) {
