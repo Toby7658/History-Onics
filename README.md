@@ -185,7 +185,7 @@ The colour scheme was guided by [Adobe Color](https://color.adobe.com/create/col
 ![Colour #e2eecc](./assets/images/documentation/e2eecc-colour-desktop.jpg)
 ![Colour #2f4f4f](./assets/images/documentation/2f4f4f-colour-desktop.jpg)
 ![Colour #f1f1f1](./assets/images/documentation/f1f1f1-colour-desktop.jpg)
-![Colour #45a049](./assets/images/documentation/f1f1f1-colour-desktop.jpg)
+![Colour #45a049](./assets/images/documentation/45a049-colour-desktop.jpg)
 
 # Mobile Colours:
 ![Colour #faebd7](./assets/images/documentation/faebd7-colour-mobile.jpg)
