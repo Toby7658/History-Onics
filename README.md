@@ -90,34 +90,34 @@ visual effects. Changes include moving the Logo to the centre and creating a Nav
 which is replaced by a Hamburger bar as devices become smaller.
 
 ### Home Page for wide screen devise
-![Wireframe image home page](./assets/images/wireframe-home-wide.jpg)
+![Wireframe image home page](./assets/images/documentation/wireframe-home-wide.jpg)
 
 ### Visit Page for wide screen devise
-![Wireframe image visit page](./assets/images/wireframe-visit-wide.jpg)
+![Wireframe image visit page](./assets/images/documentation/wireframe-visit-wide.jpg)
 
 ### About Us Page for wide screen devise
-![Wireframe image about us page](./assets/images/wireframe-about-wide.jpg)
+![Wireframe image about us page](./assets/images/documentation/wireframe-about-wide.jpg)
 
 ### Contact Page for wide screen devise
-![Wireframe image contact page](./assets/images/wireframe-contact-wide.jpg)
+![Wireframe image contact page](./assets/images/documentation/wireframe-contact-wide.jpg)
 
 ### Submit Page for wide screen devise
-![Wireframe image submit page](./assets/images/wireframe-submit-wide.jpg)
+![Wireframe image submit page](./assets/images/documentation/wireframe-submit-wide.jpg)
 
 ### Home Page for small screen devise
-![Wireframe image home page](./assets/images/wireframe-home-small.jpg)
+![Wireframe image home page](./assets/images/documentation/wireframe-home-small.jpg)
 
 ### Visit Page for small screen devise
-![Wireframe image visit page](./assets/images/wireframe-visit-small.jpg)
+![Wireframe image visit page](./assets/images/documentation/wireframe-visit-small.jpg)
 
 ### About Us Page for small screen devise
-![Wireframe image about us page](./assets/images/wireframe-about-small.jpg)
+![Wireframe image about us page](./assets/images/documentation/wireframe-about-small.jpg)
 
 ### Contact Page for small screen devise
-![Wireframe image contact page](./assets/images/wireframe-contact-small.jpg)
+![Wireframe image contact page](./assets/images/documentation/wireframe-contact-small.jpg)
 
 ### Submit Page for small screen devise
-![Wireframe image submit page](./assets/images/wireframe-submit-small.jpg)
+![Wireframe image submit page](./assets/images/documentation/wireframe-submit-small.jpg)
 
 [Back to top](<#Table-of-Contents>)
 
@@ -182,17 +182,19 @@ the menu, the background has changed to #d2691e.
 The colour scheme was guided by [Adobe Color](https://color.adobe.com/create/color-wheel) and [HTML CSS Color Picker](https://www.htmlcsscolor.com/).
 
 # Desktop Colours:
-![Colour #e2eecc](./assets/images/e2eecc-colour-desktop.jpg)
-![Colour #2f4f4f](./assets/images/2f4f4f-colour-desktop.jpg)
-![Colour #f1f1f1](./assets/images/f1f1f1-colour-desktop.jpg)
-![Colour #45a049](./assets/images/45a049-colour-desktop.jpg)
+![Colour #e2eecc](./assets/images/documentation/e2eecc-colour-desktop.jpg)
+![Colour #2f4f4f](./assets/images/documentation/2f4f4f-colour-desktop.jpg)
+![Colour #f1f1f1](./assets/images/documentation/f1f1f1-colour-desktop.jpg)
+![Colour #45a049](./assets/images/documentation/f1f1f1-colour-desktop.jpg)
 
 # Mobile Colours:
-![Colour #faebd7](./assets/images/faebd7-colour-mobile.jpg)
-![Colour #d2691e](./assets/images/d2691e-colour-mobile.jpg)
-![Colour #FF7F50](./assets/images/colal-colour-mobile.jpg)
-![Colour #000000](./assets/images/black-colour-mobile.jpg)
+![Colour #faebd7](./assets/images/documentation/faebd7-colour-mobile.jpg)
+![Colour #d2691e](./assets/images/documentation/d2691e-colour-mobile.jpg)
+![Colour #FF7F50](./assets/images/documentation/colal-colour-mobile.jpg)
+![Colour #000000](./assets/images/documentation/black-colour-mobile.jpg)
 
+![Mobile Homepage Colour Scheme](./assets/images/documentation/mobile-colourchange-image.jpg)
+![Mobile Burgerbar Colour Scheme](./assets/images/documentation/mobile-colourchange-menu-image.jpg)
 
 [Back to top](<#Table-of-Contents>)
 
@@ -206,7 +208,7 @@ through seven pages (the eight-page being the submission button which cannot be 
 contact page). Each element becomes underlined as the user hovers over the tabs separately. This aspect was influenced
 by the Love Running Module via [Code Institute](https://codeinstitute.net/ie/)
 
-![Navigation Menu Bar](./assets/images/nav-menu-bar.jpg)
+![Navigation Menu Bar](./assets/images/documentation/nav-menu-bar.jpg)
 
 
 ## Hamburger Bar
@@ -217,8 +219,8 @@ The icon can be recognized by the three lines visible, upon the user clicking on
 provide a list of pages. The X on the open tab of the menu must then be clicked to close the hamburger bar. This aspect was
 influenced by [W3School Collapsed Sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp).
 
- ![Hamburger bar closed](./assets/images/hamburger-button-closed.jpg)
- ![Hamburger bar open](./assets/images/hamburger-button-open.jpg)
+ ![Hamburger bar closed](./assets/images/documentation/hamburger-button-closed.jpg)
+ ![Hamburger bar open](./assets/images/documentation/hamburger-button-open.jpg)
 
 [Back to top](<#Table-of-Contents>)
 
@@ -230,7 +232,7 @@ also be seen as dramatic, coupled together with colour #2f4f4f brings a bold eff
 an Irish historical theme. Upon clicking on the logo, the user is brought back to the landing page.
 The logo is responsive on all screens.
 
-![Logo Image](./assets/images/logo-image.jpg)
+![Logo Image](./assets/images/documentation/logo-image.jpg)
 
 [Back to top](<#Table-of-Contents>)
 
@@ -244,7 +246,7 @@ The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and 
 The navigational block is provided for further interaction with the user. The user can hover over each image, which will then become grayscale, and upon clicking on the chosen box, the user will be directed to the chosen page. Famous aspects of each provence 
 have been used for imagery with bright colours to further attract the user visually. This block is responsive with all screens. Images are sourced via [Google Images](https://images.google.com/) via: [Connacht Image](https://theplanetd.com/poulnabrone-dolmen-ireland/), [Munster Image](https://www.atlanticwaytouring.com/product/quin-abbey/), [Leinster Image](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin), [Ulster Image](https://www.posterlounge.com/p/738259.html)
 
- ![Nav Block Menu](./assets/images/nav-block-menu.jpg)
+ ![Nav Block Menu](./assets/images/documentation/nav-block-menu.jpg)
 
  [Back to top](<#Table-of-Contents>)
 
@@ -253,7 +255,7 @@ The social media icons can be accessed on all pages and will bring the user to f
 including [Twitter](https://twitter.com/), [Instagram](https://www.instagram.com/?hl=en), [Facebook](https://www.facebook.com/) and [Youtube](https://www.youtube.com/). The setting of these icons have been influenced by the Love Running module
 as per [Code Institute](https://codeinstitute.net/ie/). Icons were accessed by [Font Awesome](https://fontawesome.com/icons).
 
-![Social Media Icons](./assets/images/social-media-icons.jpg)
+![Social Media Icons](./assets/images/documentation/social-media-icons.jpg)
 
 [Back to top](<#Table-of-Contents>)
 
@@ -364,33 +366,33 @@ clicked on to interact with.
 - [W3CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
 ## W3 Validation Results:
-* Home Page html - [Error Free Home Page](./assets/images/error-free-home-html.jpg)
-* Munster Page html - [Error Free Munster Page](./assets/images/error-free-munster-html.jpg)
-* Leinster Page html - [Error Free Leinster Page](./assets/images/error-free-leinster-html.jpg)
-* Connacht Page html - [Error Free Connacht Page](./assets/images/error-free-connacht-html.jpg)
-* Ulster Page html - [Error Free Ulster Page](./assets/images/error-free-ulster-html.jpg)
-* About Page html - [Error Free About Us Page](./assets/images/error-free-about-html.jpg)
-* Submit Page html - [Error Free Submit Page](./assets/images/error-free-submit-html.jpg)
-* Contact Page html - [Error Free Contact Page](./assets/images/error-free-contact-html.jpg)
-* CSS - [Error Free CSS](./assets/images/error-free-css.jpg)
+* Home Page html - [Error Free Home Page](./assets/images/documentation/error-free-home-html.jpg)
+* Munster Page html - [Error Free Munster Page](./assets/images/documentation/error-free-munster-html.jpg)
+* Leinster Page html - [Error Free Leinster Page](./assets/images/documentation/error-free-leinster-html.jpg)
+* Connacht Page html - [Error Free Connacht Page](./assets/images/documentation/error-free-connacht-html.jpg)
+* Ulster Page html - [Error Free Ulster Page](./assets/images/documentation/error-free-ulster-html.jpg)
+* About Page html - [Error Free About Us Page](./assets/images/documentation/error-free-about-html.jpg)
+* Submit Page html - [Error Free Submit Page](./assets/images/documentation/error-free-submit-html.jpg)
+* Contact Page html - [Error Free Contact Page](./assets/images/documentation/error-free-contact-html.jpg)
+* CSS - [Error Free CSS](./assets/images/documentation/error-free-css.jpg)
 
 ## Lighthouse Testing Desktop Results:
-* Home Page html - [Lighthouse Validation Home Page](./assets/images/desktop-home-lighthouse-image.jpg)
-* Munster Page html - [Lighthouse Validation Munster Page](./assets/images/desktop-munster-lighthouse-image.jpg)
-* Leinster Page html - [Lighthouse Validation Leinster Page](./assets/images/desktop-leinster-lighthouse-image.jpg)
-* Connacht Page html - [Lighthouse Validation Connacht Page](./assets/images/desktop-connacht-lighthouse-image.jpg)
-* Ulster Page html - [Lighthouse Validation Ulster Page](./assets/images/desktop-ulster-lighthouse-image.jpg)
-* About Page html - [Lighthouse Validation About Us Page](./assets/images/desktop-about-lighthouse-image.jpg)
-* Contact Page html - [Lighthouse Validation Contact Page](./assets/images/desktop-contact-lighthouse-image.jpg)
+* Home Page html - [Lighthouse Validation Home Page](./assets/images/documentation/desktop-home-lighthouse-image.jpg)
+* Munster Page html - [Lighthouse Validation Munster Page](./assets/images/documentation/desktop-munster-lighthouse-image.jpg)
+* Leinster Page html - [Lighthouse Validation Leinster Page](./assets/images/documentation/desktop-leinster-lighthouse-image.jpg)
+* Connacht Page html - [Lighthouse Validation Connacht Page](./assets/images/documentation/desktop-connacht-lighthouse-image.jpg)
+* Ulster Page html - [Lighthouse Validation Ulster Page](./assets/images/documentation/desktop-ulster-lighthouse-image.jpg)
+* About Page html - [Lighthouse Validation About Us Page](./assets/images/documentation/desktop-about-lighthouse-image.jpg)
+* Contact Page html - [Lighthouse Validation Contact Page](./assets/images/documentation/desktop-connacht-lighthouse-image.jpg)
 
 ## Lighthouse Testing Mobile Results:
-* Home Page html - [Lighthouse Validation Home Page](./assets/images/mobile-home-lighthouse-image.jpg)
-* Munster Page html - [Lighthouse Validation Munster Page](./assets/images/mobile-munster-lighthouse-image.jpg)
-* Leinster Page html - [Lighthouse Validation Leinster Page](./assets/images/mobile-leinster-lighthouse-image.jpg)
-* Connacht Page html - [Lighthouse Validation Connacht Page](./assets/images/mobile-connacht-lighthouse-image.jpg)
-* Ulster Page html - [Lighthouse Validation Ulster Page](./assets/images/mobile-ulster-lighthouse-image.jpg)
-* About Page html - [Lighthouse Validation About Us Page](./assets/images/mobile-about-lighthouse-image.jpg)
-* Contact Page html - [Lighthouse Validation Contact Page](./assets/images/mobile-contact-lighthouse-image.jpg)
+* Home Page html - [Lighthouse Validation Home Page](./assets/images/documentation/mobile-home-lighthouse-image.jpg)
+* Munster Page html - [Lighthouse Validation Munster Page](./assets/images/documentation/mobile-munster-lighthouse-image.jpg)
+* Leinster Page html - [Lighthouse Validation Leinster Page](./assets/images/documentation/mobile-leinster-lighthouse-image.jpg)
+* Connacht Page html - [Lighthouse Validation Connacht Page](./assets/images/documentation/mobile-connacht-lighthouse-image.jpg)
+* Ulster Page html - [Lighthouse Validation Ulster Page](./assets/images/documentation/mobile-ulster-lighthouse-image.jpg)
+* About Page html - [Lighthouse Validation About Us Page](./assets/images/documentation/mobile-about-lighthouse-image.jpg)
+* Contact Page html - [Lighthouse Validation Contact Page](./assets/images/documentation/mobile-contact-lighthouse-image.jpg)
 
 ## Webpagetest
 * Results - Passed
