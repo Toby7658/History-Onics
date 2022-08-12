@@ -229,6 +229,9 @@ influenced by [W3School Collapsed Sidepanel](https://www.w3schools.com/howto/how
  ![Hamburger bar closed](./assets/images/documentation/hamburger-button-closed.jpg)
  ![Hamburger bar open](./assets/images/documentation/hamburger-button-open.jpg)
 
+ ![Hamburger bar closed](./assets/images/documentation/hamburger-button-closed.mobile.jpg)
+ ![Hamburger bar open](./assets/images/documentation/hamburger-button-open-mobile.jpg)
+
 [Back to top](<#Table-of-Contents>)
 
 ## Logo
