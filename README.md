@@ -430,7 +430,12 @@ moves under the text as opposed to remaining beside it.
 were set as a percentage and were coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused an issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video 
 for a smoother transition when resizing.
 3. Upon adding the back button on the submit page, the button became cut off when resizing to a smaller devise:
+
 ![Button back for mobile](./assets/images/documentation/error-submitmobile-cutoff.jpg)
+
+Issue was corrected by re-using the css for the contact page submit button:
+
+![Button back for mobile](./assets/images/documentation/error-submitmobile-fixed.jpg)
 
 
 ## Deployment

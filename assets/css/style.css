@@ -475,7 +475,6 @@ input[type=submit]:hover {
 
   h1,
   h2 {
-
     text-transform: none;
     letter-spacing: 1px;
   }
@@ -484,10 +483,11 @@ input[type=submit]:hover {
     width: 50%;
     text-align: center;
   }
+
 }
 
 /* On screens that are 992px wide or less, go from four columns to two columns */
-@media screen and (min-width: 480px) and (max-width: 992px) {
+@media screen and (min-width: 480px) and (max-width: 950px) {
 
   #title {
     text-align: center;
@@ -510,6 +510,10 @@ input[type=submit]:hover {
     text-align: center;
   }
 
+  .menu {
+    display: none;
+  }
+
 }
 
 /* On screens that are a min 950px wide or lower - hambugerbar*/
@@ -523,10 +527,11 @@ input[type=submit]:hover {
     text-align: center;
     height: 50%;
   }
+
+
 }
 
-
-@media screen and (max-width: 4000px) {
+@media screen and (min-width: 950px) and (max-width: 3000px) {
   .menu {
     display: block;
     width: 100%;
@@ -534,7 +539,7 @@ input[type=submit]:hover {
 
 }
 
-@media screen and (min-width: 300px) and (max-width: 480px) {
+@media screen and (min-width: 200px) and (max-width: 480px) {
   .menu {
     display: none;
   }
