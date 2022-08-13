@@ -134,7 +134,7 @@ The site is made up of eight pages. They are constructed of:
 8. * [Submit page](submit.html)
 
 The site opens with a landing page that presents a [Hero Image](./assets/images/hero-image.jpeg) with a zoom effect. For wide screens, there is a navigation menu on the top right-hand side. This turns into a hamburger bar for smaller screens and is placed on the left of the screen. The logo is also used as a navigational tool on each page to bring the user
-back to the landing page. The nav bars are provided on each page to guide the user and are responsive on all screen sizes.
+back to the landing page. The nav bars are provided on each page, except the submission page, to guide the user and are responsive on all screen sizes.
 
 The centre structure of the page provides a short introduction to the site. The heading used for this piece also incorporates fixed
 icons of a person strolling, this is to complement the title 'A Stroll Back In Time'. 
@@ -248,7 +248,7 @@ The logo is responsive on all screens.
 [Back to top](<#Table-of-Contents>)
 
 ## Hero Image
-The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and is synonymous with Ireland across the globe and presents an immediate interaction with the user with the zoom-in effect. The zoom-in effect is responsive to all screen sizes. The Hero Image was sourced via [Google Images](https://images.google.com/) from [Cliffs of Moher](https://www.cliffsofmoher.ie/unesco-global-geopark/education/learning-resources/).
+The [Hero Image](./assets/images/hero-image.jpeg) is of the Cliffs of Moher and is synonymous with Ireland across the globe and presents an immediate interaction with the user with the zoom-in effect. The zoom-in effect is responsive to all wide-screen sizes. The Hero Image was sourced via [Google Images](https://images.google.com/) from [Cliffs of Moher](https://www.cliffsofmoher.ie/unesco-global-geopark/education/learning-resources/).
 
 [Back to top](<#Table-of-Contents>)
 
