@@ -348,7 +348,6 @@ input[type=submit]:hover {
   margin-left: 5%;
   margin-right: 5%;
   font-size: larger;
-
 }
 
 .column {
@@ -382,10 +381,7 @@ input[type=submit]:hover {
 
 /* submit button on submit page to bring user back to home page */
 
-#funpage input[type=submit] {
-  width: 50%;
-  text-align: center;
-}
+
 
 /* media query for screens max-width: 480px */
 
@@ -475,10 +471,6 @@ input[type=submit]:hover {
     letter-spacing: 1px;
   }
 
-  #funpage input[type=submit] {
-    width: 50%;
-    text-align: center;
-  }
 }
 
 /* On screens that are 992px wide or less, go from four columns to two columns */
@@ -505,11 +497,6 @@ input[type=submit]:hover {
     text-align: center;
   }
 
-  #funpage input[type=submit] {
-    width: 100%;
-    text-align: center;
-    height: 30%;
-  }
 }
 
 /* On screens that are a min 950px wide or lower - hambugerbar*/
@@ -518,12 +505,6 @@ input[type=submit]:hover {
     display: none;
   }
 
-  #funpage input[type=submit] {
-    width: 30%;
-    text-align: center;
-    height: 50%;
-
-  }
 }
 
 
@@ -535,18 +516,9 @@ input[type=submit]:hover {
 
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (min-width: 300px) and (max-width: 480px) {
   .menu {
     display: none;
-  }
-}
-
-@media screen and (min-width: 1300px) {
-
-  #funpage input[type=submit] {
-    width: 20%;
-    text-align: center;
-
   }
 
 }
