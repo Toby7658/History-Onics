@@ -426,17 +426,23 @@ moves under the text as opposed to remaining beside it.
 [Back to top](<#Table-of-Contents>)
 
 ## Bugs and Errors
-1. The ALT text adds a text description to an image on a Web page, and should be used for all images, graphical bullets, and graphical horizontal rules. Initially, Alt was included in the video iframe, however, this brought the Lighthouse Validation score down. Once this was removed, the score increased.
-2. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
-were set as a percentage and were coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused an issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video 
-for a smoother transition when resizing.
-3. Upon adding the back button on the submit page, the button became cut off when resizing to a smaller devise:
+1. The ALT text adds a text description to an image on a Web page, and should be used for all images, graphical bullets, and graphical horizontal rules. Initially, Alt was included in the video and map iframe, however, this brought the Lighthouse Validation score down and created errors within W3 Validator. Once this was removed, the score increased and W3 stated error free.
+
+![W3 Validator Error](./assets/images/documentation/error-w3-validator-alt.jpg)
+
+![W3 Validator Error-Free](./assets/images/documentation/error-w3-validator-fixed.jpg)
+
+2. Upon adding the back button on the submit page, the button became cut off when resizing to a smaller devise:
+
 
 ![Button back for mobile](./assets/images/documentation/error-submitmobile-cutoff.jpg)
 
 Issue was corrected by re-using the css for the contact page submit button:
 
 ![Button back for mobile](./assets/images/documentation/error-submitmobile-fixed.jpg)
+
+3. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
+were set as a percentage and were coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused an issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video for a smoother transition when resizing.
 
 
 ## Deployment
