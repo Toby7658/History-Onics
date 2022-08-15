@@ -13,6 +13,7 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 # Table of Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
+    * [User Interaction](<#user-interaction>)
     * [Wireframe](<#wireframe>)
     * [Structure of Site](<#structure-of-site>)
     * [Typography](<#typography>)
@@ -83,6 +84,13 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 
 
 # User Experience UX
+
+## User Interaction
+The aim of this site is to provide a one-stop source for knowledge of the country of Ireland. This is an informational site
+and is designed so as the user can access all information, both historical and touristic, without the need to search elsewhere.
+Although an informational website, the user can interact by social media and a contact page. As the site is responsive on all screens, the user can access the site while travelling and can keep returning as they navigate their way around Ireland. The site 
+is designed for the user to have quick access to information as they need it, including maps, brief descriptions and videos of each area. 
+
 ## Wireframe
 The mock-up for this project was created using [Balsamiq](https://balsamiq.com/wireframes/).
 Aspects of the mock-up have changed during production due to increasing user experience and 
