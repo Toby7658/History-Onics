@@ -452,6 +452,7 @@ Issue was corrected by re-using the css for the contact page submit button:
 3. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
 were set as a percentage and were coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused an issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video for a smoother transition when resizing.
 
+ [Back to top](<#Table-of-Contents>)
 
 ## Deployment
 1. Access *[Github](https://github.com/)* by signing into an account
@@ -466,6 +467,49 @@ were set as a percentage and were coming up as an error. The height and width we
 [Back to top](<#Table-of-Contents>)
 
 ## Credits
+
+* Mentor support and guidance from *[Jack Wachira](https://github.com/iamjackwachira)*.
+* Readme support and guidance from *[Michael McCarthy](https://github.com/mickymacirl)*
+* Peer-code-review from *[Harry Dhillon](https://github.com/Harry-Leepz)*.
+* Facilitator and support from *[Kenan Wright](https://github.com/KenanCarlWright/KenanCarlWright)*.
+* Facilitator and support from *[Kasia Bogucka](https://github.com/bezebee)*.
+* W3C School Collapse Sidepanel *[W3C School Collapse Sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburgerbar sidepanel.
+* W3C School Contact Form *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* - This assisted with developing the Contact Box on the Contact Us page.
+* W3C School About Us Page *[W3C School About Us](https://www.w3schools.com/howto/howto_css_about_page.asp)* - This assisted with developing the About Us page.
+* W3C School CSS Tutorial *[W3C School CSS Tutorial](https://www.w3schools.com/css/)* - Used for additional learning around the over-all basics of CSS.
+* W3C School Hamburger Bar Icon *[W3C School Hamburger Bar Icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)* - This assisted with developing the Hamburger Bar Icon.
+* W3C School Hamburger Bar side panel *[W3C School Hamburger Bar sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburger Bar side panel.
+* W3C School Hover *[W3C School Hover](https://www.w3schools.com/cssref/sel_hover.asp)* - This assisted with creating hover interaction when mouse-over menus.
+* W3C School Hover to grayscale *[W3C School Hover-Effects](https://www.w3schools.com/w3css/w3css_effects.asp)* - This assisted with creating hover with greyscale effects for the province block.
+* Linuxhint *[Linuxhint](https://linuxhint.com/html-meta-tag/)* - This assisted with gaining further knowledge around meta tags.
+* Navigation Menu *[Love Running](https://codeinstitute.net/ie/)* - This element was influenced by the Love Running module tutorial.
+* Markdown Guide *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* - This was used to understand the basic syntax for Markdown.
+* Youtube *[Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)* - Videos for each county are sourced via Youtube.
+* Youtube *[Youtube - The Heart of Ireland](https://www.youtube.com/embed/2dWYJkQlDg0)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Kerry by a Local](https://www.youtube.com/embed/zDWJL6rLnes)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Galway City](https://www.youtube.com/embed/ocJPdvALnow)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Mayos Historic Houses](https://www.youtube.com/embed/Kyl4NpYWAKs)* - Videos for each county are sourced via Youtube.
+* Youtube *[Youtube - Epic Dublin](https://www.youtube.com/embed/hO14hhzAaeo)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Carlow Hidden Gems](https://www.youtube.com/embed/ehl1dCF3cuA)* - Videos for each county are sourced via Youtube.
+* Youtube *[Youtube - The Fall of the House of Kildare](https://www.youtube.com/embed/P5pLGLF4Km4)* - Videos for each county are sourced via Youtube.
+* Youtube *[Youtube - Kilkenny](https://www.youtube.com/embed/tIKix6WE-4k)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Cork Military History](https://www.youtube.com/embed/wLfCrP9fGps)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - County Louth](https://www.youtube.com/embed/F842XAZCo30)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Donegal Tourism](https://www.youtube.com/embed/Lo81SEn13Kg)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Visit Cavan](https://www.youtube.com/embed/P_IsHs0PZUY)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Antrim Coast](https://www.youtube.com/embed/0h3cYy9Dw2M)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Tyrone](https://www.youtube.com/embed/oWakocgKgWg)* - Videos for each county is sourced via Youtube.
+* Youtube *[Youtube - Flavour of Ireland](https://www.youtube.com/embed/psRBvZtDkfc)* - Videos for each county are sourced via Youtube.
+* Youtube *[Youtube - Pocket History of Londonderry](https://www.youtube.com/embed/ykWLGa5XrIs)* - Videos for each county are sourced via Youtube.
+* Hero Image *[Google Images](https://images.google.com/)* - Image sourced via Google Images and originated via *[Cliffs of Moher](https://www.cliffsofmoher.ie/)*.
+* Munster Image *[Google Images](https://images.google.com/)* - Image sourced via Google Images and originated via *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product/quin-abbey//)*
+* Connacht Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[The Planet](https://theplanetd.com/poulnabrone-dolmen-ireland/)*.
+* Leinster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Meeting Select](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin/)*.
+* Ulster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Poster Lounge](https://www.posterlounge.com/p/738259.html)*.
+* Github *[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)* - This information assisted with understanding the syntax of Markdown.
+* Landing Page paragraph *[Power Trip](https://powertripshow.com/location/ireland/)* - Paragraph was taken and added to Landing Page introduction.
+* Landing Page paragraph *[Interview Area](https://www.interviewarea.com/faq/do-people-love-ireland)* - Two sentences taken and added to Landing Page introduction.
+* Volusion *[Volusion](https://www.volusion.com/)* - This was used to help create an introductory paragraph for the Landing Page.
 
 ### The following links will bring you to the original source for text used throughout the site: 
 
@@ -507,49 +551,7 @@ were set as a percentage and were coming up as an error. The height and width we
   Derry: *[Irish Central](https://www.irishcentral.com/travel/county-derry)*
   Armagh: *[Wikipedia](https://en.wikipedia.org/wiki/Armagh)*
 
-
-* Mentor support and guidance from *[Jack Wachira](https://github.com/iamjackwachira)*.
-* Readme support and guidance from *[Michael McCarthy](https://github.com/mickymacirl)*
-* Peer-code-review from *[Harry Dhillon](https://github.com/Harry-Leepz)*.
-* Facilitator and support from *[Kenan Wright](https://github.com/KenanCarlWright/KenanCarlWright)*.
-* Facilitator and support from *[Kasia Bogucka](https://github.com/bezebee)*.
-* W3C School Collapse Sidepanel *[W3C School Collapse Sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburgerbar.
-* W3C School Contact Form *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* - This assisted with developing the Contact Box on the Contact Us page.
-* W3C School About Us Page *[W3C School About Us](https://www.w3schools.com/howto/howto_css_about_page.asp)* - This assisted with developing the About Us page.
-* W3C School CSS Tutorial *[W3C School CSS Tutorial](https://www.w3schools.com/css/)* - Used for additional learning around the over-all basics of CSS.
-* W3C School Hamburger Bar Icon *[W3C School Hamburger Bar Icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)* - This assisted with developing the Hamburger Bar Icon.
-* W3C School Hamburger Bar side panel *[W3C School Hamburger Bar sidepanel](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)* - This assisted with developing the Hamburger Bar side panel.
-* W3C School Hover *[W3C School Hover](https://www.w3schools.com/cssref/sel_hover.asp)* - This assisted with creating hover interaction when mouse-over menus.
-* W3C School Hover to grayscale *[W3C School Hover-Effects](https://www.w3schools.com/w3css/w3css_effects.asp)* - This assisted with creating hover with greyscale effects for the province block.
-* Linuxhint *[Linuxhint](https://linuxhint.com/html-meta-tag/)* - This assisted with gaining further knowledge around meta tags.
-* Navigation Menu *[Love Running](https://codeinstitute.net/ie/)* - This element was influenced by the Love Running module tutorial.
-* Markdown Guide *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* - This was used to understand the basic syntax for Markdown.
-* Youtube *[Youtube - County By County Show](https://www.youtube.com/results?sp=mAEB&search_query=county+by+county+ireland+show)* - Videos for each county are sourced via Youtube.
-* Youtube *[Youtube - The Heart of Ireland](https://www.youtube.com/embed/2dWYJkQlDg0)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Kerry by a Local](https://www.youtube.com/embed/zDWJL6rLnes)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Galway City](https://www.youtube.com/embed/ocJPdvALnow)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Mayos Historic Houses](https://www.youtube.com/embed/Kyl4NpYWAKs)* - Videos for each county are sourced via Youtube.
-* Youtube *[Youtube - Epic Dublin](https://www.youtube.com/embed/hO14hhzAaeo)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Carlow Hidden Gems](https://www.youtube.com/embed/ehl1dCF3cuA)* - Videos for each county are sourced via Youtube.
-* Youtube *[Youtube - The Fall of the House of Kildare](https://www.youtube.com/embed/P5pLGLF4Km4)* - Videos for each county are sourced via Youtube.
-* Youtube *[Youtube - Kilkenny](https://www.youtube.com/embed/tIKix6WE-4k)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Cork Military History](https://www.youtube.com/embed/wLfCrP9fGps)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - County Louth](https://www.youtube.com/embed/F842XAZCo30)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Donegal Tourism](https://www.youtube.com/embed/Lo81SEn13Kg)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Visit Cavan](https://www.youtube.com/embed/P_IsHs0PZUY)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Antrim Coast](https://www.youtube.com/embed/0h3cYy9Dw2M)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Tyrone](https://www.youtube.com/embed/oWakocgKgWg)* - Videos for each county is sourced via Youtube.
-* Youtube *[Youtube - Flavour of Ireland](https://www.youtube.com/embed/psRBvZtDkfc)* - Videos for each county are sourced via Youtube.
-* Youtube *[Youtube - Pocket History of Londonderry](https://www.youtube.com/embed/ykWLGa5XrIs)* - Videos for each county are sourced via Youtube.
-* Hero Image *[Google Images](https://images.google.com/)* - Image sourced via Google Images and originated via *[Cliffs of Moher](https://www.cliffsofmoher.ie/)*.
-* Munster Image *[Google Images](https://images.google.com/)* - Image sourced via Google Images and originated via *[Atlantic Way Touring](https://www.atlanticwaytouring.com/product/quin-abbey//)*
-* Connacht Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[The Planet](https://theplanetd.com/poulnabrone-dolmen-ireland/)*.
-* Leinster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Meeting Select](https://www.meetingselect.com/en/venue/trinity-college-university-of-dublin/)*.
-* Ulster Image *[Google Images](https://images.google.com/)* - Image was sources via Google Images and originated via *[Poster Lounge](https://www.posterlounge.com/p/738259.html)*.
-* Github *[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)* - This information assisted with understanding the syntax of Markdown.
-* Landing Page paragraph *[Power Trip](https://powertripshow.com/location/ireland/)* - Paragraph was taken and added to Landing Page introduction.
-* Landing Page paragraph *[Interview Area](https://www.interviewarea.com/faq/do-people-love-ireland)* - Two sentences taken and added to Landing Page introduction.
-* Volusion *[Volusion](https://www.volusion.com/)* - This was used to help create an introductory paragraph for the Landing Page.
+ [Back to top](<#Table-of-Contents>)
 
 ## Code Used
  * [HTML](https://en.wikipedia.org/wiki/HTML5)
