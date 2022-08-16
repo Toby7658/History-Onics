@@ -436,6 +436,7 @@ input[type=submit]:hover {
     height: auto;
     margin-right: 3%;
     margin-left: 3%;
+    text-align: left;
   }
 
   .column {
