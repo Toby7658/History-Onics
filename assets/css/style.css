@@ -477,7 +477,8 @@ input[type=submit]:hover {
   h2 {
     text-transform: none;
     letter-spacing: 1px;
-    text-align: left;
+    text-align: center;
+
   }
 
   #funpage input[type=submit] {
