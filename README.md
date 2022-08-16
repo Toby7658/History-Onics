@@ -14,6 +14,7 @@ Link to live site - [HistoryOnics](https://toby7658.github.io/History-Onics/)
 
 * [**User Experience UX**](<#user-experience-ux>)
     * [User Interaction](<#user-interaction>)
+    * [User Stories](#user-stories>)
     * [Wireframe](<#wireframe>)
     * [Structure of Site](<#structure-of-site>)
     * [Typography](<#typography>)
@@ -90,6 +91,15 @@ The aim of this site is to provide a one-stop source for knowledge of the countr
 and is designed so as the user can access all information, both historical and touristic, without the need to search elsewhere.
 Although an informational website, the user can interact by social media and a contact page. As the site is responsive on all screens, the user can access the site while travelling and can keep returning as they navigate their way around Ireland. The site 
 is designed for the user to have quick access to information as they need it, including maps, brief descriptions and videos of each area. 
+
+## User Stories
+As a user, I want a website which provides easy access tourist information for the whole of Ireland.
+As a user, I want a website which provides video information and maps to assist with locating areas and places of interest.
+As a user, I want to easily navigate to each county and learn about the areas.
+As a user, I want to learn more about the website providers.
+As a user, I want to have access to the site social media.
+As a user, I want a site which allows me to repeat visit for information as I travel around each county of Ireland.
+As a user, I want to have the ability to contact the site for information and queries.
 
 ## Wireframe
 The mock-up for this project was created using [Balsamiq](https://balsamiq.com/wireframes/).

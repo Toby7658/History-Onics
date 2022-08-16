@@ -278,13 +278,15 @@ h2 {
 /* footer */
 
 footer {
-  position: relative;
+  position: absolute;
   width: 100%;
   height: auto;
   margin-top: 50px;
   text-align: center;
   font-size: x-large;
   overflow: hidden;
+  position: absolute;
+
 }
 
 
