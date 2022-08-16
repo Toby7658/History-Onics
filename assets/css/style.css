@@ -355,7 +355,7 @@ input[type=submit]:hover {
   float: left;
   width: 40%;
   height: auto;
-  text-align: center;
+  text-align: left;
   margin-bottom: 2%;
   margin-right: 5%;
   margin-left: 5%;
@@ -442,7 +442,7 @@ input[type=submit]:hover {
     float: left;
     width: 96%;
     height: auto;
-    text-align: center;
+    text-align: left;
     margin: 0;
     margin-bottom: 2%;
   }
@@ -477,6 +477,7 @@ input[type=submit]:hover {
   h2 {
     text-transform: none;
     letter-spacing: 1px;
+    text-align: left;
   }
 
   #funpage input[type=submit] {
@@ -497,7 +498,7 @@ input[type=submit]:hover {
     float: left;
     width: 98%;
     height: auto;
-    text-align: center;
+    text-align: left;
     margin: 0;
     margin-bottom: 2%;
   }
@@ -507,7 +508,7 @@ input[type=submit]:hover {
   #leinster,
   #ulster {
     font-size: 7px;
-    text-align: center;
+    text-align: left;
   }
 
   .menu {
