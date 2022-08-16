@@ -476,14 +476,14 @@ were set as a percentage and were coming up as an error. The height and width we
 7. Once saved, the site will take time to refresh while it goes public. 
 8. A link will appear stating (eg. of my account): Your site is live at https://toby7658.github.io/History-Onics/
 
-## **Forking the GitHub Repository **
+## Forking the GitHub Repository 
 By forking the GitHub Repository, a copy of the repository can be viewed or amended without affecting the original repository.
 1. Log into GitHub to access the GitHub Repository,
 2. At the top-right-hand side of the screen, locate "Fork",
 3. Click on the "Fork" tab,
 4. You now have a copy of the original repository in your GitHub account.
 
-## ** Cloning the Github Repository **
+## Cloning the Github Repository 
 1. Log into GitHub to access the GitHub Repository,
 2. Under the settings button, click on the tab "Code",
 3. This will open a dropdown box,
