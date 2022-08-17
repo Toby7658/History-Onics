@@ -46,6 +46,7 @@ h2 {
   width: 50%;
   background-color: #2f4f4f;
   overflow: auto;
+  cursor: pointer;
 }
 
 .menu a {
@@ -60,11 +61,10 @@ h2 {
   background-color: darkkhaki;
 }
 
-.navbar {
-  background-color: darkkhaki;
-  float: right;
-
+.active .menu:hover {
+  border-bottom: 1px solid darkkhaki;
 }
+
 
 /* The hamburgerbar - overrides for smaller screens */
 .sidebar {
