@@ -464,6 +464,23 @@ Issue was corrected by re-using the css for the contact page submit button:
 3. When validating the Visit pages on Lighthouse, errors appeared for all iframes. It was noted that height and width 
 were set as a percentage and were coming up as an error. The height and width were changed to " " which solved the immediate issue. This then caused an issue with the map overlapping with the video upon decreasing the screen size. This issue was fixed by reducing the size of the map and video for a smoother transition when resizing.
 
+4. Github Error - When pushing commits to the repository, a warning appeared advising a file, core.3260 was too big. 
+I was unsure what this file was or where it came from. I researched online, however, this did not assist with understanding the problem. I reached out to the Stack Community and was advised it was cashed files. I undertook further research online and attempted to .gitignore, however, the file seemed to be stuck between a commit and a push.
+I was unable to resolve the issue so I completed a gitlog and went through commits to see where the issue arose. 
+I was then able to complete a gitreset --hardcode to the point where I would not lose vital information but be able to 
+go back to a point where I could again push commits. This issue was then resolved and I could commit and push commits as usual.
+
+## Learning
+* The need for "git status" is required to see what is waiting in line.
+* The need for "gitlog" to see and track all commits todate.
+* The need for "git add" as opposed to "git add ." to ensure I am committing what I need as opposed to all waiting in line.
+* The need for "git reset --hard code" - Only to be used with care so as not to lose valuable information. 
+* Keep the server down while saving changes as the server may be running other small programs in the background.
+
+![Github Error](./assets/images/documentation/error.jpg)
+
+
+
  [Back to top](<#Table-of-Contents>)
 
 ## Deployment
