@@ -472,13 +472,12 @@ go back to a point where I could again push commits. This issue was then resolve
 
 ## Learning
 * The need for "git status" is required to see what is waiting in line.
-* The need for "gitlog" to see and track all commits todate.
+* The need for "gitlog" to see and track all commits to date.
 * The need for "git add" as opposed to "git add ." to ensure I am committing what I need as opposed to all waiting in line.
 * The need for "git reset --hard code" - Only to be used with care so as not to lose valuable information. 
 * Keep the server down while saving changes as the server may be running other small programs in the background.
 
 ![Github Error](./assets/images/documentation/error.jpg)
-
 
 
  [Back to top](<#Table-of-Contents>)
